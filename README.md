@@ -40,7 +40,7 @@ Images used in the paper or relevant to the project.
 
 ### Data Files
 
-- **Cognitive Load of Classes.xlsx.xlsx:** Spreadsheet with the ICP count of each project class across different workshop phases.
+- **Cognitive Load of Classes.xlsx:** Spreadsheet with the ICP count of each project class across different workshop phases.
 - **Project Commits.xlsx:** Spreadsheet integrating the team's development tasks in Trello with the commits made by members.
 - **Tables.xlsx:** Spreadsheet with all the tables that were added to the article, separated by tabs.
 - **trello-produto-mobile.json:** Trello export file with the team's development tasks.

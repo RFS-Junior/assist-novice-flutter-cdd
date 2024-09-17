@@ -1,6 +1,19 @@
+Aqui está o README atualizado com as melhorias sugeridas:
 # Research Project: Assisting Novice Developers Learning in Flutter Through Cognitive-Driven Development
 
 This repository contains the artifacts used in the paper "Assisting Novice Developers Learning in Flutter Through Cognitive-Driven Development" and is organized as described below. The aim is to ensure that other researchers can access, understand, and reuse the data and materials contained here.
+
+## Paper Link
+The full paper "Assisting Novice Developers Learning in Flutter Through Cognitive-Driven Development" can be accessed [here](https://arxiv.org/abs/2408.11209).
+
+## Study Context
+This study investigates the use of Cognitive-Driven Development (CDD) as an educational tool in a 5-week workshop for novice developers learning Flutter. CDD employs Intrinsic Complexity Points (ICPs), a metric of the approach, to manage cognitive load and aims to improve code maintainability. In the workshop, participants, who were unfamiliar with both Flutter and CDD, were trained to apply these principles in developing a software management application, demonstrating CDD's effectiveness in an educational setting.
+
+## Data Provenance
+The data in this repository was gathered during a 5-week workshop with novice developers using Flutter. It comprises control spreadsheets, project management data (from Trello), meeting notes, interview transcripts, and summaries. All data has been anonymized and was collected with the informed consent of participants.
+
+## Ethical and Legal Statements
+All participants in this study provided informed consent before the interviews and meetings were recorded. Participants' data has been anonymized to safeguard their identities, and the recordings have been carefully edited to include only the topics pertinent to the research.
 
 ## Folder Structure
 
@@ -46,19 +59,36 @@ Images used in the paper or relevant to the project.
 - **trello-produto-mobile.json:** Trello export file with the team's development tasks.
 - **trello-retrospectiva.json:** Trello export file with notes made by team members during the retrospectives of each sprint, focusing on CDD.
 
-## How to Use
+## Reproducibility Instructions
+To reproduce the LOC chart used in the paper:
+1. Open the `/figure/LOC.png` file to view the chart.
+2. If you wish to regenerate the chart, use the `Project Commits.xlsx` file to analyze the commit history and lines of code.
+3. A script to generate this chart from the commit data is available [here](URL_DO_SCRIPT). Run the script with Python version 3.12 and the following dependency: matplotlib.
 
-All files are available for consultation and download. To reproduce the study's results or conduct new analyses, follow the detailed instructions below:
+## Reproducibility Instructions
 
-1. **Navigate through the folders:** Use the folder structure to locate the artifacts of interest.
-2. **Consulting ICPs:** The PDF files in `/ICPs tables` contain the versions of the ICP collection used for analysis.
-3. **Reviewing interviews:** Summaries, transcripts, and recordings can be found in the `/Interview` folder.
-4. **Meeting data:** Documentation related to meetings is available in the `/Meetings` folder.
-5. **Images:** Figures used in the paper are in the `/figure` folder.
-6. **Spreadsheets and Trello Data:** Spreadsheets related to the project's development and Trello exports are available in the root of the `/data` folder.
+To reproduce the Line of Code (LOC) charts used in the study:
+
+1. **View Existing Chart**:
+   - Open the `/figure/LOC.png` file to view the pre-generated LOC chart used in the paper.
+
+2. **Regenerate the Chart**:
+   - To regenerate the LOC chart, use the `Project Commits.xlsx` file to analyze the commit history and lines of code.
+
+3. **Google Colab Notebook**:
+   - A complete implementation for generating the LOC charts is provided in the Google Colab notebook. Access the notebook [here](https://colab.research.google.com/drive/13ummg-lgIX6eD2R-s-hv1-vdQsg0Y3P-).
+   - Open the notebook and run the cells sequentially to produce the LOC charts for both the last sprint and the refactoring phase.
+
+## Storage Requirements
+The total size of the data in this repository is approximately 455.27 MB. To download and interact with all files, ensure you have at least 500 MB of free disk space. Some files, such as large audio recordings, may require specific media players compatible with MP3 format.
+
+## Archival Repository
+This artifact is archived in `figshare` and can be cited using the following DOI: [https://figshare.com/articles/software/assist-novice-flutter-cdd/27042199](https://figshare.com/articles/software/assist-novice-flutter-cdd/27042199). Additionally, the project is available on GitHub at: [https://github.com/RFS-Junior/assist-novice-flutter-cdd](https://github.com/RFS-Junior/assist-novice-flutter-cdd).
+
+## Language Note
+All ICP tables and interview transcripts are available in Portuguese. Translation of key elements to English is currently in progress. For non-Portuguese speakers, please refer to the translated summaries and ICP tables available [here](URL_DAS_TABELAS_TRADUZIDAS).
 
 ## License
-
 The files in this repository are distributed under the [Creative Commons Zero v1.0 Universal License (CC0)](https://creativecommons.org/publicdomain/zero/1.0/). This license dedicates the work to the worldwide public domain, allowing it to be freely used, modified, and shared without any copyright restrictions. Please refer to the LICENSE file for full details. Note that this license disclaims warranties, similar to the Unlicense.
 
 For more information or questions, please contact the study's authors.

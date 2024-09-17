@@ -59,12 +59,6 @@ Images used in the paper or relevant to the project.
 - **trello-retrospectiva.json:** Trello export file with notes made by team members during the retrospectives of each sprint, focusing on CDD.
 
 ## Reproducibility Instructions
-To reproduce the LOC chart used in the paper:
-1. Open the `/figure/LOC.png` file to view the chart.
-2. If you wish to regenerate the chart, use the `Project Commits.xlsx` file to analyze the commit history and lines of code.
-3. A script to generate this chart from the commit data is available [here](URL_DO_SCRIPT). Run the script with Python version 3.12 and the following dependency: matplotlib.
-
-## Reproducibility Instructions
 
 To reproduce the Line of Code (LOC) charts used in the study:
 

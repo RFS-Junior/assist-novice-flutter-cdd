@@ -3,7 +3,7 @@
 This repository contains the artifacts used in the paper "Assisting Novice Developers Learning in Flutter Through Cognitive-Driven Development" and is organized as described below. The aim is to ensure that other researchers can access, understand, and reuse the data and materials contained here.
 
 ## Paper Link
-The full paper "Assisting Novice Developers Learning in Flutter Through Cognitive-Driven Development" can be accessed [here](https://arxiv.org/abs/2408.11209).
+The full paper "Assisting Novice Developers Learning in Flutter Through Cognitive-Driven Development" can be accessed here: [https://arxiv.org/abs/2408.11209](https://arxiv.org/abs/2408.11209).
 
 ## Study Context
 This study investigates the use of Cognitive-Driven Development (CDD) as an educational tool in a 5-week workshop for novice developers learning Flutter. CDD employs Intrinsic Complexity Points (ICPs), a metric of the approach, to manage cognitive load and aims to improve code maintainability. In the workshop, participants, who were unfamiliar with both Flutter and CDD, were trained to apply these principles in developing a software management application, demonstrating CDD's effectiveness in an educational setting.
@@ -69,7 +69,7 @@ To reproduce the Line of Code (LOC) charts used in the study:
    - To regenerate the LOC chart, use the `Project Commits.xlsx` file to analyze the commit history and lines of code.
 
 3. **Google Colab Notebook**:
-   - A complete implementation for generating the LOC charts is provided in the Google Colab notebook. Access the notebook [here](https://colab.research.google.com/drive/13ummg-lgIX6eD2R-s-hv1-vdQsg0Y3P-).
+   - A complete implementation for generating the LOC charts is provided in the Google Colab notebook. Access the notebook [https://colab.research.google.com/drive/13ummg-lgIX6eD2R-s-hv1-vdQsg0Y3P-](https://colab.research.google.com/drive/13ummg-lgIX6eD2R-s-hv1-vdQsg0Y3P-).
    - Open the notebook and run the cells sequentially to produce the LOC charts for both the last sprint and the refactoring phase.
 
 ## Storage Requirements

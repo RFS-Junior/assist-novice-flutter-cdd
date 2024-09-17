@@ -1,4 +1,3 @@
-Aqui está o README atualizado com as melhorias sugeridas:
 # Research Project: Assisting Novice Developers Learning in Flutter Through Cognitive-Driven Development
 
 This repository contains the artifacts used in the paper "Assisting Novice Developers Learning in Flutter Through Cognitive-Driven Development" and is organized as described below. The aim is to ensure that other researchers can access, understand, and reuse the data and materials contained here.

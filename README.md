@@ -79,7 +79,7 @@ The total size of the data in this repository is approximately 455.27 MB. To dow
 This artifact is archived in `figshare` and can be cited using the following DOI: [https://figshare.com/articles/software/assist-novice-flutter-cdd/27042199](https://figshare.com/articles/software/assist-novice-flutter-cdd/27042199). Additionally, the project is available on GitHub at: [https://github.com/RFS-Junior/assist-novice-flutter-cdd](https://github.com/RFS-Junior/assist-novice-flutter-cdd).
 
 ## Language Note
-All ICP tables and interview transcripts are available in Portuguese. Translation of key elements to English is currently in progress. For non-Portuguese speakers, please refer to the translated summaries and ICP tables available [here](URL_DAS_TABELAS_TRADUZIDAS).
+All ICP tables and interview transcripts are available in Portuguese.
 
 ## License
 The files in this repository are distributed under the [Creative Commons Zero v1.0 Universal License (CC0)](https://creativecommons.org/publicdomain/zero/1.0/). This license dedicates the work to the worldwide public domain, allowing it to be freely used, modified, and shared without any copyright restrictions. Please refer to the LICENSE file for full details. Note that this license disclaims warranties, similar to the Unlicense.

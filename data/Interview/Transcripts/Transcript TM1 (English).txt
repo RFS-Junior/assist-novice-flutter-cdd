@@ -1,0 +1,944 @@
+00:00:03 SPK_1
+First, starting ...
+
+00:00:06 SPK_1
+First, thank you for participating in it.
+
+00:00:08 SPK_1
+The idea we are doing here in this interview is to think about how was the use of CDD, how was the process using the CDD on Flutter and what were the individual experiences you had about all this practice, this whole process of CDD, I start to the end, within this practical project.
+
+00:00:30 SPK_1
+So, the first thing I wanted to understand, to make it clear too, what was your role inside the team?
+
+00:00:38 SPK_1
+What did you do there specifically?
+
+00:00:42 SPK_2
+I started on the mobile team.
+
+00:00:46 SPK_2
+And then I made some screens, but mostly dealing with managing the state of the data that arrived.
+
+00:00:57 SPK_2
+Where we stored them to show off.
+
+00:01:02 SPK_2
+And do some operations.
+
+00:01:05 SPK_1
+What activities were you more focused on?
+
+00:01:07 SPK_1
+What is the system of the system?
+
+00:01:09 SPK_1
+Had one like that you think you focused more on?
+
+00:01:12 SPK_1
+What did you understand the most?
+
+00:01:13 SPK_2
+No.
+
+00:01:14 SPK_2
+I ended up doing a little of everything.
+
+00:01:16 SPK_1
+Ah, it was more general, right?
+
+00:01:19 SPK_1
+AND.
+
+00:01:20 SPK_1
+Beauty, I understood.
+
+00:01:21 SPK_1
+How would you explain the CDD to a colleague of yours?
+
+00:01:28 SPK_2
+I would say it is a methodology in which we determine a degree of complexity for some things in the code, determines a limit to this complexity.
+
+00:01:43 SPK_2
+And then we are writing the code and if its complexity passes the limit, we have to review the code.
+
+00:01:53 SPK_1
+Would you say that you understood the concept well?
+
+00:01:57 SPK_1
+Until the end of the project did you understand the concept well?
+
+00:02:00 SPK_2
+I think so.
+
+00:02:02 SPK_1
+You think that, looking generally the CDD and the activities, the approach, you think it was a quiet thing to do, it matched a lot with the activities, and you got it first, especially us, actually you got it first, first, Could you do the activities, or was it another gradual process, which at first answered questions and after having a better understanding of it?
+
+00:02:30 SPK_2
+It was another gradual process, because it was the first time I worked with some methodology like that, and at first it had more difficulty understanding what should and should not be considered, the points of complexity of each thing, but then it was getting something more fluid.
+
+00:02:56 SPK_2
+At the time of accounting the points was already getting quieter to do.
+
+00:03:01 SPK_1
+You say that your doubts of the beginning was more about the items of the table, for example, than the concept itself.
+
+00:03:07 SPK_1
+Is it this or is it different?
+
+00:03:11 SPK_2
+Oh no, that's right.
+
+00:03:13 SPK_1
+Is there any special item that took time to understand you?
+
+00:03:18 SPK_2
+No, I don't remember now because I couldn't see the table because I didn't find it here.
+
+00:03:24 SPK_1
+It is good too.
+
+00:03:28 SPK_1
+What do you think was more useful on the CDD?
+
+00:03:30 SPK_1
+We are speaking in general.
+
+00:03:31 SPK_1
+What do you think was more useful in using the CDD in the project?
+
+00:03:38 SPK_2
+More useful?
+
+00:03:44 SPK_2
+I think the same limit of points, that after we made a good determination of what was the limit, what were the points of each thing, many classes passed this limit and they were really very complex to understand.
+
+00:04:04 SPK_2
+And we managed to make them simpler.
+
+00:04:08 SPK_2
+The CDD warned us about it.
+
+00:04:10 SPK_2
+It was easy to identify.
+
+00:04:12 SPK_1
+I understood.
+
+00:04:13 SPK_1
+Is there anything you thought it was not useful?
+
+00:04:15 SPK_1
+Or that was less useful, that did not help the CDD much?
+
+00:04:23 SPK_2
+I don't think so.
+
+00:04:26 SPK_2
+I think everything in it can take some analysis.
+
+00:04:30 SPK_1
+I understood.
+
+00:04:30 SPK_1
+Had any specific step that you found more interesting or that you liked to accomplish?
+
+00:04:39 SPK_2
+I liked to do it better, after we saw that they passed the limit, to make the refactor.
+
+00:04:46 SPK_1
+I understood.
+
+00:04:49 SPK_1
+Looking, from what you remember the ICP table, the latest version, which was the refactoring version, do you remember agreeing with everything you had there?
+
+00:05:00 SPK_1
+Or did you have any item that bothered you, which you didn't understand very well yet?
+
+00:05:06 SPK_1
+Because it was a collective agreement of the team, the items, but it depends only on you.
+
+00:05:13 SPK_1
+Was there any item that you would change or do you agree with everything?
+
+00:05:19 SPK_2
+From what I remember, I agreed with everything, it was well defined.
+
+00:05:25 SPK_1
+In the end, you understood all the items, although in the beginning, as you said, did not understand very well, but in the end, you even understood everyone.
+
+00:05:34 SPK_2
+Yes.
+
+00:05:35 SPK_2
+I think the delayed, more detailed process is precisely that, checking the complexity of each thing, defining a table that will not change much over time, but is not difficult to follow either, be exaggerated.
+
+00:05:58 SPK_1
+Do you think this process we did about, at each meeting we made retrospective, taking a look at the table, that was more beneficial, helped refine more, or do you think you got in the way?
+
+00:06:11 SPK_1
+Can a constant change be more disturbed?
+
+00:06:16 SPK_2
+I think it helped more to refine, because since everyone was learning yet to use Flutter, we had just learned, we were still getting used to how to build things, some libraries too, so I think it's this meeting every week to Checking the table was very useful, as our level of understanding about Flutter was changing each week.
+
+00:06:48 SPK_1
+I understood.
+
+00:06:49 SPK_1
+Do you think a gradual process to add item would be better than the process we did?
+
+00:06:57 SPK_1
+For example, we define an initial table and followed with it and only took items later.
+
+00:07:04 SPK_1
+Some items were losing meaning.
+
+00:07:06 SPK_1
+I think this process of building the table should be different.
+
+00:07:11 SPK_1
+I think it should be more gradual too.
+
+00:07:24 SPK_2
+I think maybe if we first did a ...
+
+00:07:30 SPK_2
+Very basic version of the application and analyze if everything to add a table, instead of doing the table first, I think it would be more interesting.
+
+00:07:40 SPK_1
+I understood.
+
+00:07:43 SPK_1
+Do you remember when building this table, including items or defining its cost, had a lot of disagreement for the team?
+
+00:07:52 SPK_1
+Or was it another process that everyone usually agreed at first?
+
+00:07:59 SPK_2
+No, they had a few times I disagreed.
+
+00:08:03 SPK_1
+Do you have any specific situation?
+
+00:08:07 SPK_2
+I think I remember one that had in the table, it was Row and Col, which was there complexity for that, then I thought I didn't need to.
+
+00:08:20 SPK_2
+In fact, I think at first I thought I needed it and after not.
+
+00:08:23 SPK_2
+Then at some point I do not disagree.
+
+00:08:27 SPK_1
+Why you ...
+
+00:08:29 SPK_1
+What did you find unlike the team right now?
+
+00:08:38 SPK_2
+The time I remember was because they thought it was necessary to have this complexity and I thought I wasn't having an impact on our team and on complexity.
+
+00:08:53 SPK_1
+Do you remember any detail of that?
+
+00:08:56 SPK_1
+Why did you think you didn't impact?
+
+00:09:00 SPK_2
+Because for me I had no complexity.
+
+00:09:04 SPK_2
+He was just adding points, but these points were not reflecting to me what the reality would be.
+
+00:09:11 SPK_1
+I understood.
+
+00:09:13 SPK_1
+When it comes to building the table, choosing the items, what were the personal criteria that you thought to decide whether the item was an ICP or not?
+
+00:09:26 SPK_1
+If we would add to the table or not?
+
+00:09:32 SPK_2
+Personal.
+
+00:09:34 SPK_1
+I will give an example here, just to encourage you to reflect.
+
+00:09:39 SPK_1
+For example, when I'm going to buy a shirt, I choose a color that I like, I choose a size, if I want a tighter or looser shirt, I choose the style, a polo shirt, a social shirt.
+
+00:09:49 SPK_1
+These are the criteria I have to choose which shirt I will buy.
+
+00:09:54 SPK_1
+What were the criteria you had to think of an ICP item to add to the table?
+
+00:10:03 SPK_2
+I think the frequency with which I used it.
+
+00:10:08 SPK_1
+The frequency that uses it, I understood.
+
+00:10:11 SPK_2
+AND.
+
+00:10:11 SPK_2
+Also because if I use a lot, I think it doesn't get that complex for me.
+
+00:10:19 SPK_1
+In this case, this would be a criterion not to add the table, is that it?
+
+00:10:24 SPK_2
+Yeah, or to decrease the points.
+
+00:10:28 SPK_1
+And do you have one to add the table?
+
+00:10:33 SPK_2
+To add.
+
+00:10:38 SPK_2
+To add were more things I didn't understand how it worked right.
+
+00:10:43 SPK_2
+For example, the only thing I remember is from the Block Library.
+
+00:10:52 SPK_2
+So if any component used her, she understood more or less what she was doing, but not well, as she was implemented there.
+
+00:11:04 SPK_2
+It turned out that it was a little confusing for me.
+
+00:11:06 SPK_1
+I understood.
+
+00:11:10 SPK_1
+At your moment there, in your Codar process, to make the necessary codes, how did you consult the table?
+
+00:11:19 SPK_1
+Did you frequently consult or were it once and in?
+
+00:11:24 SPK_1
+A guide that you looked from time to time?
+
+00:11:26 SPK_1
+Or was it a map that you opened along with your code and kept developing and looking at the table at the same time?
+
+00:11:32 SPK_1
+Or not?
+
+00:11:34 SPK_2
+No, I developed the code, then when I was ready, at least to have some view of it, then I opened the table and counting the points.
+
+00:11:48 SPK_1
+I understood.
+
+00:11:52 SPK_1
+How was your process of identifying, pointing there in the code and calculating the ECPs?
+
+00:11:59 SPK_1
+You think it was an easy process, it was quiet, it was hard, was it boring?
+
+00:12:06 SPK_1
+How was it?
+
+00:12:09 SPK_2
+At first, yes, it was more boring because there was no head yet the values, nor what was accounted for.
+
+00:12:18 SPK_2
+But over time I was memorizing it, and then it was easier, so.
+
+00:12:24 SPK_2
+Sometimes I opened the same table for when I was doubtful, how much, how much was it or if it was there or not.
+
+00:12:32 SPK_2
+But it usually did this count always at the end.
+
+00:12:35 SPK_1
+I understood.
+
+00:12:36 SPK_1
+There was some class or some time, right, that it was challenging to do this manually?
+
+00:12:44 SPK_2
+No, I don't think so.
+
+00:12:46 SPK_1
+Overall was it quiet?
+
+00:12:49 SPK_1
+AND.
+
+00:12:51 SPK_1
+There were moments that you would leave the CDD aside, which you didn't even remember, that you just really looked at the code and forgot CDD?
+
+00:13:01 SPK_2
+Only if, for example, if I had any cards there, some task to do, which was very difficult, then I would focus a lot on it and leave it just for the time to deliver, to count points.
+
+00:13:15 SPK_1
+Did you exceed the ICPs limit of a class frequently or was it only once in a while?
+
+00:13:27 SPK_2
+I think when ...
+
+00:13:31 SPK_2
+I did not go over while I was developing, but after I had, I think it was the last change in the table, then some classes I had worked out ended up from the limit.
+
+00:13:45 SPK_1
+Do you think these changes that were made in refactoring really improved the complexity of that class, the eligibility?
+
+00:13:55 SPK_2
+Yes, it improved for sure.
+
+00:13:58 SPK_1
+Do you remember an example of any class you can describe?
+
+00:14:07 SPK_2
+I think the example you have most in my head now is from ...
+
+00:14:14 SPK_2
+That sub -pride there, Main was very big like that, very complex there later refactor and it was very simple.
+
+00:14:24 SPK_1
+Do you remember that it made her complex?
+
+00:14:26 SPK_1
+Was it just the size?
+
+00:14:29 SPK_2
+It was a ...
+
+00:14:29 SPK_2
+Because she managed many things had authentication management, from ...
+
+00:14:36 SPK_2
+of state, some ...
+
+00:14:39 SPK_2
+Some user data from demands, there was a lot in the same place.
+
+00:14:48 SPK_1
+I understood.
+
+00:14:50 SPK_1
+Overall, when you were going to refact, when you saw how the class went through the limit it could have, what was the strategy you used to solve this class problem to have a complexity above allowed?
+
+00:15:12 SPK_2
+Sometimes, depending on what it was, I component some widget that had very complex, divided it into parts.
+
+00:15:25 SPK_2
+And when it was a matter of basic programming logic, like one or something, I tried to put within a separate function.
+
+00:15:42 SPK_1
+Had any ICP, any item in the table that you thought was more critical when you were going to solve the problems?
+
+00:15:53 SPK_2
+Critical?
+
+00:15:55 SPK_2
+I don't know if it's quite what you mean, but I thought a lot about the coupling issue, because sometimes it was usually more worth making a coupling than leaving that piece very complex.
+
+00:16:13 SPK_1
+I understood.
+
+00:16:15 SPK_1
+This piece that you draw to another widget, so I understood you to another widget and coupled with it.
+
+00:16:24 SPK_1
+What were these items that would be the critical items that you usually looked to try to get out of the class?
+
+00:16:33 SPK_1
+What table categories did you try to do this?
+
+00:16:38 SPK_2
+I think most of the time were components that needed a state, for example, who received some data from the firebase we used, for example, that needed to listen ...
+
+00:17:01 SPK_2
+I needed to get the data, for example, from a manager or student or demands.
+
+00:17:07 SPK_2
+Then as there was a whole management around it became more complex.
+
+00:17:12 SPK_2
+Sought to extract this.
+
+00:17:17 SPK_1
+There was some item that you thought was a priority for you than another.
+
+00:17:22 SPK_1
+Or you saw everyone on the same line.
+
+00:17:27 SPK_2
+I didn't see everyone on the same line.
+
+00:17:29 SPK_1
+In the table, do you think there is a slightly deeper division as it was done?
+
+00:17:34 SPK_1
+For example, we have asynchronous functions there.
+
+00:17:38 SPK_1
+We have a cost for creation and another cost for manipulation.
+
+00:17:43 SPK_1
+They are different costs.
+
+00:17:45 SPK_1
+Do you think this made sense or would it be better to unify these items for one cost?
+
+00:17:52 SPK_2
+I don't think it makes sense to divide.
+
+00:17:55 SPK_1
+Why?
+
+00:18:00 SPK_2
+I think there are cases where it is really different even the complexity of using and creating that synchronous function to stream.
+
+00:18:10 SPK_1
+I got it, ok.
+
+00:18:14 SPK_1
+So, looking at everything you experienced, you experienced the CDD on Flutter, can you tell me what were the positive impacts that the CDD generated on the project?
+
+00:18:32 SPK_2
+He made the classes even simpler, easier to understand.
+
+00:18:40 SPK_2
+I think that's right.
+
+00:18:43 SPK_1
+Did you see any negative impact?
+
+00:18:47 SPK_1
+Did you get in the way of something?
+
+00:18:50 SPK_1
+Did you have any negative impact?
+
+00:18:53 SPK_2
+No, negative no.
+
+00:18:58 SPK_1
+For example, you now spoke of the positive impact.
+
+00:19:01 SPK_1
+What was the moment you felt this?
+
+00:19:04 SPK_1
+From the beginning, did you realize that this was a positive impact?
+
+00:19:08 SPK_1
+Or did you have any other stage in half of the project or to the end of the project?
+
+00:19:13 SPK_1
+Did you have some time that you felt this positive impact?
+
+00:19:18 SPK_2
+I think it was more noticeable at the end, because even if we weren't using some kind of architecture for the project.
+
+00:19:30 SPK_2
+I think the CDD, because it limits the complexity of the classes, ended up making a little more organized.
+
+00:19:37 SPK_2
+A little, like this.
+
+00:19:39 SPK_2
+That was the positive impact.
+
+00:19:42 SPK_2
+Now, negative, none.
+
+00:19:46 SPK_1
+What indicator would you show this positive impact?
+
+00:19:54 SPK_1
+An indicator that would bring this positive impact on the CDB.
+
+00:19:59 SPK_2
+I think the clearest would be the class line of the class, which was decreasing over time, and the increase in the number of files.
+
+00:20:17 SPK_2
+I think it indicates that we were separating each thing better.
+
+00:20:22 SPK_1
+I understood.
+
+00:20:26 SPK_1
+Do you see any benefit in using the CDD?
+
+00:20:31 SPK_2
+Ah, there was ...
+
+00:20:33 SPK_2
+He can talk.
+
+00:20:33 SPK_2
+Hey?
+
+00:20:34 SPK_1
+You can talk, sorry.
+
+00:20:36 SPK_2
+Oh, there was this benefit that became simpler to understand the classes, right?
+
+00:20:41 SPK_2
+It avoided creating gigantic and complex classes and was organized as well.
+
+00:20:48 SPK_2
+Even though it is not the intention, being the goal.
+
+00:20:54 SPK_1
+I understood.
+
+00:20:57 SPK_1
+Is the code easier to understand with the CDD?
+
+00:21:04 SPK_2
+It was left.
+
+00:21:06 SPK_1
+Thinking about ...
+
+00:21:07 SPK_1
+For example, there was parts of the course that you had to do some exercises and things like that.
+
+00:21:17 SPK_1
+With the CDD, do you think it became easier?
+
+00:21:19 SPK_1
+Has it changed to your codar style, for example?
+
+00:21:27 SPK_2
+I don't think it changed much, no.
+
+00:21:29 SPK_2
+My style of developing.
+
+00:21:35 SPK_1
+But was it easier to understand the code?
+
+00:21:39 SPK_2
+Stayed, stayed.
+
+00:21:40 SPK_1
+Did you read a lot of code from other people on the team?
+
+00:21:45 SPK_2
+Li.
+
+00:21:48 SPK_1
+Do you think you helped understand these codes better?
+
+00:21:54 SPK_2
+Helping to understand, not directly, because it is not a documentation, but as it was not precisely due to the limit of complexity, it was not very large and complex, then I managed to have more space in the mind to understand what each thing was.
+
+00:22:18 SPK_1
+I understood.
+
+00:22:19 SPK_1
+Do you think the CDD, it brought improvements in code quality?
+
+00:22:29 SPK_2
+In quality?
+
+00:22:37 SPK_2
+I think on the issue of quality did not have such an impact.
+
+00:22:41 SPK_2
+Yes, they had some changes, but I don't think not too big.
+
+00:22:48 SPK_2
+For example, it became more organized, more separately, but I think it was still, if it was going to take something to modify today, and even a job of moving in other classes and such.
+
+00:23:06 SPK_1
+Improved the readability of the code.
+
+00:23:09 SPK_2
+Improved.
+
+00:23:16 SPK_1
+We used the CDD, built these tables, put the items, the costs.
+
+00:23:22 SPK_1
+You feel that the complexity of the classes, they really downloaded.
+
+00:23:33 SPK_1
+It made sense the complexity that was defined for that class and the complexity that you really saw from that class, do you think it was equal?
+
+00:23:46 SPK_2
+I think so, but that was getting more and more the same, the complexity I saw with the complexity I was saying there, but in the end, with the last table we made.
+
+00:24:04 SPK_1
+At first did you think not?
+
+00:24:06 SPK_1
+Did you feel a dissonance between the real complexity and the complexity that was being calculated?
+
+00:24:14 SPK_2
+Yeah, I was just not sure that it was.
+
+00:24:22 SPK_1
+You remember the exact point that you first looked and said, no, now it really makes sense.
+
+00:24:30 SPK_2
+From the exact point no, I don't remember.
+
+00:24:33 SPK_1
+The stage at least?
+
+00:24:36 SPK_2
+I think it was there for the penultimate Sprint.
+
+00:24:39 SPK_1
+I understood.
+
+00:24:44 SPK_1
+In the process of refactoring, that last week there, after the sprints, do you think the CDD was a guide capable of indicating a path to refactor?
+
+00:24:58 SPK_2
+Yes, it was because at least I did it, I opened there, the class had to be stunned, and I was guiding me precisely for the comments they were saying, right, how much I had a punctuation.
+
+00:25:14 SPK_2
+Then I analyzed and saw if it could be replaced by something smaller.
+
+00:25:19 SPK_2
+So, in this part there it helped a lot, because I was guiding around.
+
+00:25:25 SPK_1
+Did you miss another process, another guide in this reject?
+
+00:25:32 SPK_1
+I think only the CDD has solved the problem.
+
+00:25:39 SPK_2
+For the issue of complexity the CDD resolved, but for the quality issue of the code it was not enough.
+
+00:25:52 SPK_1
+I understood.
+
+00:25:55 SPK_1
+In general, would you say that the CDD was successful in this project?
+
+00:26:00 SPK_2
+I think so, he fulfilled, in my opinion, fulfilled his goal well, at least that I understood it, to analyze and limit the complexity of the classes, and that really happened, was done.
+
+00:26:16 SPK_2
+I think it should be some other development methodology, could help better the quality of the code.
+
+00:26:30 SPK_2
+And it would be great if I had a tool to count like this automatically.
+
+00:26:41 SPK_1
+Was it confused or did he make sense?
+
+00:26:46 SPK_2
+No, it made sense.
+
+00:26:48 SPK_1
+Does it complicate the project more?
+
+00:26:50 SPK_1
+Because, in addition to the project tasks, it had the CDD, the CDD tasks.
+
+00:26:55 SPK_1
+Is that more complicated the project or was it something more good?
+
+00:26:59 SPK_2
+No, I don't think it complicated.
+
+00:27:01 SPK_2
+So, it gave ...
+
+00:27:02 SPK_2
+There was one more work stage, but it was not complicated.
+
+00:27:07 SPK_2
+It was more looking there, see if it was in the table and quantifying.
+
+00:27:13 SPK_1
+Did you have something within these activities and this process that you thought this could be easier to do here?
+
+00:27:20 SPK_1
+Or could it be different?
+
+00:27:33 SPK_2
+I think the question of having to manually quantify each of the table items, it has to be a little harder to do.
+
+00:27:49 SPK_2
+And the process of defining what items will be added to the table and removed and what their score is.
+
+00:27:58 SPK_2
+I can't think of a better way to do, and first make the code and then the table.
+
+00:28:07 SPK_2
+But I think it's something that really takes time to be well defined.
+
+00:28:13 SPK_1
+Okay, so just to list, what are the difficulties of the CDD within this process?
+
+00:28:23 SPK_2
+Define, make a good definition of the table, which items and what their score, and manually quantify each of the code elements.
+
+00:28:38 SPK_1
+Quantify.
+
+00:28:40 SPK_1
+There was a moment that you thought so, this here Celera does not help.
+
+00:28:49 SPK_2
+I think more at first, when we started with the project, because there was no class the limit, it was not ...
+
+00:29:03 SPK_2
+I think they were really not complex.
+
+00:29:06 SPK_2
+So he was serving only as a way of telling him the complexity, but it wasn't making us reduce that complexity.
+
+00:29:17 SPK_2
+Then I don't know if it was because we hadn't defined a table well yet, it wasn't the way it would be better, or if it really was at the beginning of the project, so the classes were still small, it was still simpler.
+
+00:29:32 SPK_2
+That's why I think it's better, I found it better to make the code better, then the table, which we'll probably have some bigger things, bigger problems, that we would see that what are the items that most impact to power Add in the table.
+
+00:29:51 SPK_1
+Any other difficulty?
+
+00:29:53 SPK_1
+Beyond those you already said?
+
+00:29:55 SPK_2
+No, that's all.
+
+00:29:57 SPK_1
+Did you have any personal resistance about using CDD in the project?
+
+00:30:02 SPK_1
+Or did you notice someone else, another team, to use CDD?
+
+00:30:10 SPK_2
+No, not guys.
+
+00:30:13 SPK_2
+I think at first everyone was ...
+
+00:30:19 SPK_2
+It's because it was an extra step at work, so sometimes people ended up forgetting or were still learning to do.
+
+00:30:26 SPK_2
+Even at first I have not counting right, but it is because I was getting used to this methodology.
+
+00:30:37 SPK_2
+It was not a personal resistance.
+
+00:30:39 SPK_2
+for some reason.
+
+00:30:42 SPK_1
+I understood.
+
+00:30:44 SPK_1
+Would you use CDD again on the Future Project?
+
+00:30:48 SPK_2
+Would use.
+
+00:30:50 SPK_2
+I am even doing a project in Flutter and I want, as soon as I have a little larger, apply the CDD to see if it improves a little, to reduce the complexity.
+
+00:31:02 SPK_1
+If you had a team that started using CDD and we asked a tip overall.
+
+00:31:10 SPK_1
+Give me tips on how to use CDD.
+
+00:31:13 SPK_1
+What tips do you dive?
+
+00:31:22 SPK_2
+Tips.
+
+00:31:26 SPK_1
+Some lesson you learned during this process that ...
+
+00:31:32 SPK_1
+To take you in the future, in a future project?
+
+00:31:40 SPK_2
+AND...
+
+00:31:43 SPK_2
+I think depending on ...
+
+00:31:47 SPK_2
+From the experience that the team has with Flutter, not necessarily with Flutter, right, but with what they are developing, work better the table, because if it is a team that is still starting, inexperienced, her perception of the items of Table will change a lot over time.
+
+00:32:09 SPK_2
+So, I think it's important to have several meetings more often to discuss these items and seek to focus on it, because I think after making a good definition of the table, this process is much more fluid.
+
+00:32:28 SPK_1
+I understood.
+
+00:32:29 SPK_1
+If you were to use, if you are going to use it in the future, what improvements would you try to improve on this CDD approach?
+
+00:32:39 SPK_1
+Would you make any specific adjustment, would you implement any change, add something to improve this process?
+
+00:32:50 SPK_2
+No.
+
+00:32:51 SPK_2
+In addition to building the table a little after it made the initial code, no.
+
+00:33:01 SPK_1
+I understood.
+
+00:33:02 SPK_1
+There is some question here that I did not, for something you are thinking, that you think it is important to share, some thoughts you had, that you would like us to improve, or finally, that you would make a reflection on?
+
+00:33:20 SPK_2
+No, I can't think of any, no.
+
+00:33:24 SPK_1
+Beauty, then ...
+
+00:33:27 SPK_1
+I think that's it.
+
+00:33:28 SPK_1
+I get there available on WhatsApp to remember something, some detail that you think was missing here in this interview.
+
+00:33:38 SPK_1
+Just send me there on WhatsApp that I can include also inside what we have been talking to and thank you because we will be able to build a path to the CDD inside the Flutter through the experience you have lived.
+
+00:33:57 SPK_1
+The real experience you lived to know what worked, what didn't work.
+
+00:34:01 SPK_1
+So this insights, this information you brought here today will be very important to this path.
+
+00:34:08 SPK_1
+I will use for my TCC this information, for example, to answer some questions, but we will continue other works, in more articles, and your interview and other team participants will also be used and we will take into consideration as well.
+
+00:34:28 SPK_1
+So thank you for all this help there.
+
+00:34:34 SPK_1
+Beauty?
+
+00:34:35 SPK_2
+Beauty.
+
+00:34:37 SPK_1
+So, until any day and anything we are there on WhatsApp to inform.
+
+00:34:44 SPK_2
+Remember something I say there.
+
+00:34:47 SPK_1
+Beauty, thanks, thanks, even more.
+
+00:34:49 SPK_2
+Thanks, even more.

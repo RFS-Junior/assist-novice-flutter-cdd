@@ -1,0 +1,839 @@
+00:00:03 SPK_1
+Bom, primeiramente te agradecer por participar dessa entrevista.
+
+00:00:07 SPK_1
+A ideia é que a gente tenha um site de como foi esse processo do CDD e baseado na tua opinião, na tua opinião individual, né?
+
+00:00:19 SPK_1
+Então, a primeira coisa que eu começo perguntando é qual era o teu papel dentro desse time?
+
+00:00:25 SPK_1
+O que é que tu fazia lá?
+
+00:00:29 SPK_2
+Bom, boa noite.
+
+00:00:30 SPK_2
+É um prazer estar fazendo parte disso, poder contribuir.
+
+00:00:42 SPK_2
+Bom, eu vejo que no time especificamente nós tínhamos, mas não tínhamos necessariamente uma função bem amarrada.
+
+00:00:52 SPK_2
+Eu via que a cada semana, por conta do processo administrativo que nós estávamos usando, o Scrum, cada semana se atualizava.
+
+00:01:03 SPK_2
+Então, tipo assim, cada pessoa pegava as tarefas de acordo com o que sabe fazer e de acordo com o que se acha melhor.
+
+00:01:14 SPK_2
+Então, assim, eu não tinha necessariamente uma função específica.
+
+00:01:20 SPK_2
+Eu vejo que eu e os outros, nessa questão de cargo, né?
+
+00:01:23 SPK_2
+Eu e os outros desenvolvedores estavam no mesmo nível.
+
+00:01:27 SPK_2
+Então, digamos que a minha função que eu faria era justamente isso.
+
+00:01:31 SPK_2
+Aí claro que vai do que cada pessoa gosta mais de fazer, né?
+
+00:01:35 SPK_2
+Eu vejo que o que eu gostava mais de fazer era essa parte de back-end mesmo, de conexão com o banco de dados.
+
+00:01:41 SPK_2
+E, digamos, fazer uma máquina funcionar por trás dos planos.
+
+00:01:49 SPK_2
+digamos assim.
+
+00:01:51 SPK_1
+Tu lembra de alguma tarefa que te marcou nesse projeto, que tu mais trabalhou, alguma funcionalidade do sistema que tu trabalhou mais?
+
+00:02:00 SPK_2
+Olha, teve uma tarefa que foi a que eu demorei muito pra fazer, que foi graças ao instrutor do curso que me auxiliou, foi justamente fazer a autenticação muito específica de uma categoria específica, para ver se o cara era um administrador ou não, para poder logar no aplicativo e que precisava pedir a autorização para o gestor final do aplicativo.
+
+00:02:25 SPK_2
+Então, isso foi algo que me complicou muito, assim, foi uma tarefa muito marcante.
+
+00:02:32 SPK_1
+Tu acha que ela foi difícil pelas especificações ou pelo nível de entendimento de programação da framework?
+
+00:02:41 SPK_2
+É, eu acho que nem era algo muito específico porque era uma categoria de perfil específico que uma pessoa criava o seu perfil, ela selecionava categoria que ela queria adentrar e justamente nessa categoria tinha que pedir autorização para outra pessoa, mas eu vejo que se tornou mais difícil mesmo por conta do meu nível de entendimento mesmo.
+
+00:03:09 SPK_1
+Entendi.
+
+00:03:09 SPK_2
+Não considerava muito desenrolado assim com a programação para conseguir pensar nos processos.
+
+00:03:16 SPK_1
+Entendi.
+
+00:03:17 SPK_1
+Tá, agora falando assim mais de CDD mesmo, nessa etapa inicial de preparação, antes de tudo na verdade eu queria te perguntar, como é que você explicaria o que é CDD para um colega de trabalho teu?
+
+00:03:35 SPK_2
+Eu explicaria assim que o CDD é uma forma de programar no qual o grupo estabelece algumas regras baseadas em pontos.
+
+00:03:49 SPK_2
+Que aquele grupo não pode passar desses pontos em cada classe ou classe determinada com o grupo.
+
+00:04:00 SPK_2
+Mas é que cada ponto é definido pelas funções, pelas especificidades daquela linguagem que é usada.
+
+00:04:10 SPK_2
+Então, digamos que é uma forma de programar otimizado em grupo.
+
+00:04:18 SPK_1
+Entendi.
+
+00:04:18 SPK_1
+Tu vê um objetivo geral do CBD?
+
+00:04:21 SPK_1
+Se tu fosse apontar qual é o objetivo do CBD?
+
+00:04:25 SPK_2
+Olha, acho que a palavra-chave que eu vejo é ter um código mais organizado e mais visível, digamos assim.
+
+00:04:32 SPK_1
+Entendi.
+
+00:04:34 SPK_1
+Dentro desse processo que tu viveu, que tu experienciou com o CDD, tu acha que as atividades do CDD foi algo mais tranquilo, ou foi mais um processo gradual, que no começo foi mais difícil, depois foi ficando mais fácil, ou algum outro tipo de ideia?
+
+00:04:53 SPK_2
+É, eu vejo que foi um processo, porque o CDD apareceu meio que no meio também, né?
+
+00:04:59 SPK_2
+Meio por mais que já tava no esplêndido, já tinha sido comentado, foi algo que demorou um pouco a engrenar, no começo eu vejo.
+
+00:05:08 SPK_2
+Até porque era algo que poucos ali já tinham escutado, né?
+
+00:05:12 SPK_2
+Então eu vejo, acho que da feita que quando ficou, se eu não me engano, foram seis semanas de curso, né?
+
+00:05:19 SPK_2
+Se eu não me engano, dá pra dar a parte específica.
+
+00:05:23 SPK_2
+mais ou menos.
+
+00:05:26 SPK_2
+Eu vejo que lá pela segunda semana mais ou menos foi quando a engrenagem começou a funcionar e eu vejo que o time como um todo começou a programar já pensando no CDD.
+
+00:05:37 SPK_2
+Tanto que no começo ainda houve uns erros e tal.
+
+00:05:41 SPK_2
+Eu tipo assim vendo no final que a gente teve que fazer alguma alteração no final eu lembro que A gente entendeu, mas teve um pouco de...
+
+00:05:53 SPK_2
+a gente se embananou, digamos assim, como um grupo, no mundo geral, para fazer as populações.
+
+00:06:01 SPK_2
+Eu vejo que a gente entendeu, mas teve um pouco de dificuldade na aplicação, de fato, mesmo.
+
+00:06:06 SPK_2
+A gente vai perceber isso mais para o final.
+
+00:06:09 SPK_1
+As dificuldades que você enxerga que o grupo teve.
+
+00:06:14 SPK_2
+Identificar onde que pontua ou não pontua naquela tabela de complexidade.
+
+00:06:26 SPK_2
+Tanto que tinha algumas situações que a gente não achava que se encaixava.
+
+00:06:34 SPK_2
+Não sei se porque a falta de experiência mesmo com a linguagem de programação, com a framework especificamente.
+
+00:06:42 SPK_2
+Eu vejo, não sei se foi isso também, que a gente com alguns termos a gente não soube diferenciar, então a gente acabou se enrolando.
+
+00:06:48 SPK_2
+Mas a gente não fez a contagem e que no final, quando tu foi fazer a contagem, viu que tinha muito mais pontos do que a gente achou que tinha.
+
+00:06:58 SPK_1
+Entendi.
+
+00:07:00 SPK_1
+Tu acha que deveria ter tido mais tempo para explicar cada item, para discutir mais a tabela?
+
+00:07:09 SPK_2
+Não vejo que mais tempo, mas eu acho que algo mais fácil, talvez uma outra explicação.
+
+00:07:18 SPK_2
+Talvez um materialzinho mais ilustrativo, talvez.
+
+00:07:25 SPK_2
+Por exemplo, como a gente está ajudando o Flutter a fazer algo mais frequentemente, para a gente é meio óbvio, mas só de um exemplo.
+
+00:07:33 SPK_2
+Suponhamos, algo que pontuava na complexidade, usar o column e usar o row.
+
+00:07:44 SPK_2
+Pra gente era meio óbvio, mas tinha outras coisas que talvez pra gente não era tão óbvio, então talvez tirar um printzinho do código, ó, isso aqui se encaixa nisso aqui.
+
+00:07:53 SPK_2
+Então, quando vocês forem programar e vocês tiverem que usar isso aqui, como por exemplo os conceitos de programação síncrona, tipo a SYNC, só um exemplo, isso aqui pontua tanto com algo mais visual.
+
+00:08:08 SPK_2
+Acho que um material para a gente poder ter visitado mais ao longo do tempo, mais explicativo.
+
+00:08:16 SPK_1
+Entendi.
+
+00:08:17 SPK_1
+Tu teve acesso aos exemplos que foram disponibilizados?
+
+00:08:23 SPK_1
+Os exemplos em código mesmo?
+
+00:08:26 SPK_2
+Olha, eu me lembro que eu estava na chamada, no screen review, que foi explicado várias vezes.
+
+00:08:34 SPK_2
+Eu estava presente.
+
+00:08:37 SPK_2
+Todos os sprints e tal.
+
+00:08:38 SPK_1
+Ok.
+
+00:08:42 SPK_1
+Quando que o CDD foi mais útil e quando ele foi menos útil na tua visão?
+
+00:08:45 SPK_2
+Eu acho que ele foi mais útil no desenrolado da coisa.
+
+00:08:51 SPK_2
+Quando nós já estávamos programando, né?
+
+00:08:57 SPK_2
+Já programando, então tipo assim, a gente já ia...
+
+00:08:59 SPK_2
+A gente já ia pro código.
+
+00:09:02 SPK_2
+Já pensando, ó, a gente tem que usar isso, isso, isso, assim, assim, assim.
+
+00:09:06 SPK_2
+Mas eu acho que não foi menos útil de alguns atributos mesmo assim, de maneira geral, que eu vejo.
+
+00:09:13 SPK_2
+Que não foi, talvez, só abre no PDF, efetivamente, senão...
+
+00:09:19 SPK_2
+É em algumas categorias, assim, que eu vejo, sabe?
+
+00:09:23 SPK_2
+Tanto que eu vejo que a gente conseguiu, até de certa forma, ir tirando, filtrando melhor, usando o Column e o Arrow que tirou depois, por exemplo.
+
+00:09:36 SPK_1
+Entendi.
+
+00:09:37 SPK_1
+Teve alguma etapa específica que tu mais gostou do CDB?
+
+00:09:43 SPK_2
+Cara, eu acho que todas foram...
+
+00:09:46 SPK_2
+Enfim, eu não senti diferença entre as etapas em termos de gostar ou não, pra mim foi semelhante.
+
+00:09:53 SPK_1
+Entendi.
+
+00:09:55 SPK_1
+Olhando pra essa última versão da tabela, né, e a construção dela foi em consenso com o grupo e tudo mais, mas se fosse só depender de ti, olhando pra essa tabela da última versão, tu concorda com toda essa tabela, com todos os itens que tem ali, ou tu faria alguma mudança?
+
+00:10:14 SPK_2
+Não, eu tô de acordo com ela.
+
+00:10:19 SPK_2
+Eu acho que essa última tabela ficou bem...
+
+00:10:23 SPK_2
+uma marradinha ficou bem coesa mesmo, sabe?
+
+00:10:27 SPK_2
+Acho que ficou bem de acordo com o que a gente tava fazendo.
+
+00:10:30 SPK_1
+Durante esse processo, agora em grupo, decidindo quais seriam os ICPs, tu lembra se teve muita divisão de opiniões sobre qual ICP deveria ou não entrar?
+
+00:10:42 SPK_1
+Não.
+
+00:10:44 SPK_2
+Nesse ponto eu via que todo mundo estava em consenso.
+
+00:10:48 SPK_2
+Não sei porquê.
+
+00:10:50 SPK_2
+Eu via que tinha gente que já sabia programar bastante, mas também via gente que não sabia tanto.
+
+00:10:55 SPK_2
+Então acho que nesse meio do caminho a gente chegou num consenso fácil.
+
+00:10:59 SPK_1
+Entendi.
+
+00:11:01 SPK_1
+Eu vou usar o mesmo exemplo que eu estou usando para todo mundo, que é para ser mais específico nessa pergunta.
+
+00:11:06 SPK_1
+Quando eu vou comprar uma camisa, eu tenho alguns critérios para me escolher uma camisa que eu vou comprar.
+
+00:11:12 SPK_1
+Eu escolho uma cor que eu vai gostar, um tamanho, se eu quero mais justa ou mais larga.
+
+00:11:18 SPK_1
+Eu escolho o estilo dela, se é camisa polo, se é uma camisa regato, coisa do tipo.
+
+00:11:25 SPK_1
+Esses são os critérios que eu escolho pra me escolher uma camisa, os critérios que eu tenho pra escolher uma camisa.
+
+00:11:31 SPK_1
+Quais critérios tu usaria ou quais critérios tu usou pra definir um ICP?
+
+00:11:35 SPK_1
+Quais critérios?
+
+00:11:44 SPK_2
+Olha, eu vejo que algo que me veio muito na cabeça, algo pra querer falar mesmo na época, era muito a quantidade de vezes que aquele elemento aparecia.
+
+00:11:56 SPK_2
+Para definir o nível de complexidade, né?
+
+00:12:00 SPK_2
+Seria mais complexo ou seria menos complexo.
+
+00:12:02 SPK_1
+Entendi.
+
+00:12:03 SPK_1
+É a frequência que ele aparece no código, é isso?
+
+00:12:06 SPK_2
+Isso, exatamente.
+
+00:12:07 SPK_1
+Tu tem algum exemplo, assim, de ICP que foi usado e que tu pensou aí?
+
+00:12:14 SPK_2
+Acho que, por exemplo, pegando os CP do Flutter versão 3 da Ultima, eu vejo que muito isso, os branches e os loops né, o If, Else, For, While e tal.
+
+00:12:29 SPK_2
+Entendi.
+
+00:12:32 SPK_1
+Ok, quando tu tava ali no teu processo de desenvolvimento, tava codando ali, fazendo alguma funcionalidade, como é que tu usava a tabela de CP?
+
+00:12:43 SPK_1
+Era tipo um mapa constante, que enquanto tu desenvolvia, tu ficava olhando pra tabela, olhando os itens e já adicionando?
+
+00:12:51 SPK_1
+Ou tu só fazia no final desse processo, só olhava a tabela de vez em quando?
+
+00:12:56 SPK_1
+Como é que era isso?
+
+00:12:58 SPK_2
+Bom, eu já ia para o código pensando mais ou menos o que eu tinha que usar, muito ou pouco.
+
+00:13:04 SPK_2
+Mas tinha algumas situações, por exemplo, no exemplo que eu dei de pedir autenticação e tudo mais.
+
+00:13:13 SPK_2
+Tinha coisas que eu via que não dava para economizar tanto, não acho que porque era usada, como o Provider, por exemplo.
+
+00:13:19 SPK_2
+Então era algo que eu já tinha em mente, que tinha um limite para usar, mas que também não dava para economizar tanto.
+
+00:13:27 SPK_2
+Mas eu vejo muito no sentido que eu já ia pensando assim, não posso usar muito, não posso ficar tão à vontade assim.
+
+00:13:34 SPK_2
+Até porque também não faz o código tão...
+
+00:13:40 SPK_2
+Não faz um código tão mais limpo, né?
+
+00:13:43 SPK_1
+Esse aprofundamento dos itens, por exemplo, a gente tem o item Funções Assíncronas, que por exemplo tem uma especificação, uma subdivisão de criar e manipular.
+
+00:13:55 SPK_1
+Por exemplo, também a gente tem lá no Gerenciamento do Estado, a gente tem lá Change Notifier e Consumer, por exemplo.
+
+00:14:03 SPK_1
+Você acha que ser mais aprofundado, fazer essa subdivisão melhora o entendimento dos itens, melhora a prática de servir?
+
+00:14:11 SPK_1
+Ou tu acha que uma unificação seria melhor?
+
+00:14:14 SPK_2
+Não, acho que nesse caso, eu achei interessante fazer a divisão.
+
+00:14:20 SPK_2
+Por mais que seja algo semelhante, mas é forma de usar de diferença, né?
+
+00:14:25 SPK_2
+Então, acho que juntar tudo pode ser meio...
+
+00:14:28 SPK_2
+não pode ser tão bom, tão bacana.
+
+00:14:31 SPK_1
+Entendi.
+
+00:14:34 SPK_1
+Nesse processo a gente teve três versões, né?
+
+00:14:36 SPK_1
+A primeira versão, a segunda, que foi mais ou menos ali no meio, e a terceira que saiu na última semana.
+
+00:14:44 SPK_1
+Então acho que esse processo de refinamento constante que teve na tabela, essas várias versões, foi uma coisa que mais atrapalhou ou foi ajudando mais o time a entender o CDD?
+
+00:14:57 SPK_2
+Assim, não que atrapalheu, mas acho que no começo em si, a gente não soube direito como gerir, né?
+
+00:15:06 SPK_2
+Por muitos dali, acho que até o primeiro contato.
+
+00:15:12 SPK_2
+Mas vejo que se for pegar todo o projeto a longo prazo, tudo mais, foi algo que ajudou a gente a entender melhor.
+
+00:15:22 SPK_2
+Assim, vendo também, claro, da minha visão que eu tô tendo, particular, né?
+
+00:15:25 SPK_2
+Eu não fui um cara que desenvolveu muito, né?
+
+00:15:30 SPK_2
+Eu não tive muito, tipo, protagonismo só que eu vi, assim, foi muito e eu passei de uma para outra das pessoas, né?
+
+00:15:37 SPK_1
+Entendi.
+
+00:15:39 SPK_1
+Teve algum momento que tu deixou o César aí de lado?
+
+00:15:41 SPK_1
+Tipo, esqueceu ele, deixou calar e depois reclamou?
+
+00:15:47 SPK_2
+Não, não chegou até esse momento.
+
+00:15:50 SPK_2
+Como eu falei assim, eu não sou um cara que desenvolve tanto, então eu vejo que das partes que eu fiz eu já tava em mente.
+
+00:15:57 SPK_2
+E até porque não foi preciso também eu usar tanta coisa.
+
+00:15:59 SPK_1
+Entendi.
+
+00:16:01 SPK_1
+Tu teve que refatorar classes por causa disso?
+
+00:16:04 SPK_2
+Não, eu não cheguei a ter que fazer isso.
+
+00:16:11 SPK_1
+Beleza.
+
+00:16:12 SPK_1
+E aí a gente está tentando também entender quais são os benefícios que o CDD pode ter proporcionado, ou não.
+
+00:16:18 SPK_1
+E a primeira pergunta sobre esse tema, eu queria saber se tu consegue ver um impacto positivo de usar CDD dentro desse projeto.
+
+00:16:28 SPK_1
+Qual seria o impacto positivo se tem ele?
+
+00:16:32 SPK_2
+Cara, eu vejo assim que o impacto positivo, porque ali naquela barra de pessoas, digamos assim, aquele grupo de pessoas, onde não eram pessoas experientes, Muita gente estava no começo do curso ainda, não foi nas férias agora, mas está todo mundo no começo do curso.
+
+00:16:49 SPK_2
+Acho que foi muito bom para a gente entender como que funciona a vida de verdade, digamos assim, no mercado de verdade, de entender que as coisas não são do jeito que está na nossa cabeça, que muitas empresas, grupos, têm algumas regras de como que se desenvolvem os programas deles.
+
+00:17:09 SPK_2
+Então, para a gente entender como funciona.
+
+00:17:10 SPK_2
+No caso do nosso projeto foi o CDD, né?
+
+00:17:14 SPK_2
+Mas como há também outros métodos que eu vejo que é importante também.
+
+00:17:18 SPK_2
+Eu acho que a ajuda dele, esse impacto positivo foi nesse sentido, de já ajudar a gente a visualizar como é que trabalhar em equipe, como que é trabalhar em alguma empresa, por exemplo, que tem um método de programação e tudo mais.
+
+00:17:35 SPK_1
+Tu acha que, de fato, no código do projeto, nos códigos que tu desenvolveu ou que tu observou os teus colegas nesse trabalho, tu acha que realmente o código ficou mais fácil usando o CBD?
+
+00:17:48 SPK_1
+Ficou mais legível o código, por exemplo?
+
+00:17:51 SPK_2
+Um pouco mais, eu vejo assim, ficou um pouco mais, como ficou também, envolve um pouco, vejo a falta de experiência de todos né, mas de boa também, ficou muito volumoso, muito grande muitas coisas.
+
+00:18:01 SPK_2
+Dava para ser algo, coisas mais enxutas, mas que querendo ou não ainda está dentro da carga cognitiva, está dentro, mas ainda estava algo muito volumoso.
+
+00:18:12 SPK_2
+Entendi.
+
+00:18:14 SPK_2
+E eu observei assim, não consigo observar tão fácil também, porque eu não sou um cara mais experiente para poder observar isso, mas até mesmo conversando contigo e vendo isso.
+
+00:18:23 SPK_2
+Mesmo depois, com já tudo dentro das cargas que tem que ser, tudo feito, refatorado, ainda assim tinha coisas que dava pra dar uma enxugada maior.
+
+00:18:35 SPK_1
+Entendi.
+
+00:18:35 SPK_1
+Então, no caso, tu acha que também faltou mais tempo também pro projeto e pra refinar?
+
+00:18:42 SPK_2
+Ah, isso é com certeza.
+
+00:18:45 SPK_1
+Entendi.
+
+00:18:46 SPK_2
+O projeto foi um intensivão, assim, sem custo, sabe?
+
+00:18:51 SPK_1
+Entendi.
+
+00:18:52 SPK_1
+Então tu não fez refatoração, né?
+
+00:18:57 SPK_1
+Como tu mediria o sucesso do CDD?
+
+00:19:00 SPK_1
+Qual o indicador que diria, ó, o CDD foi um sucesso?
+
+00:19:04 SPK_1
+Realmente fez o que ele se propôs a fazer?
+
+00:19:08 SPK_1
+Ou tu acha que não, ele não fez o que veio a fazer no projeto?
+
+00:19:16 SPK_2
+Eu acho que veio pra fazer o que tinha que ser feito, né?
+
+00:19:19 SPK_2
+Que é auxiliar na programação mais enxuta, digamos assim, né?
+
+00:19:23 SPK_2
+Otimizada, pode-se dizer assim.
+
+00:19:26 SPK_2
+Ajudar a gente a visualizar as coisas também.
+
+00:19:29 SPK_2
+Isso é algo bacana que eu achei.
+
+00:19:30 SPK_2
+A gente ajuda a gente a visualizar na hora de fazer o desenvolvimento.
+
+00:19:35 SPK_2
+Mas eu vejo muito isso, acho que no final, mais o relato das pessoas, sabe?
+
+00:19:43 SPK_2
+A galera falando...
+
+00:19:43 SPK_2
+Pode continuar.
+
+00:19:45 SPK_2
+Não, não é isso mesmo, acho que mais as pessoas falam, pô, massa isso, não, é isso mesmo, tal.
+
+00:19:51 SPK_2
+Eu entendi o que era, ou então, veja, por exemplo, que a gente via, né, nos dailies, até no split review, das pessoas, assim, ah, eu fiz tal coisa, mas depois eu identifiquei que não tava dentro da carga cognitiva, ou então não podia usar, tava fora da tabela, então eu tive que refazer.
+
+00:20:10 SPK_2
+Acho que isso mostra também que as pessoas entenderam que o que era e como que faz.
+
+00:20:17 SPK_1
+Entendi.
+
+00:20:24 SPK_1
+Então a gente vai falar.
+
+00:20:26 SPK_1
+Ah, uma pergunta que eu lembrei agora, que eu acho que é importante.
+
+00:20:31 SPK_1
+Pelo que você estava falando, você sente que o CBD teve uma boa aceitação no grupo?
+
+00:20:37 SPK_1
+Tanto da tua parte, individualmente, quando desde a primeira você aceitou o CBD, falou sobre a abordagem, as atividades e o grupo também.
+
+00:20:46 SPK_1
+Acho que o sentimento geral foi de aceitação ou você viu alguma resistência ou teve alguma resistência em utilizar essa abordagem?
+
+00:20:56 SPK_2
+Cara, eu achei que foi tudo meio de surpresa, assim, a gente não tava planejando, né?
+
+00:20:59 SPK_2
+Veio, digamos assim, entre a parte geral e a parte específica, né?
+
+00:21:04 SPK_2
+Mas eu vejo que não teve muita resistência das pessoas, né?
+
+00:21:09 SPK_2
+Foi algo bem tranquilo, assim.
+
+00:21:15 SPK_1
+E da tua parte, também a mesma coisa?
+
+00:21:17 SPK_2
+Sim, sim.
+
+00:21:22 SPK_1
+No começo o CDD ele fez sentido já de cara ou demorou pra entender?
+
+00:21:29 SPK_2
+Não, não, não.
+
+00:21:30 SPK_2
+Foi algo que eu demorei um pouco a entender.
+
+00:21:34 SPK_2
+Teve a palestra do rapaz que ele fez com a gente e pra mim ele falou, falou, falou e eu não entendi do que que era.
+
+00:21:41 SPK_2
+Ele falou mais dos benefícios, mas não foi específico, né?
+
+00:21:46 SPK_2
+Logo depois que tu vieste da explicação eu entendi mais pro que que servia de fato, né?
+
+00:21:50 SPK_2
+O que era.
+
+00:21:51 SPK_2
+Mas eu demorei a entender essa relação de carga de cognitiva, de complexidade.
+
+00:22:00 SPK_2
+Fui entender mais lá pra segunda semana.
+
+00:22:03 SPK_1
+Entendi.
+
+00:22:03 SPK_1
+Tu acha que usar CDD complica mais o projeto?
+
+00:22:07 SPK_1
+Se não tivesse CDD, não seria mais.
+
+00:22:09 SPK_2
+Fácil de...
+
+00:22:10 SPK_2
+Ah, isso aí eu acho que com certeza sim.
+
+00:22:13 SPK_2
+Tipo, o que a galera ia fazer, digamos que no freestyle, né?
+
+00:22:18 SPK_2
+Mais compensação.
+
+00:22:20 SPK_2
+não deixa algo tão mais organizado para o futuro.
+
+00:22:22 SPK_2
+Se a gente olha esse código daqui, sei lá, um ano, dois anos, talvez continuando estudando, no foco aí, já vai ter um avanço pessoal.
+
+00:22:32 SPK_2
+Quando voltar atrás, acho que se olhar um código sem CDD e com CDD, com certeza ela vai entender muito melhor o código com o CDD.
+
+00:22:40 SPK_1
+Entendi.
+
+00:22:43 SPK_1
+Tem alguma coisa do CDD que tu acha que deveria ser mais fácil, que poderia ser mais fácil?
+
+00:22:52 SPK_2
+Eu acho que não sei se do CDD especificamente, mas acho mais um destrinchamento um pouco maior de cada item, das descrições, sabe?
+
+00:23:03 SPK_2
+Eu achei mais isso, não do método em si, sabe?
+
+00:23:06 SPK_1
+Entendi.
+
+00:23:09 SPK_1
+Tem um momento que o CDD foi inadequado?
+
+00:23:13 SPK_2
+Cara, que eu me lembre agora, não.
+
+00:23:17 SPK_2
+Na verdade, assim, pra chegar uma terceira versão de tabela, nunca foi porque teve, né?
+
+00:23:23 SPK_2
+Então, assim, teve momentos que eu vi aqui, especialmente quem tá arrumando as mãos na massa mesmo, assim, se sentiu.
+
+00:23:31 SPK_2
+Mas, de maneira geral, eu não consigo dizer especificamente muito, né?
+
+00:23:34 SPK_2
+Acho que o clássico, pra falar de novo, né?
+
+00:23:37 SPK_2
+É o das colunas e das linhas, né?
+
+00:23:41 SPK_2
+Das colunas e da rope.
+
+00:23:44 SPK_2
+Mas houve também o outro...
+
+00:23:47 SPK_1
+Ok.
+
+00:23:49 SPK_1
+Tu usaria CDD em projetos futuros?
+
+00:23:52 SPK_2
+Sim.
+
+00:23:53 SPK_2
+Sim.
+
+00:23:54 SPK_2
+Com certeza.
+
+00:23:55 SPK_2
+É algo que eu acho que é um diferencial no mercado também, cara.
+
+00:23:59 SPK_2
+Quando tu aprende a desenvolver com algum método ou coisa assim, isso te diferencia.
+
+00:24:05 SPK_2
+Passa a pensar em soluções melhores, sabe?
+
+00:24:06 SPK_1
+Entendi.
+
+00:24:12 SPK_1
+Se um amigo teu que quisesse usar CDD viesse pedir uma dica, qual dica tu daria pra ele pra melhorar o desempenho dele utilizando o CDD?
+
+00:24:26 SPK_2
+Qual conselho eu daria pra um amigo, irmão?
+
+00:24:31 SPK_2
+Desculpa, faz de novo?
+
+00:24:35 SPK_1
+Se um amigo teu viesse te pedir uma dica ou um conselho pra como utilizar a CDD, como fazer essas atividades, qual dica que tu percebeu que tu daria pra isso?
+
+00:24:48 SPK_2
+Cara, antes de tudo eu ia falar, olha mano, pega essa tabela e estuda ela.
+
+00:24:52 SPK_2
+O que significa cada coisa, destrincha aí, entender como se usa, né?
+
+00:24:57 SPK_2
+Isso requer também ter um domínio maior da framework da linguagem cristã.
+
+00:25:02 SPK_2
+E, tipo assim, já vai, antes de tu ir desenvolver, já escreve num papel ou faz um, digamos, um mini roteiro do que tu vai fazer.
+
+00:25:11 SPK_2
+Aí quando for pra desenvolver, pra fazer a aplicação, já vai pensando no que fazer, pensando no CDD, no que que tu pode usar e do que que tu não pode.
+
+00:25:23 SPK_2
+E quando tu tentar, sempre é ao máximo fazer isso.
+
+00:25:31 SPK_1
+Tem alguma coisa que tu aprimoraria se tu fosse usar depois?
+
+00:25:37 SPK_1
+Alguma etapa que tu melhoraria ou que tu retiraria?
+
+00:25:41 SPK_2
+Não, acho que foi de acordo.
+
+00:25:47 SPK_1
+Beleza.
+
+00:25:48 SPK_1
+Tem alguma pergunta que eu não fiz, mas que tu acha interessante trazer pra gente?
+
+00:25:53 SPK_1
+Algum conhecimento, algum pensamento pra compartilhar?
+
+00:25:56 SPK_1
+Qualquer coisa?
+
+00:25:59 SPK_2
+Não, acho que vendo assim de cara de cara não é mesmo não.
+
+00:26:02 SPK_2
+Acho que foi muito interessante, assim, dando de novo os parabéns pela milésima vez pra vocês, mas foi muito legal, assim, isso mesmo.
+
+00:26:12 SPK_2
+Por mais que a gente se enrolou um pouco no começo, teve aquelas dúvidas, mas eu vejo que foi algo muito importante assim pra gente entender, até mesmo, por exemplo, eu que vejo que eu não tô muito a fundo com todos assim, mas eu vejo que pra mim foi pra entender mesmo como funciona, sabe?
+
+00:26:27 SPK_2
+Então acho que, claro, claro que assim, sempre há o que melhorar, né?
+
+00:26:37 SPK_2
+Talvez na explicação mesmo de cada coisa, mas eu acho que é isso, acho que é isso mesmo, né?
+
+00:26:46 SPK_1
+Beleza.
+
+00:26:47 SPK_1
+Então, te agradecer por participar dessa entrevista.
+
+00:26:51 SPK_1
+Ela vai ser muito útil tanto para mim, quanto para pesquisadores que estejam interessados na área e queiram entender qual foi o contexto do que aconteceu.
+
+00:26:59 SPK_1
+Acho que tu ajuda a trazer insights para a gente que está tentando entender melhor essa abordagem.
+
+00:27:06 SPK_1
+E é isso, se tiver alguma sugestão, qualquer pensamento, ou algo que tu lembre depois, tu aí responde no Whatsapp, pra te mandar mensagem, quando tu lembrar alguma coisa.
+
+00:27:20 SPK_2
+E é isso, quero te agradecer, muito obrigado por participar.
+
+00:27:23 SPK_2
+Eu que agradeço.
+
+00:27:24 SPK_2
+Obrigado, viu mano, foi uma oportunidade massa, assim, cara.
+
+00:27:26 SPK_2
+Massa mesmo, assim.
+
+00:27:28 SPK_2
+Até eu vou falar, se futuramente vocês quiserem fazer um outro curso de flutuando de férias aí, aplicar esse método, eu vou ser o cara que vai falar, porra, Vai lá, mano, te inscreve lá, vai ser foda, sabe?
+
+00:27:38 SPK_1
+Legal.
+
+00:27:39 SPK_1
+Beleza, então valeu aí por tudo.
+
+00:27:43 SPK_2
+É nóis, mano.

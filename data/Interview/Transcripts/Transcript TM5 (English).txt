@@ -1,0 +1,1145 @@
+00:00:04 SPK_1
+Well, come on.
+
+00:00:06 SPK_1
+First, thank you for participating in the interview.
+
+00:00:10 SPK_1
+And then I wanted to start first asking you how have you been working with Flutter lately?
+
+00:00:17 SPK_1
+How have you been included in your studies?
+
+00:00:21 SPK_1
+Or have you been to another language?
+
+00:00:23 SPK_1
+Given a stop?
+
+00:00:24 SPK_2
+Lately, since we finished the project, I've stopped because I'm in the course of course.
+
+00:00:33 SPK_2
+Then we have an integrating project to integrate, it is to deliver in the case.
+
+00:00:38 SPK_2
+So I had to go back to my base that is more java.
+
+00:00:43 SPK_2
+So I have been working mainly with Java and web programming that is HTML, CSS, JavaScript.
+
+00:00:50 SPK_2
+Then at Flutter I stopped like this.
+
+00:00:53 SPK_2
+But still once in a while I see some videos on the internet like this just to know if it is new or not.
+
+00:01:00 SPK_2
+But during this time I'm stopped with the Flutter.
+
+00:01:03 SPK_1
+I understood.
+
+00:01:05 SPK_1
+There in the project, the practical project we played, what was your role there?
+
+00:01:09 SPK_1
+What activities did you do?
+
+00:01:13 SPK_2
+I, in the project, was initially protected to the web project phase, but as it did not closed a certain group, I ended up migrating along with the people who remained for this mobile project.
+
+00:01:28 SPK_2
+My role, along with two more people, was the visual part, the front end of the project.
+
+00:01:35 SPK_2
+So I worked with these people.
+
+00:01:38 SPK_2
+My main function was to encode the page, in this case, the front end of the page.
+
+00:01:48 SPK_2
+And the other two people took care of other artifacts.
+
+00:01:51 SPK_2
+And in this case it was the prototyping of wireframes and also a study of leather palettes and their care.
+
+00:01:58 SPK_1
+Do you remember a feature that you worked a lot, that marked for you in this project?
+
+00:02:02 SPK_1
+A function, a specific feature?
+
+00:02:07 SPK_2
+I just remember ...
+
+00:02:10 SPK_2
+I think only ...
+
+00:02:12 SPK_2
+I wanted to implement a lot of animations in the case of the project, but I couldn't implement any despite studying some.
+
+00:02:23 SPK_2
+But I really wanted to have been able to implement some animations in the project, but unfortunately I couldn't, but this was the one that most marked me because I saw several, several libraries of how other projects slightly larger, worked with these animations and I found more interesting.
+
+00:02:46 SPK_1
+I got it, ok.
+
+00:02:46 SPK_1
+How would you explain the CDD for a colleague of yours?
+
+00:02:51 SPK_2
+I would explain that it is a way to organize in a project.
+
+00:03:00 SPK_2
+For example, CDD, I will say that it is a technique that the programmer uses with some questions, in this case, which would be some ICP points that would be rates of complexity of a class or even a code.
+
+00:03:20 SPK_2
+So, would I say, oh, what is CDD, John?
+
+00:03:23 SPK_2
+Ask me.
+
+00:03:24 SPK_2
+Man, it's a way to work.
+
+00:03:27 SPK_2
+In this case, there is the study of the class that you meet with your team and then you talk to your team if some development points are difficult or more complex.
+
+00:03:42 SPK_2
+In this case, they are complex or easier in this case.
+
+00:03:45 SPK_2
+Then you would enumerate the most difficult points with larger numbers for example 3 to 5 and the easiest points from 1 to 2 for example.
+
+00:03:54 SPK_2
+And that's that would basically be the CDD a way to integrate into your project is a way to follow in your project.
+
+00:04:08 SPK_2
+In the case of control that you would have about your project in the case.
+
+00:04:14 SPK_2
+a way to control the project complexity index.
+
+00:04:18 SPK_1
+OK.
+
+00:04:18 SPK_1
+During your project experience, you think CDD was quiet, was it easy to understand or was another gradual journey that gradually understood the concepts, the activities?
+
+00:04:31 SPK_1
+How was your experience?
+
+00:04:34 SPK_2
+Right at first, well, well, at the beginning, at the beginning of the project, I didn't have much not had this view of why using the CDD in the project was not making much difference during my participation in the project at least for me In my view he would not make much difference if he was there or not but then when it was so ending in half until the end of the project then I understood why we were using the CDD so at first it was not so relevant So for me, but he started to get important from half the project when the codes were becoming bigger and the repository was growing constantly.
+
+00:05:26 SPK_1
+I understood.
+
+00:05:27 SPK_1
+Do you think the CDD was more useful or less useful?
+
+00:05:31 SPK_1
+Do you think he was more beneficial to the team or do you think he hindered?
+
+00:05:40 SPK_2
+In a way, he was beneficial.
+
+00:05:44 SPK_2
+He was no more evil than beneficial, but if he is choosing between the two, he was beneficial, yes.
+
+00:05:51 SPK_1
+Why?
+
+00:05:54 SPK_2
+Because, for example, we were kind of had a vision while we were programming or after we finished programming work, in this case, that we were careful to be careful to understand our code .
+
+00:06:16 SPK_2
+For example, we would be careful, for example, if we built a crazy code of several lines like this, many functions, and there is no use only the person who is programming to understand the code, if the other person who arrives and see , hit the eye, you will not understand.
+
+00:06:33 SPK_2
+So, that's why he was important, that he works this part of you being careful not to go beyond the limits that are imposed before with your team, to talk and see what are the most complex points or not.
+
+00:06:48 SPK_2
+So, in a way, it was very important because of that.
+
+00:06:51 SPK_1
+Beauty.
+
+00:06:52 SPK_1
+Did you have any stage you liked the most throughout the process with CBD?
+
+00:07:01 SPK_2
+I don't think so, because ...
+
+00:07:05 SPK_2
+In this case, as I worked on the project's front end, so I worked very little with the back end demand that the people who worked in this part had more activity and they also had to implement more things, more filters than me At first I was unaware.
+
+00:07:29 SPK_2
+So, as I worked hard this part of the front end, my complexity rates, they were very low.
+
+00:07:39 SPK_2
+So, for me, he was not ...
+
+00:07:41 SPK_2
+He did not disturb so much, because he had even some complexity rates, they were removed, because they made no sense in the project.
+
+00:07:53 SPK_2
+Because everyone would understand and everything.
+
+00:07:57 SPK_1
+What indices do you think you impacted on the table, on your process of developing with front end?
+
+00:08:08 SPK_2
+Asynchronous function.
+
+00:08:11 SPK_2
+Asynchronous function, especially the string part.
+
+00:08:17 SPK_2
+I think the asynchronous widgets too, I think they were very few, because I used very little in the programming.
+
+00:08:24 SPK_2
+But these two, asynchronous function and the asynchronous IDECT.
+
+00:08:30 SPK_1
+Looking at the final table, what did you think of this table?
+
+00:08:34 SPK_1
+You agree with everything that was the last table, the third version, the final table?
+
+00:08:43 SPK_2
+I agree that I had the basic and animated IDECT withdrawal too, the implicit and explicit animations, because we didn't use it.
+
+00:08:53 SPK_2
+And the basic widgets, I also agreed that it was removed because as we had the wireframes of what the project would look like, we did not have this discussion during the development part during that time, but I agree that what remained.
+
+00:09:17 SPK_2
+I would have taken it, like, would have diminished the complexity part of asynchronous functions.
+
+00:09:23 SPK_2
+Creating and manipulating could have been 1 and 1, instead of 1 and 2.
+
+00:09:29 SPK_2
+But other than that, there is a coherent table.
+
+00:09:32 SPK_1
+Do you think the basic edit, at the beginning of the table, helped, really offered an impact to you, or not?
+
+00:09:42 SPK_1
+I think it never made sense of this item.
+
+00:09:46 SPK_2
+No, it made sense because as my trajectory with Flutter, for example, I didn't know this language, I learned this year from the holiday course.
+
+00:09:56 SPK_2
+So he made sense yes because as we were in a development environment and with development comes the practice, at first it made sense because I was not so used to him daily.
+
+00:10:09 SPK_2
+But as we were taking experience during this process, so he made sense yes at the beginning and also makes sense he was removed.
+
+00:10:22 SPK_1
+I understood.
+
+00:10:23 SPK_1
+Is there any item that you would change, add or remove from this table?
+
+00:10:32 SPK_2
+What was removed was what I would remove, which is the item I had excited, because we could not implement the project due to time.
+
+00:10:41 SPK_2
+And as it has already been removed, so everything is ok.
+
+00:10:44 SPK_1
+There are any item we didn't think, that was not in the suggestion table, that we didn't argue, that you personally think you could come in?
+
+00:10:57 SPK_2
+I don't think so.
+
+00:10:59 SPK_2
+Also, for example, at the beginning of Table 1, which had been the purpose of being thought about lip variable, for example, that he was later it was not implemented in the table in the case that was not so worked on the project.
+
+00:11:17 SPK_2
+But if it had been more implemented in the most used case I think it should have special attention.
+
+00:11:27 SPK_2
+The variable no.
+
+00:11:30 SPK_1
+I am using this similar explanation for everyone, which is as follows, when I go buy a shirt, I like to choose a color I like, I like a size, sometimes I want a tighter or more or more shirt Large, a different style, a social shirt, a polo shirt, any kind.
+
+00:11:52 SPK_1
+These are the criteria I use to choose a shirt, to buy me a shirt.
+
+00:11:56 SPK_1
+What criteria did you use to choose an ICP item for the ICPS table?
+
+00:12:05 SPK_2
+An ICP item for the ICP table, in this case to define the complexity index or define the category item?
+
+00:12:14 SPK_1
+The category item.
+
+00:12:18 SPK_2
+Well, as we had the meetings, I think in ...
+
+00:12:25 SPK_2
+I forgot...
+
+00:12:28 SPK_2
+It was in the retrospectives and reviews that it had in the Scrum model that we used.
+
+00:12:35 SPK_2
+We sat everyone, me with the people who came from the web team, along with the mobile staff, and we thought about the categories as suggested.
+
+00:12:49 SPK_2
+For example, Basic Idect and Animated Idect that was part of the first table.
+
+00:12:56 SPK_2
+We should clearly ...
+
+00:12:58 SPK_2
+We suggested them because it is part of the look, it is part of the front end.
+
+00:13:05 SPK_2
+So, for example, if the people who work with a back-end who don't work so much with the visual part, take our code and come, oh, he used it here, but he used something more visually advanced, I don't understand that.
+
+00:13:21 SPK_2
+So they made these suggestions that were implemented in the first table of widgets, they were chosen precisely because they were part of my area, which in this case would be the part of the visual area, front end.
+
+00:13:38 SPK_2
+And the same thing happened to what was accepted by the staff as the whole, who was the part of the Back-end staff, which is the mobile part, which would be asynchronous functions, mainly management that web people did not see the management of state.
+
+00:13:54 SPK_2
+And how did the Back-end people seen, so we, everyone, was implemented in the table this state management just why?
+
+00:14:03 SPK_2
+Because the Back-end people saw, but who?
+
+00:14:06 SPK_2
+You didn't see, you should know if it would be complex or not.
+
+00:14:11 SPK_2
+And then they were discussed at meetings and everything.
+
+00:14:14 SPK_2
+So these were more or less the criteria.
+
+00:14:17 SPK_1
+Yeah, but if it were, I speak more of an individual way, if it was just dependent on ...
+
+00:14:22 SPK_1
+What criteria would you use to determine which table items are?
+
+00:14:30 SPK_2
+I would use, for example, it depends a lot on ...
+
+00:14:35 SPK_2
+What the project needs, in this case.
+
+00:14:38 SPK_2
+If the project did not need, for example, ...
+
+00:14:42 SPK_2
+On the visual part, it would be, for example, a ...
+
+00:14:47 SPK_2
+I don't know, just command forninha.
+
+00:14:49 SPK_2
+Then it would only use state management and coupling.
+
+00:14:54 SPK_2
+But as he needed a visual part, so I would suggest, and it was also suggested, Idex.
+
+00:15:01 SPK_2
+The basic, excited and asynchronous Idex.
+
+00:15:04 SPK_2
+These would be the criteria.
+
+00:15:05 SPK_2
+Because it will always depend on each project, what each project will need.
+
+00:15:10 SPK_2
+For example, if it were a visual project, it would not even need state management, let alone coupling and asynchronous function.
+
+00:15:17 SPK_2
+So that's what I suggest according to what I think for a project.
+
+00:15:26 SPK_2
+And in the case of this ...
+
+00:15:27 SPK_2
+Yes, yes, yes.
+
+00:15:28 SPK_1
+You can continue, you can continue.
+
+00:15:30 SPK_2
+In the case of this project we had, all the categories that were suggested made sense, both at the beginning and also both at the end.
+
+00:15:41 SPK_1
+OK.
+
+00:15:42 SPK_1
+In the process of building the table, you remember if there was a lot of disagreement of the team or most of the time there was a consensus on the items, about the cost that was implemented?
+
+00:15:55 SPK_2
+Most of the time there was a consensus.
+
+00:15:58 SPK_2
+For example, there was a moment I had, I don't remember which one, but there was a category that we wanted to lower the complexity rate, but as we were not sure to lower like this or not, we decided to keep it, that I think it was Asynchronous function or state management, one of these two categories.
+
+00:16:22 SPK_2
+So, most, in this case, among the table of the first version, both the last, were kept based on the safety of everyone on the team.
+
+00:16:33 SPK_2
+So if we were not safe, we decided to keep what was proposed before.
+
+00:16:43 SPK_1
+What criterion would you use to define the cost of an item?
+
+00:16:47 SPK_1
+For example, in the table, we have the IF which has a cost of 1, which are brands and loopers.
+
+00:16:54 SPK_1
+And we also have asynchronous functions there.
+
+00:16:58 SPK_1
+Asynchronous functions manipulation has a cost of 2 ECP.
+
+00:17:01 SPK_1
+What is the criterion you use to define the different cost for different items?
+
+00:17:08 SPK_2
+Experience.
+
+00:17:12 SPK_2
+If the person has a lot of experience, for example, let's suppose, oh, have experience in everything, then that person will have the criterion, like, ah, they can all be one, or do not even put, for example, brands and loops, which It's so easy.
+
+00:17:27 SPK_2
+So the criterion I use, and I think I use it forward too, is always experience.
+
+00:17:32 SPK_2
+But then, of course, you have to do with everyone on the team.
+
+00:17:35 SPK_2
+It's no use just having an experience in everything, knowing everything, and of course there is no person without.
+
+00:17:42 SPK_2
+but the criterion that uses the experience.
+
+00:17:46 SPK_1
+I understood.
+
+00:17:47 SPK_1
+When you were there developing the codes, the CP table, was it often consulted or was it another guide that you looked from time to time?
+
+00:17:58 SPK_2
+She was a guide I looked from time to time, especially in the development area because I always checked her after finishing that part I was developing.
+
+00:18:10 SPK_2
+Because as I worked, as I said, how I worked with the visual part of the project, so there was things there that was not even part of ...
+
+00:18:20 SPK_2
+That I didn't even need to consult, in this case, in the table, which was not the case with basic widgets that were removed.
+
+00:18:28 SPK_2
+And especially the part of brands and loops, when I needed to do some ...
+
+00:18:33 SPK_2
+Using some if or an ethus, even one, so I used it very little because I knew I, for example, was not developing something that cost a little more CP, for example, state management or asynchronous functions.
+
+00:18:52 SPK_1
+OK.
+
+00:18:52 SPK_1
+You think this process of having three table versions, right?
+
+00:18:56 SPK_1
+We had one at the beginning, more or less in the half we had a second version and for the last week of the refactor had the final version.
+
+00:19:04 SPK_1
+Do you think this process always stopping once a week and reviewing the table is a process that it helps the most or it gets in the way to codar using the CDD?
+
+00:19:17 SPK_2
+It helps.
+
+00:19:19 SPK_2
+And it helps because, for example, he ends up asking you anyway if that item makes sense for example he also shows you whether you learned something else or gained more experience in that step during a table and another then it helps a lot even to even to Understand if the project he improved or worsened during these development steps.
+
+00:19:49 SPK_1
+There in your process of Codar, do the codes for implementation, how was your process of identifying, pointing and calculating a CP of a class?
+
+00:19:59 SPK_1
+How did you do this?
+
+00:20:07 SPK_2
+I always left the point of, what I knew and than I thought was harder.
+
+00:20:12 SPK_2
+For example, I will give the example of state management, which we had not seen right in the web part, which I came from the web course, not the mobile course.
+
+00:20:23 SPK_2
+So, as I did not participate in the specific course, the state management part for me was harder, even because I had not researched anything about.
+
+00:20:32 SPK_2
+So I saw an average of what was farther for me to implement and what was easier.
+
+00:20:42 SPK_2
+As we cannot define zero, for example, and always integers, so clearly I would define that the easiest number would be 1.
+
+00:20:52 SPK_2
+And, for example, in the part of asynchronous functions and state management.
+
+00:20:58 SPK_2
+The creation part is always easier.
+
+00:21:00 SPK_2
+So I would also define it is an easier number of all.
+
+00:21:06 SPK_2
+Already the part that demands a little more to know a little more of that category.
+
+00:21:11 SPK_2
+Then we would increase to three or two.
+
+00:21:15 SPK_2
+Why is not in Table 3 for example in the manipulation part.
+
+00:21:20 SPK_2
+Because it was one.
+
+00:21:23 SPK_2
+He was.
+
+00:21:24 SPK_2
+It was implemented with the entire team talked.
+
+00:21:27 SPK_2
+So as most were there speaking does not put two that two is enough.
+
+00:21:35 SPK_2
+So we everyone decided together to put two for that category.
+
+00:21:40 SPK_1
+I talk more about the activities.
+
+00:21:43 SPK_1
+What are CDD activities, for example, in the codar part?
+
+00:21:46 SPK_1
+It is you identify an ICP within a class, for example, you will look at the table, I think, you will look at the table, look at the code and identify this ICP.
+
+00:21:57 SPK_1
+Then you will point him to tell the Team that he has an ICP.
+
+00:22:01 SPK_1
+And then you will calculate this class to see what is the total load of this class.
+
+00:22:08 SPK_1
+How was your process?
+
+00:22:09 SPK_1
+Did you do just like I'm talking or had something that was different?
+
+00:22:16 SPK_2
+That's it, that's how you said.
+
+00:22:18 SPK_2
+When we were developing, for example, and we would point in a case of the class.
+
+00:22:22 SPK_2
+We always took care not to burst the maximum cognitive load.
+
+00:22:27 SPK_2
+Which was defined in that table.
+
+00:22:31 SPK_2
+So when we had ...
+
+00:22:33 SPK_2
+When we saw that, for example, there was a table that had ...
+
+00:22:36 SPK_2
+That was bursting, that had ...
+
+00:22:38 SPK_2
+It is, for example, abusive categories within a class, for example, within a file.
+
+00:22:43 SPK_2
+So we would warn that we would have to refact.
+
+00:22:47 SPK_1
+Do you remember if there was any class that was challenging to do this?
+
+00:22:49 SPK_1
+Was it hard to calculate, identify?
+
+00:22:55 SPK_2
+In my part of development, no.
+
+00:22:58 SPK_1
+Was it always quiet and such?
+
+00:23:01 SPK_2
+Yes.
+
+00:23:02 SPK_2
+Because I also always took the parts that were usually already refined.
+
+00:23:08 SPK_2
+So, as my part was to implement the visual part, I worked with categories that would not have to be accounted for in that class.
+
+00:23:16 SPK_2
+So they would not change the cognitive load of the class.
+
+00:23:23 SPK_1
+OK I understand.
+
+00:23:23 SPK_1
+So, you always took a class that she was ready and then you had to put the visual part more.
+
+00:23:30 SPK_2
+Was that?
+
+00:23:33 SPK_2
+A priori yes because sometimes there was class that was not ready yet and I already wanted to implement the visual part.
+
+00:23:39 SPK_2
+So I was already refracting to the person.
+
+00:23:43 SPK_2
+Even when the person forgot to account for.
+
+00:23:47 SPK_2
+So I made this count to see if I was bursting or not.
+
+00:23:51 SPK_2
+Then you were bursting, I would warn you and leave for another class other than that, because I didn't want to mess with the Back-end code.
+
+00:23:59 SPK_2
+Even understanding like this, but I didn't want to change the code because I didn't feel safe.
+
+00:24:06 SPK_2
+Did you have any class you had from scratch?
+
+00:24:10 SPK_2
+From zero?
+
+00:24:11 SPK_2
+There was, only I don't remember now, you have to see there in ...
+
+00:24:16 SPK_2
+in the GitHub repository.
+
+00:24:18 SPK_1
+But by feeling, we will try to remember the feeling you had.
+
+00:24:23 SPK_1
+Do you think building a class from scratch was easier than taking an existing class and applying some part end-end there?
+
+00:24:35 SPK_2
+In a way, yes.
+
+00:24:37 SPK_2
+Because as the scratch class I already have as I do, in my own way, my own way, in the class that is ready, I take time to analyze what is within that class, that file.
+
+00:24:54 SPK_2
+In the zero class, no.
+
+00:24:55 SPK_2
+In the zero class, I know where it will be, I know where I'm going to start, when I'm finishing, which I need to change.
+
+00:25:01 SPK_2
+This takes a little less time.
+
+00:25:05 SPK_2
+Already in ready classes, I have to analyze the class to see what I will implement yes or no.
+
+00:25:10 SPK_1
+I understood.
+
+00:25:12 SPK_1
+There was some time that you left the CDD aside, which you didn't even think about CDD, just thought about Feature, the code and after you thought about the CDD.
+
+00:25:20 SPK_1
+Was there a moment that happened?
+
+00:25:23 SPK_2
+At the beginning of the project, that's what happened to me the most, which I left the CDD aside.
+
+00:25:31 SPK_2
+Also because it did not change that much, because the project was still at the beginning, so the number of classes was smaller, the number of lines was also much smaller, so I had left the CDD aside.
+
+00:25:43 SPK_2
+I went to give him a little more attention.
+
+00:25:45 SPK_1
+Sorry, you can continue.
+
+00:25:48 SPK_2
+No, I just started paying attention really when the project was growing and becoming a little more complex.
+
+00:25:58 SPK_1
+I understood.
+
+00:25:58 SPK_1
+What made you drop the CDD by hand at this moment you put it aside?
+
+00:26:04 SPK_2
+I did not understand the proposal specifically.
+
+00:26:10 SPK_2
+I understood the general proposal, but the specific proposal of what it really is to work with CDD, so I think that's why I had left aside.
+
+00:26:21 SPK_1
+OK.
+
+00:26:22 SPK_1
+Did you exceed the limit of the classes very often?
+
+00:26:26 SPK_2
+Very often not.
+
+00:26:27 SPK_2
+Once, I think once or two, I surpassed, which was right at the end of the project that the class was bursting and had many lines of code that needed to be component.
+
+00:26:43 SPK_2
+But in general, I didn't exceed that much of the limit, no.
+
+00:26:47 SPK_1
+When you saw that a class exceeded the limit, how did you decide that you were critical of solving?
+
+00:26:53 SPK_1
+Why did you look and talk, will I solve this part here?
+
+00:26:57 SPK_1
+Did you have a pattern?
+
+00:26:59 SPK_2
+It had, for example, many repeated lines of the same function, for example.
+
+00:27:06 SPK_2
+As I worked hard on the look, I saw that I was repeating many lines that could be component and called in just one line.
+
+00:27:16 SPK_2
+So when I finished developing and then came that class and noticed it, I had this concern to soon component that.
+
+00:27:27 SPK_1
+Had any ICP that you considered more critical and you paid more attention?
+
+00:27:32 SPK_1
+Or that you ...
+
+00:27:32 SPK_1
+Usually this ICP here is what I try to component.
+
+00:27:38 SPK_2
+The coupling part ...
+
+00:27:40 SPK_2
+No, no coupling, sorry.
+
+00:27:42 SPK_2
+The part of asynchronous functions.
+
+00:27:45 SPK_1
+I understood.
+
+00:27:49 SPK_1
+OK.
+
+00:27:50 SPK_1
+Do you think the CDD has had a positive impact on the project?
+
+00:27:57 SPK_2
+Yes.
+
+00:27:59 SPK_2
+I could say only that only in my opinion the CDD it really made a difference from a point that the project it is constantly growing at the beginning of the project in my opinion the CDD it does not make so much difference I think even a little logical of He makes no difference because the person or the group he might think that we are developing right here, not giving any error, so let's continue as soon as it will not give error there for the future.
+
+00:28:34 SPK_2
+But the CDD, from the moment the project is on a level of many classes, many files, several folders, the person can even get lost, I don't know, in the repository, and the CDD it kind of helps you stop you To wonder if when you deliver the project when the project is completed any other code reviewer or that the person responsible for future maintenance will be able to do that easier more effectively.
+
+00:29:12 SPK_2
+So his CD helps a lot in this part in a positive way in a positive way that the CD is no longer ...
+
+00:29:26 SPK_2
+Be kind of an agent who is disturbing you in the case.
+
+00:29:30 SPK_2
+Disturbing you so you want to improve.
+
+00:29:34 SPK_1
+I understood.
+
+00:29:35 SPK_1
+You can see a ...
+
+00:29:36 SPK_1
+A negative impact of CBT?
+
+00:29:41 SPK_2
+Hmm ...
+
+00:29:44 SPK_2
+I think these issues of class limitation, type ...
+
+00:29:49 SPK_2
+of you have ...
+
+00:29:51 SPK_2
+Although it looks like this, look, they are bursting the class or the person will not understand, it can also be a negative point for him.
+
+00:29:59 SPK_2
+Just as it helps you in the part of decreasing the complexity of the code, it is also boring in this part.
+
+00:30:09 SPK_2
+This is the only negative point for being boring in this part.
+
+00:30:13 SPK_2
+Just a minute.
+
+00:30:16 SPK_2
+I went back.
+
+00:30:17 SPK_2
+He is found in this part just not allowing to extrapolate.
+
+00:30:23 SPK_2
+Do not allow to extrapolate the maximum connective load number.
+
+00:30:29 SPK_2
+I understood.
+
+00:30:32 SPK_1
+Let's go.
+
+00:30:37 SPK_1
+Is there any benefit that in practice have you been able to observe throughout this process?
+
+00:30:43 SPK_1
+Personal benefit or the project?
+
+00:30:48 SPK_2
+I think the personal benefit would be that I have this concern for developing my code.
+
+00:30:58 SPK_2
+Not necessarily to make a cleaner code that everyone will understand, but have the concern that my code will not be what a person will see and will not be able to understand.
+
+00:31:08 SPK_2
+Or it will just be something I can solve.
+
+00:31:13 SPK_2
+So I think this would be the benefit that the CDD brought to me, especially.
+
+00:31:18 SPK_1
+Before the CDB did you not care about it?
+
+00:31:21 SPK_2
+I didn't worry as much as today I was already concerned with making a code that I understood myself that in this case I would understand in a while if I stopped in that development but I didn't worry so much about other people if they would understand or not mine.
+
+00:31:40 SPK_1
+Code I understand you think the CDD made the code easier to understand in general?
+
+00:31:51 SPK_2
+For classes that are calling many functions and other classes as well, for example, dependent classes in the case.
+
+00:32:03 SPK_2
+I think in this type of files I think he didn't make it that easy to understand why there would be a person to access this other file that is being called an example of this is the Men file that I was checking here he after the refactor, He got a lot less lines of code and a ...
+
+00:32:30 SPK_2
+During his refactor, I noticed that some files were also created that could have been created before, but were not created.
+
+00:32:38 SPK_2
+But even so, if a person who was, for example, from this project development of this project, she get this file and read, I think she ...
+
+00:32:48 SPK_2
+I could not understand, unless it visited each of these files that are being called in this class.
+
+00:32:56 SPK_2
+So at this point, I think the CDD did not facilitate reading.
+
+00:33:03 SPK_2
+Even though he does not burst the maximum cognitive load.
+
+00:33:08 SPK_1
+I understood.
+
+00:33:11 SPK_1
+Do you think CDD offers improvements in code quality?
+
+00:33:16 SPK_1
+Did you feel improvements in code quality?
+
+00:33:21 SPK_2
+No, I didn't feel.
+
+00:33:24 SPK_1
+Did you feel improvements in the readability of the code?
+
+00:33:29 SPK_2
+Yes, in readability, yes, but in the quality of the code.
+
+00:33:33 SPK_2
+But so it may seem a little kind of controversial, but they are two different things.
+
+00:33:40 SPK_2
+Readability and quality of code, both writing and, for example, of indentation.
+
+00:33:49 SPK_1
+OK.
+
+00:33:49 SPK_1
+Do you think the complexity that the CDD marked there in the classes really represented the complexity you felt?
+
+00:34:02 SPK_2
+In general, yes.
+
+00:34:03 SPK_2
+Because as the CDD is defined, for example, complexity rates are defined from the team, not just one person.
+
+00:34:14 SPK_2
+So, as everyone was in consensus, he made sense, yes.
+
+00:34:18 SPK_2
+But individually ...
+
+00:34:19 SPK_2
+Also because I gave in, for example, even if I found something, for example, this index here has to be 3 and most said S2, I would have to review later if it really was worth 3.
+
+00:34:34 SPK_2
+So, he did ...
+
+00:34:39 SPK_2
+He...
+
+00:34:43 SPK_2
+That's it, that's what I have to talk about.
+
+00:34:45 SPK_2
+I forgot the word he said.
+
+00:34:47 SPK_1
+All good.
+
+00:34:50 SPK_1
+In general, do you think the CDL was successful in his proposal?
+
+00:34:59 SPK_2
+Considering the time defined and stipulated for the project, I don't think so.
+
+00:35:06 SPK_2
+Because the project still needed another week to suffer the necessary refactors for the project and the class codes.
+
+00:35:15 SPK_2
+So, during the stipulated time and during this time -stipulated time worked, I think it was not 100% succeeded.
+
+00:35:28 SPK_1
+OK.
+
+00:35:29 SPK_1
+In the beginning, the CDD, did it make sense or was it confused?
+
+00:35:35 SPK_1
+When did he start making sense to you?
+
+00:35:40 SPK_2
+In the beginning, I just had ...
+
+00:35:44 SPK_2
+Listened to what the CDD would be and in this case what we would work and was informed to me.
+
+00:35:53 SPK_2
+Only I thought something different for the CDD.
+
+00:35:57 SPK_2
+I thought it was supposed to be used on there now and that not his original proposal that is worried that the future is appeared for example an index of complexity.
+
+00:36:11 SPK_2
+So at first, for me, he didn't make so much sense.
+
+00:36:14 SPK_2
+He began to make sense after the meetings discussed and especially after half of the project.
+
+00:36:21 SPK_1
+Do you think the CDD complicated the project?
+
+00:36:23 SPK_1
+Complicated even more the project?
+
+00:36:27 SPK_2
+In a way, no.
+
+00:36:29 SPK_2
+He complicated only in paying attention, right?
+
+00:36:33 SPK_2
+Which was more one more concern, it would be another concern in the project of being careful to use it but it was just that, in the concern to use.
+
+00:36:48 SPK_1
+OK.
+
+00:36:50 SPK_1
+There was something that, some time, something you were doing during the project that CBD, which you thought could be easier, could this part here?
+
+00:37:02 SPK_1
+Or did you have any difficulty in any of the processes that you would like to have improvements?
+
+00:37:09 SPK_2
+No.
+
+00:37:11 SPK_1
+Had any part that you thought the CDD doesn't help much?
+
+00:37:18 SPK_2
+At first, only at the beginning of the project.
+
+00:37:22 SPK_1
+OK.
+
+00:37:23 SPK_1
+Do you think that both you and the team members felt that you had any resistance to apply the CDD, to use it?
+
+00:37:32 SPK_1
+Did you have resistance or did you realize that someone in the group, someone from the team or the whole team had resistance with the CDD?
+
+00:37:41 SPK_2
+No.
+
+00:37:45 SPK_2
+Everyone accepted the CDD proposal.
+
+00:37:47 SPK_2
+The existence was only in any timely meeting that was discussed about some complexity rate, but other than that, no.
+
+00:37:59 SPK_1
+Would you use CDD in the future?
+
+00:38:04 SPK_2
+It depends on the project I would follow.
+
+00:38:07 SPK_2
+If it were a project that required a little over time, for example, that was a medium -sized or large project, so.
+
+00:38:18 SPK_2
+For example, the proposal of this project that we had, right, of the application.
+
+00:38:23 SPK_2
+I think he made sense on the CDD.
+
+00:38:25 SPK_2
+I think I would not use, for example, in projects that are short, which would be developed in one to five days, for example, I think these projects would not need CDD implementation.
+
+00:38:42 SPK_2
+OK.
+
+00:38:42 SPK_1
+If anyone wanted to apply CDD, I knew you already applied CDD on a project, which tip would you give to that person if she came to ask?
+
+00:38:57 SPK_2
+I would say it is better to work in groups.
+
+00:39:03 SPK_2
+Because if the person is using a CDD alone, I don't think it makes so much sense.
+
+00:39:11 SPK_1
+What is the main lesson you would take to the future when using the CDD again?
+
+00:39:22 SPK_2
+During my programming and not when I was over because although I used it only when I finished the part I was developing and even for the demand I was doing that it was just the visual part I didn't feel as much effective as I I felt a period later when I went to test it when I was developing and consulting the table to.
+
+00:39:54 SPK_1
+OK.
+
+00:39:55 SPK_1
+Is there anything that you would improve the CDD approach?
+
+00:40:01 SPK_1
+Any implementation, any change that you would make to make this process better, these CDD activities?
+
+00:40:12 SPK_2
+I think that...
+
+00:40:14 SPK_2
+I don't think so.
+
+00:40:18 SPK_1
+Beauty.
+
+00:40:19 SPK_1
+Lastly, there's something important that I didn't ask you, but that you think it's pertinent to talk, share, some thought about the CDD?
+
+00:40:32 SPK_2
+I just wanted to ask a question to confirm.
+
+00:40:38 SPK_2
+For example, in the first table, the maximum cognitive load was 32 points.
+
+00:40:45 SPK_2
+The calculation is done as follows, add all CP points and multiplies by 2, isn't it?
+
+00:40:52 SPK_1
+Exactly.
+
+00:40:53 SPK_2
+And in the last table the maximum cognitive load was 13, but it was not being multiplied by 2.
+
+00:41:02 SPK_1
+Is it reduced the items?
+
+00:41:06 SPK_2
+Yes.
+
+00:41:08 SPK_1
+And made a simple sum of all ICPs.
+
+00:41:12 SPK_2
+Oh, yes, they did only the sum, I understood.
+
+00:41:14 SPK_1
+This will not be exactly half of what was the first table.
+
+00:41:19 SPK_2
+I understood, I understood.
+
+00:41:22 SPK_2
+Not because when I had seen the last table I thought hell diminished so much but then I went to make the calculation there he really diminished but it was even scared because it decreased from 32 to 13 we should have done something wrong.
+
+00:41:38 SPK_1
+But not ok just for people out of it just for the researchers of the future to understand, did you participate in the last phase of project refactoring?
+
+00:41:54 SPK_2
+No, I could not participate in the last phase of refactoring.
+
+00:41:57 SPK_2
+Although I wanted to, I could not due to some personal situations and ended up not participating.
+
+00:42:08 SPK_1
+Beauty, so thank you for sharing your experience.
+
+00:42:13 SPK_1
+It is very important for us to have insights and have references so that we can improve the approach in future projects.
+
+00:42:22 SPK_1
+And then, as you know, I'll be available there on WhatsApp.
+
+00:42:25 SPK_1
+If you remember something, if you have any thoughts that have not been shared here, you can tell me there on WhatsApp.
+
+00:42:34 SPK_1
+And we keep this contact and that's it.
+
+00:42:38 SPK_1
+Thank you for participating.
+
+00:42:42 SPK_2
+Beauty then.
+
+00:42:43 SPK_2
+Thank you there for the opportunity to have participated in this project.
+
+00:42:47 SPK_2
+I really liked it.

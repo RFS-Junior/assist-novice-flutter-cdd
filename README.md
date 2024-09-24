@@ -30,7 +30,7 @@ Folder containing artifacts related to the semi-structured interviews conducted 
 
 - **/Recordings:** Audio files (mp3) in Portuguese of the interviews.
 - **/Summaries:** Summaries of the interviews in Portuguese (docx files), used for result analysis.
-- **/Transcripts:** Complete transcripts of the interviews in Portuguese (docx files).
+- **/Transcripts:** Complete transcripts of the interviews in Portuguese and English translation (txt files). In all the files in this folder, SKP_1 is the interviewer, and SKP_2 is the interviewee.
 - **CDD Interview Script.docx:** Interview script in Portuguese, divided by topic categories.
 - **Interview Schedule.xlsx:** Interview schedule.
 

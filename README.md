@@ -31,16 +31,16 @@ Folder containing artifacts related to the semi-structured interviews conducted 
 - **/Recordings:** Audio files (mp3) in Portuguese of the interviews.
 - **/Summaries:** Summaries of the interviews in Portuguese (docx files), used for result analysis.
 - **/Transcripts:** Complete transcripts of the interviews in Portuguese and English translation (txt files). In all the files in this folder, SKP_1 is the interviewer, and SKP_2 is the interviewee.
-- **CDD Interview Script.docx:** Interview script in Portuguese, divided by topic categories.
+- **CDD Interview Script.docx:** Interview script, divided by topic categories.
 - **Interview Schedule.xlsx:** Interview schedule.
 
 #### /Meetings
 Documentation of meetings held throughout the workshop.
 
-- **Refactoring - Planning (09-30-24):** Audio and transcription of the refactoring phase planning.
-- **Sprint 2 - Retrospective (09-16-24):** Audio and transcript of the Sprint 2 retrospective.
-- **Sprint 3 - Planning (09-18-24):** Audio and transcript of Sprint 3 planning.
-- **Sprint 3 and 4 - Retrospective and Planning (2509):** Audio and transcript of the retrospective and planning of Sprints 3 and 4.
+- **Refactoring - Planning (09-30-24):** Audio and transcription in Portuguese and English of the refactoring phase planning.
+- **Sprint 2 - Retrospective (09-16-24):** Audio and transcript in Portuguese and English of the Sprint 2 retrospective.
+- **Sprint 3 - Planning (09-18-24):** Audio and transcript in Portuguese and English of Sprint 3 planning.
+- **Sprint 3 and 4 - Retrospective and Planning (2509):** Audio and transcript in Portuguese and English of the retrospective and planning of Sprints 3 and 4.
 
 ### /figure
 Images used in the paper or relevant to the project.

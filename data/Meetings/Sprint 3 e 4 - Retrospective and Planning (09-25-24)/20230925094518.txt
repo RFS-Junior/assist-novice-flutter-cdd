@@ -1,0 +1,233 @@
+00:00:02 SPK_1
+Também fiz.
+
+00:00:05 SPK_2
+Também.
+
+00:00:05 SPK_2
+Tá, então...
+
+00:00:06 SPK_2
+É...
+
+00:00:06 SPK_2
+O que que é começar falando aí?
+
+00:00:11 SPK_2
+Como é que...
+
+00:00:18 SPK_3
+Na minha opinião, acho que não tem nada pra mudar.
+
+00:00:19 SPK_3
+É...
+
+00:00:19 SPK_3
+Até quando tá na operação de passado, acho que tá bom.
+
+00:00:27 SPK_2
+É, da última...
+
+00:00:30 SPK_2
+Da primeira tabela, da primeira versão para a segunda, a gente tirou a questão dos widgets básicos, coluna, row, que são ali da Flex.
+
+00:00:50 SPK_2
+Por que vocês notaram que isso realmente foi algo que fez diferença ou acha que deve retornar?
+
+00:00:58 SPK_2
+Tem alguma opinião sobre essa mudança?
+
+00:01:00 SPK_2
+Vocês viram algum impacto no código de vocês na hora de desenvolver?
+
+00:01:08 SPK_2
+E a quantidade de carga cognitiva máxima, que está em 30 pontos, que é o dobro da quantidade de CPs que a gente definiu.
+
+00:01:20 SPK_2
+São mais ou menos essas perguntas.
+
+00:01:22 SPK_2
+E também sobre como foi a experiência na retrospectiva, que eu acho que vocês poderiam colaborar.
+
+00:01:38 SPK_3
+É, eu acho que na parte do.
+
+00:01:40 SPK_4
+Blood Pool, pra mim...
+
+00:01:42 SPK_3
+Eu acho que melhorou a questão de testar a Call e a No.
+
+00:01:45 SPK_3
+Acho que a oportunidade da gente usar o It mais avançado.
+
+00:01:51 SPK_3
+Acho que foi uma boa mesmo.
+
+00:01:53 SPK_3
+E é isso.
+
+00:01:56 SPK_2
+Beleza.
+
+00:02:00 SPK_2
+Mais alguém aí?
+
+00:02:00 SPK_2
+É...
+
+00:02:05 SPK_4
+Com a retirada do cabelão, um pouco mais de verdade sobre a questão de compartilhar algum indivíduo, acho, com a sociedade.
+
+00:02:11 SPK_4
+Tenho que contar também que me deu uma preocupação na parte da contabilização de inspeções.
+
+00:02:25 SPK_4
+Fala pra mim, né, que eu sempre estava contabilizando quando eu terminava de desenvolver.
+
+00:02:30 SPK_4
+Aí, quando eu terminava de desenvolver, eu contava os inspeções.
+
+00:02:34 SPK_4
+Aí com a retirada dos espaços, aí.
+
+00:02:35 SPK_1
+Todo mundo fica muito mais preocupado com o final.
+
+00:02:57 SPK_2
+Tá, beleza.
+
+00:02:57 SPK_2
+Mais alguém aí?
+
+00:03:06 SPK_4
+O César tem feito vocês refatorar uma classe?
+
+00:03:08 SPK_1
+Ou mudou o estilo de como vocês.
+
+00:03:17 SPK_2
+Programam, de alguma maneira?
+
+00:03:19 SPK_2
+Até agora não.
+
+00:03:36 SPK_4
+Ele não fez eu refatorar uma classe, mas pelo fato de antes, quando eu adicionava...
+
+00:03:44 SPK_4
+Deve ter só um caso específico, que eu não podia fazer a configuração da tela, só que aí a Clarke explorou o tamanho do CPU por causa de muitos valores.
+
+00:03:56 SPK_4
+Aí eu precisava me fatorar pra componentizar algumas coisas.
+
+00:04:00 SPK_4
+Que não faziam sentido componentizar, mas tinha que componentizar porque não pôde estourar o ataque positivo.
+
+00:04:08 SPK_4
+Aí, por isso, depois dessa experiência, ele me ajudou a olhar pra facilidade de compreensão do cosmo.
+
+00:04:17 SPK_4
+Por exemplo, sempre, ao invés de eu criar vários elementos que tenham o mesmo A mesma organização, por exemplo, um text, ele tem um text que tem a fonte, tem a cor, ele tem também o tamanho.
+
+00:04:37 SPK_4
+Eu sei que vou repetir várias vezes, na clássica, como componente, ele me ajuda a ter essa visão.
+
+00:04:45 SPK_4
+E com base nisso, sempre que eu posso, eu faço esse tipo de desenvolvimento, de componentizar alguns itens, para poder usar conforme o controle.
+
+00:04:56 SPK_1
+Entendi.
+
+00:05:09 SPK_2
+Vocês estão usando a de Provider, né?
+
+00:05:12 SPK_2
+A galera que, por exemplo, eu imagino que quem criou os Providers, né?
+
+00:05:19 SPK_2
+Alguns Providers ali do serviço para gerenciar o estado tem...
+
+00:05:26 SPK_2
+Entende como funciona o código e tudo mais.
+
+00:05:29 SPK_2
+Mas é a galera que, por exemplo, você precisa modificar ali um código que uma outra pessoa criou.
+
+00:05:35 SPK_2
+Quando tem Provider, tá fácil de entender.
+
+00:05:39 SPK_2
+É porque, por enquanto, a gente só usa Provider, não estamos usando FlutterBlock, por exemplo.
+
+00:05:46 SPK_2
+Está sendo fácil de entender ou Provider realmente é um fator que pesa ali na complexidade da classe?
+
+00:05:56 SPK_1
+Depende um pouco, por exemplo.
+
+00:06:08 SPK_4
+Do que o provider está assumindo.
+
+00:06:11 SPK_4
+Por exemplo, tem algumas classes que o provider vai iniciar o estado de, por exemplo, da tela na questão de tema, tema claro e tema escuro.
+
+00:06:25 SPK_4
+Aí ele é um pouco mais fácil de compreender, mas tem alguns providers ali que trabalham com a parte de...
+
+00:06:34 SPK_4
+os órgãos iniciadores, dos gerentes, que eles são Beleza, entendi.
+
+00:07:00 SPK_2
+Mais alguém aí quer contar a experiência do CDD durante 6 prints?
+
+00:07:12 SPK_2
+Ou fazer até uma alteração de CP, como a gente fez na semana passada.
+
+00:07:17 SPK_2
+Ou acho que tá funcionando como tá no momento.
+
+00:07:21 SPK_2
+Devemos fazer na sprint, que foi a sprint passada.
+
+00:07:24 SPK_1
+Eu acho que hoje foi o final.
+
+00:07:31 SPK_4
+Eu acho que o ritmo tava bom.
+
+00:07:32 SPK_4
+Eu também acho que tava bom.
+
+00:07:44 SPK_2
+Beleza, então vamos manter a tabela não vai mudar, continua a mesma pontuação 30 pontos a gente já trabalhou alguma animação no aplicativo?
+
+00:08:26 SPK_2
+Ainda não, eu estou querendo fazer essa parte só quando terminar mais de algum elemento das telas aqui pra não ter nenhum tipo de conflito depois de precisar tirar uma animação e tal.
+
+00:08:31 SPK_2
+Ah tá, entendi, verdade.
+
+00:08:32 SPK_2
+Porque a gente pode ter uma tela, você cria ali uma animação e depois essa tela sair por algum motivo.
+
+00:08:36 SPK_2
+Aí a animação é meio chato de criar, né?
+
+00:08:40 SPK_4
+E é verdade, dá um.
+
+00:08:44 SPK_1
+Pouco mais.
+
+00:08:55 SPK_2
+De trabalho que eu percebi, também, como se ficasse a parte de...
+
+00:08:59 SPK_2
+de funcionar a responsabilidade.
+
+00:09:00 SPK_2
+Beleza, então.
+
+00:09:00 SPK_2
+Então, mantemos aqui a tabela como está.

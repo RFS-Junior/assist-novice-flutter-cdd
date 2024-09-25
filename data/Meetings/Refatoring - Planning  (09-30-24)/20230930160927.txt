@@ -1,0 +1,1055 @@
+00:00:08 SPK_1
+E aí, a questão é o seguinte, nessa tabela aqui, a gente tem as classes que acabam com índice total maiores, porque eu organizei aqui pelo maior.
+
+00:00:24 SPK_1
+E aí a gente tem essa outra classe aqui, Data de Projeto tem 30.
+
+00:00:28 SPK_1
+Tem aqui Link Demand, que eu não sei o que significa muito.
+
+00:00:34 SPK_1
+Projeto Form, enfim.
+
+00:00:36 SPK_1
+E aí eu tenho essa outra coluna aqui que eu tô vendo se elas estão dentro do limite, né?
+
+00:00:44 SPK_1
+E aqui nessa primeira eu determino que se o limite tiver igual ou menor que 30, então ela está dentro do limite.
+
+00:00:54 SPK_1
+No caso dessa daqui, ela tem 30, então ela está dentro do limite.
+
+00:00:58 SPK_1
+Caso não, ela vai ser falsa.
+
+00:01:00 SPK_1
+Essas três classes aqui estão fora do limite de CP que a gente definiu inicialmente.
+
+00:01:07 SPK_1
+É só a gente observar que tem, na verdade, três classes aqui que estão fora do limite.
+
+00:01:13 SPK_1
+Só que aí, qual é a minha proposta que eu tô fazendo aqui pra essa semana?
+
+00:01:18 SPK_1
+É que a gente diminua o limite bastante, pela metade.
+
+00:01:22 SPK_1
+Ou seja, a gente vai fazer uma fatoração pra que todas as classes fiquem dentro do limite igual ou menor que 15.
+
+00:01:32 SPK_1
+Porque 15 é o número total de ICPs.
+
+00:01:38 SPK_1
+Então a ideia é que, sei lá, que a gente tenha uma classe que ela tenha um de cada um desses itens aqui.
+
+00:01:46 SPK_1
+Só um exemplo, claro que não vai ser assim, né?
+
+00:01:47 SPK_1
+Então ela vai ter uma print, um acoplamento, uma opção assíncrona, um índice assíncrono, um estado e uma animação.
+
+00:02:02 SPK_1
+e ela teria 15 pontos de CP.
+
+00:02:05 SPK_1
+E aí a ideia não é que a gente coloque a questão dos widgets básicos, porque a gente não vai tratar essa parte do layout e tudo mais.
+
+00:02:18 SPK_1
+E talvez tirar esse widget animado aqui, porque a gente não vai usar isso.
+
+00:02:26 SPK_1
+O que vocês acham?
+
+00:02:26 SPK_2
+Interessante essa abordagem.
+
+00:02:32 SPK_1
+Então a gente só trabalharia a parte do layout mesmo.
+
+00:02:36 SPK_1
+E aí a gente teria que trabalhar dentro dessas dez classes aqui, refatorar essas dez classes.
+
+00:02:49 SPK_1
+Obviamente isso vai fazer com que, por exemplo, no momento a gente tem quarenta e cinco, quarenta e cinco não né, quarenta e quatro classes.
+
+00:02:58 SPK_1
+Isso faria com que a gente tivesse mais classes, né?
+
+00:03:00 SPK_1
+Porque, por exemplo, o MainApp vai se transformar em mais uma ou mais duas classes.
+
+00:03:06 SPK_1
+Detalhes da demanda também.
+
+00:03:07 SPK_1
+Se eu não me engano, eu acho que detalhes da demanda tem...
+
+00:03:11 SPK_1
+tem dois providers, tem dois streams, se eu não me engano.
+
+00:03:16 SPK_1
+Eu vi uma classe que era assim, que tinha vários providers.
+
+00:03:18 SPK_1
+Oi?
+
+00:03:19 SPK_1
+É, eu não entendi.
+
+00:03:19 SPK_1
+Eu acho que é.
+
+00:03:24 SPK_2
+Mais detalhes.
+
+00:03:32 SPK_1
+Pois é, e aí essa que é a questão, né?
+
+00:03:34 SPK_1
+É voltar lá no código e lembrar porque que a pessoa fez isso, né?
+
+00:03:38 SPK_1
+Por que que eu fiz isso?
+
+00:03:39 SPK_1
+Qual era a minha lógica?
+
+00:03:41 SPK_1
+E aí você tentar repensar uma lógica, porque ó, imagina que a gente coloca uma pessoa nova nesse projeto e ela tem que fazer aqui uma manutenção dessa demanda de detalhes.
+
+00:03:52 SPK_1
+A gente voltou bastante nessa classe, né?
+
+00:03:55 SPK_1
+Se ela for ler esse código aqui, ela vai demorar bastante pra entender o que ele faz e tudo mais.
+
+00:04:02 SPK_1
+Aí fica mais difícil fazer uma manutenção aqui, por exemplo.
+
+00:04:05 SPK_1
+E aí, a ideia é que a gente tenha classes, por exemplo, imagina aqui uma classe com um tamanho, sei lá, razoável.
+
+00:04:15 SPK_1
+Aqui, ó.
+
+00:04:17 SPK_1
+StartProject.
+
+00:04:18 SPK_1
+Onde é que fica isso?
+
+00:04:30 SPK_1
+Aqui ó, tem essa classe que ela é até assim, né, razoavelmente grande, ela tem 143 linhas.
+
+00:04:36 SPK_1
+Então, ela tem 143 linhas, tem 14 pontos de ICP.
+
+00:04:40 SPK_1
+Então, provavelmente, a possibilidade de eu entender ela mais rápido é grande, porque o ICP dela é pequeno, né, 14.
+
+00:04:48 SPK_1
+Então, se a gente mantesse as nossas classes dentro de 14, 15, né, dependendo da quantidade de ICPs que a gente vai definir ali, Todas as classes serão pequenas.
+
+00:05:01 SPK_1
+Elas terão aqui 143, 150 linhas.
+
+00:05:04 SPK_1
+Você não terá uma classe de 474 linhas.
+
+00:05:09 SPK_1
+Então, a ideia é essa.
+
+00:05:14 SPK_1
+Se a gente reduzir bastante o ICP.
+
+00:05:16 SPK_1
+Porque esse aqui já estourou o ICP mesmo que fosse 30.
+
+00:05:19 SPK_1
+Teria que tirar 8 pontos de ICP daqui de alguma maneira.
+
+00:05:24 SPK_1
+e aí a ideia é que a gente trabalhe em cima desse limite aqui ó que é o do igual 15 igual ou menor que 15 na verdade o que que vocês acham aí desse desafio?
+
+00:05:46 SPK_2
+Eu acho que é maravilhoso Aí, tipo assim, a gente tem que ver como é que vai organizar as partes, né?
+
+00:05:59 SPK_2
+Porque muitas partes vão ser criadas.
+
+00:06:02 SPK_2
+E aí, precisa ver como é que vai organizar melhor, porque a gente já tá organizando as partes, né?
+
+00:06:07 SPK_1
+Isso, isso.
+
+00:06:08 SPK_1
+A gente vai fazer...
+
+00:06:10 SPK_1
+Pode falar?
+
+00:06:11 SPK_2
+Não, pois é.
+
+00:06:12 SPK_2
+Aí é o seguinte.
+
+00:06:12 SPK_2
+Até o Windows vai ajudar nessa parte.
+
+00:06:13 SPK_1
+Mas, basicamente, o que a gente vai fazer?
+
+00:06:25 SPK_1
+deixa eu ver aqui, é porque geralmente essa estrutura aparece em bibliotecas mas, por exemplo, vocês podem pesquisar aí como estruturar como...
+
+00:06:41 SPK_1
+não, arquitetura arquitetura de pastas E aí vai ter várias pessoas falando de várias arquiteturas.
+
+00:06:56 SPK_1
+Não, esse daqui é outro rolê.
+
+00:06:58 SPK_1
+Estruturando um projeto fora.
+
+00:07:05 SPK_1
+aqui o cara vai falar sobre, ele tem blocos, modelos, repositórios vão ser várias dicas e no final quando a gente escolhe alguma arquitetura para seguir por exemplo aqui ele tem uma arquitetura diferente também ele está por representações, domínios e dados como vai ficar a pasta dele Enfim, tem muita coisa sobre esse assunto.
+
+00:07:40 SPK_1
+E aí o que acontece?
+
+00:07:41 SPK_1
+Geralmente a gente, quando a gente define alguma coisa, a gente faz a arquitetura disso, né?
+
+00:07:47 SPK_1
+Imagina, eu vou ter uma agente seguinte.
+
+00:07:49 SPK_1
+Então imagina que a gente tá aqui na raiz, então a gente vai ter models, que a gente vai colocar as entidades.
+
+00:07:59 SPK_1
+A gente vai ter screens, que a gente vai colocar telas do usuário.
+
+00:08:06 SPK_1
+a gente vai ter serviços de banco de dados, dispositivo aí a gente vai ter as utilidades do código Vamos supor que você tenha ali um regex, uma coisa para converter arquivo JSON, sei lá, algumas utilidades básicas.
+
+00:09:06 SPK_1
+E aí, por exemplo, aqui nas screens a gente pode ter o seguinte.
+
+00:09:11 SPK_1
+A gente vai fazer por módulo, vamos supor, só um exemplo, não precisa ser assim.
+
+00:09:17 SPK_1
+A gente faz por módulo, ou seja, imagina que tu tem ali o aluno, então eu vou ter o aluno.
+
+00:09:24 SPK_1
+E aí, dentro desse aluno, eu vou ter o nome da tela.
+
+00:09:29 SPK_1
+Nome da tela.
+
+00:09:32 SPK_1
+Beleza, só que eu vou ter também outra pasta chamada Components Que nessa pasta eu coloco ali os componentes que eu vou reutilizar em outros lugares Sei lá, imagina ali um avatar do perfil do usuário Aí eu coloco aqui né Avatar Profile user.dart, que é o nome do arquivo.
+
+00:09:58 SPK_1
+Isso vai estar dentro de component, que eu reutilizo dentro do aluno, dentro da pasta do aluno.
+
+00:10:07 SPK_1
+Só um exemplo.
+
+00:10:07 SPK_1
+E aí quando a gente definir, a gente vai fazer essa essa estruturazinha aqui vai comentar ela aí é só seguir, entendeu?
+
+00:10:15 SPK_1
+Ah, tem um componente que eu uso ali dentro da tela do projeto eu reutilizo no projeto, eu reutilizo no detalhe do projeto também eu utilizo em sei aonde, beleza, qual é o...
+
+00:10:27 SPK_1
+qual é a...
+
+00:10:30 SPK_1
+A pasta que liga todos esses dois arquivos que eu tô fazendo.
+
+00:10:35 SPK_1
+Ah, é a pasta projetos.
+
+00:10:37 SPK_1
+Ah, então cria uma pasta chamada componente dentro da pasta projeto e lá dentro tu coloca esse componente.
+
+00:10:46 SPK_1
+Deu pra entender?
+
+00:10:52 SPK_1
+É só um exemplo, tipo, de como que pode ser, mas no fim das contas a gente...
+
+00:10:58 SPK_1
+Não, a ideia de como vai ser exatamente não precisa ser essa que eu tô falando, só tô dando um exemplo.
+
+00:11:06 SPK_1
+Mas o que eu tô dizendo é que a gente vai ter, por exemplo, pode ser no readme do projeto, a gente vai ter um lugar dizendo como que é a arquitetura.
+
+00:11:15 SPK_1
+Entendeu?
+
+00:11:16 SPK_1
+A gente vai ter a pasta Models.
+
+00:11:19 SPK_1
+Na pasta Models vai ter isso, aquilo, aquilo.
+
+00:11:21 SPK_1
+A gente vai ter a pasta Screens.
+
+00:11:23 SPK_1
+A pasta Screens vai ter isso, isso, isso.
+
+00:11:26 SPK_1
+A gente vai ter a pasta Service.
+
+00:11:29 SPK_1
+A pasta Service vai ter isso, aquilo, aquilo.
+
+00:11:32 SPK_1
+E aqui eu estava explicando como que a gente poderia gerenciar esses componentes que são reutilizados.
+
+00:11:38 SPK_1
+Por exemplo, utilizando a pasta Componentes.
+
+00:11:42 SPK_1
+que a gente pode colocar dentro de alguma pasta dependendo de aonde a gente reutiliza esses componentes só que a ideia de colocar componentes aqui na pasta principal como está sendo feito aqui por exemplo aqui eu estou na pasta lib na pasta lib eu tenho uma pasta chamada componentes Isso daqui não é muito legal porque você não sabe muito bem onde ficam esses compostos, onde eles estão sendo reutilizados.
+
+00:12:20 SPK_1
+E aí, no caso de quando você, vamos supor, eu tenho a pasta screens, deixa eu separar bem aqui.
+
+00:12:27 SPK_1
+Eu tenho a pasta screens, dentro dessa pasta screens eu tenho a pasta alunos.
+
+00:12:32 SPK_1
+E aí dentro dessa pasta alunos eu tenho, sei lá, aluno ou detalhes de aluno.
+
+00:12:42 SPK_1
+E aí eu tenho algum componente que eu criei lá dentro de DataGridAluno.
+
+00:12:48 SPK_1
+Aí eu vou componentizar essa coisa.
+
+00:12:50 SPK_1
+Aí eu crio uma pasta chamada component.
+
+00:12:54 SPK_1
+E essa pasta component eu vou ter um outro arquivo chamado, sei lá, avatar do aluno.
+
+00:13:08 SPK_1
+E aí eu reutilizo isso aqui dentro.
+
+00:13:10 SPK_1
+Mas pode ser que eu crie um outro arquivo, sei lá.
+
+00:13:16 SPK_1
+Editar perfil do aluno.
+
+00:13:24 SPK_1
+E aí esse avatar aqui do aluno, eu vou utilizar tanto dentro de detalhes do aluno quanto editar perfil do aluno.
+
+00:13:34 SPK_1
+Então como eu utilizo só aqui dentro desses dois, eu crio essa pasta componente dentro da pasta aluno e coloco o avatar do aluno dentro dessa pasta.
+
+00:13:45 SPK_1
+Deu para entender isso bem?
+
+00:13:51 SPK_1
+Entendi.
+
+00:13:51 SPK_2
+Então o componente é só para aquela parte.
+
+00:13:53 SPK_1
+Isso.
+
+00:13:54 SPK_1
+Aí eu tenho um outro, eu tenho aqui gerente.
+
+00:14:00 SPK_1
+Mesma coisa, eu vou ter uma pasta chamada component, e aqui eu vou ter detalhes do gerente E aí vamos supor que lá dentro eu tenha alguma outra coisa, sei lá.
+
+00:14:20 SPK_1
+Só que aí é uma coisa a se pensar.
+
+00:14:23 SPK_1
+Agora vamos supor que eu tenha esse aqui, avatar do aluno.
+
+00:14:27 SPK_1
+Só que esse avatar do aluno eu também posso utilizar aqui dentro do detalhe de gerente.
+
+00:14:31 SPK_1
+Então o que eu faço?
+
+00:14:32 SPK_1
+Eu tiro essa pasta daqui e eu coloco dentro do que é comum nas duas pastas, que é a pasta screen.
+
+00:14:38 SPK_1
+Então a pasta screen pode ter uma pasta component que vai ter, sei lá, o avatar.
+
+00:14:44 SPK_1
+Avatar do usuário.
+
+00:14:49 SPK_1
+E aí eu utilizo o avatar do usuário tanto dentro de aluno quanto dentro de gerente.
+
+00:14:54 SPK_1
+Aqui não vou precisar mais disso.
+
+00:14:57 SPK_1
+Deu pra entender?
+
+00:14:58 SPK_1
+Então isso aqui eu utilizo dentro de Screen porque Screen é onde tem o aluno e onde tem o gerente.
+
+00:15:05 SPK_1
+Só que quando eu coloco o componente aqui, por exemplo...
+
+00:15:11 SPK_1
+Eu não vou utilizar o componente dentro do Model, eu não vou utilizar o componente dentro do Service.
+
+00:15:16 SPK_1
+Então não faz sentido ela ficar aqui.
+
+00:15:20 SPK_1
+O ideal é que ela fique na raiz da onde eu vou começar a usar ela.
+
+00:15:25 SPK_1
+Deu pra entender?
+
+00:15:28 SPK_1
+Tem.
+
+00:15:28 SPK_2
+Dá pra entender.
+
+00:15:31 SPK_1
+Exato, e aí a gente vai fazer aqui hoje mesmo, a gente já vai definir essa arquitetura até o final do dia, e a gente vai botar lá no Readme, fazer uma discussão no Whatsapp, vocês tiram as dúvidas, ah, não entendi essa parte aqui e tal, e a gente estrutura pra esse tipo, tá?
+
+00:15:50 SPK_1
+Então, a primeira coisa é mudar esse service aqui, então a gente já tem uma pasta service que faz sentido, service, só que não faz sentido é a maneira como tá escrito.
+
+00:16:02 SPK_1
+Então, transformar isso aqui em uma classe de serviço mesmo, seguindo o padrão comum de serviço, é tirar aqui desses provide essas funções que vão para o banco de dados.
+
+00:16:14 SPK_1
+Isso daqui não vai mais no banco de dados.
+
+00:16:16 SPK_1
+Isso daqui quem vai fazer vai ser o service.
+
+00:16:20 SPK_1
+Tá?
+
+00:16:20 SPK_1
+Mas calma, isso aqui pode ser por último.
+
+00:16:22 SPK_1
+que está funcionando e tudo mais.
+
+00:16:25 SPK_1
+Acho que o mais importante, por enquanto, é repaturar as classes ali.
+
+00:16:29 SPK_1
+E aí a gente pode deixar por último essa parte de arrumar os providers e os serviços e desacoplar a responsabilidade deles, cada um ter a sua própria responsabilidade.
+
+00:16:45 SPK_1
+Estruturar a arquitetura.
+
+00:16:48 SPK_1
+Acho que é isso.
+
+00:16:49 SPK_1
+mas a gente vai ao longo do dia colocando lá no WhatsApp, falando como vai ser as coisas, no momento que a gente pode fazer essa discussão aqui da tabela de CP, se realmente a gente vai fazer isso, além de colocar o dobro da carga cognitiva, colocar o somatório, que no caso aqui dá 15, mas a gente colocou 30 porque era o dobro, porque algumas Alguns trabalhos de CDD fazem isso, eles dão o dobro.
+
+00:17:20 SPK_1
+Só que eu acho que naquele contexto é uma coisa, no nosso contexto é diferente.
+
+00:17:24 SPK_1
+então a gente percebe né olhando aqui eu até fiz um gráfico para ver uma dispersão dos dois das classes né é isso daqui são a complexidade e isso daqui é o número de linhas então você vê que tem tem classes com com muitas linhas e com uma complexidade muito grande e aí o nossa distribuição né perante o projeto inteiro, é uma dispersão muito alta então, claro, tem uma pequena concentração aqui e a ideia é que a gente vá puxando todo mundo para cá que a gente concentre todo mundo aqui o gráfico, essa tabela final de dispersão que a gente quer é que todo mundo esteja concentrado tudo aqui dentro que tira esses caras daqui e traga eles mais para cá e essa daqui é parecida, mas é só para vocês verem que essa parte azul da barra é o número de linhas e essa parte verde laranjado laranjado ou amarelo, sei lá, é a complexidade, né?
+
+00:18:34 SPK_1
+Então, aqui você consegue ver que quanto maior são as linhas de código, maior a complexidade da classe.
+
+00:18:43 SPK_1
+Então, se a gente quer diminuir a complexidade da classe, a gente tem que manter elas com quantidade de linhas menores, né?
+
+00:18:50 SPK_1
+Então, essa é a ideia.
+
+00:18:53 SPK_1
+Então se a gente vai pra 15 de ICP, a ideia é que a gente fique por aqui, né?
+
+00:18:59 SPK_1
+E que essa dispersão diminua pra cá.
+
+00:19:06 SPK_1
+Beleza?
+
+00:19:14 SPK_1
+E aí, o que vocês acham da gente tirar aqui o Edit Animado?
+
+00:19:22 SPK_1
+É porque a ideia é que o.
+
+00:19:23 SPK_2
+João Pedro e o Alohan trabalhassem essa parte, mas essa parte de animação é.
+
+00:19:28 SPK_1
+Uma parte meio chata.
+
+00:19:46 SPK_1
+Porque requer muito tempo da pessoa, de fato.
+
+00:19:49 SPK_1
+Você vai fazer uma animação de uma tela, você tem que ir lá, ficar testando, ficar vendo como que a animação vai interagir.
+
+00:19:57 SPK_1
+Às vezes, até quando você precisa fazer uma animação muito complexa, você tem que desenhar, assim, desenhar entre aspas, né?
+
+00:20:03 SPK_1
+Fazer ele quase quadro a quadro.
+
+00:20:05 SPK_1
+Porque o Flutter é 60fps, 60 frames por segundo, e às vezes você tem que desenhar frame por frame aquilo que você precisa fazer.
+
+00:20:13 SPK_1
+Agora imagina uma tela dessa, assim, a quantidade de código é absurdamente alta.
+
+00:20:19 SPK_1
+Então, é uma parte assim que talvez Por isso que eu coloquei aqui a animação implícita e explícita.
+
+00:20:27 SPK_1
+Na animação implícita e explícita, basicamente o Flap está ali e não tem muitas dificuldades.
+
+00:20:34 SPK_1
+As vezes você só tem um controlador da animação.
+
+00:20:37 SPK_1
+Mas quando você tem, por exemplo, o Custom Painting.
+
+00:20:41 SPK_1
+Se você já virou essa classe.
+
+00:20:44 SPK_1
+Ela você vai ter que configurar várias coisas ali da classe.
+
+00:20:47 SPK_1
+Aí fica muito difícil.
+
+00:20:48 SPK_1
+Você coloca o controlador, mas você trabalha outras partes.
+
+00:20:51 SPK_1
+Trabalha com a classe Animation.
+
+00:20:55 SPK_1
+Eu trabalho com a classe Twin, Twin Animation também.
+
+00:20:58 SPK_1
+Então são muitas configurações.
+
+00:21:00 SPK_1
+Enfim, a classe deve ficar...
+
+00:21:02 SPK_1
+Ela fica bem grande mesmo.
+
+00:21:04 SPK_1
+Mas como a gente não vai trabalhar, né?
+
+00:21:08 SPK_1
+Nem o João Pedro tá numa fase aí de...
+
+00:21:12 SPK_1
+vai fazer o Enem, tá bem ocupado, o Lourenço tá fazendo mestrado, então essa galera aí do front, né, que ia trabalhar, não deu pra eles, né, então...
+
+00:21:21 SPK_1
+Então não deu pra explorar muito essa parte aí do frontinho de design e tudo mais.
+
+00:21:30 SPK_1
+Felizmente, né, mas uma próxima oportunidade aí talvez a gente consiga estudar mais sobre isso.
+
+00:21:37 SPK_1
+Então, a ideia é essa.
+
+00:21:39 SPK_1
+A gente tira aqui porque a gente vai estar focado nas funcionalidades mesmo.
+
+00:21:58 SPK_1
+E aí...
+
+00:22:02 SPK_1
+Só que...
+
+00:22:05 SPK_1
+É, sim, sim.
+
+00:22:08 SPK_1
+É porque...
+
+00:22:09 SPK_1
+Ah, não sei que o João Pedro chegue até o final do dia e fale que ele vai...
+
+00:22:14 SPK_1
+que ele vai fazer refatoração também.
+
+00:22:17 SPK_1
+E aí a gente pode voltar.
+
+00:22:19 SPK_1
+Mas se ele não fala nada, eu vou tirar.
+
+00:22:24 SPK_1
+Agora uma coisa que eu tô...
+
+00:22:29 SPK_1
+É uma parte assim que tá muito cinzenta na minha cabeça, é a parte de coluna mesmo.
+
+00:22:35 SPK_1
+Row, column e tudo mais.
+
+00:22:39 SPK_1
+Por exemplo, eu não sei se o que torna uma classe com linha de código muito grande é justamente a quantidade de, às vezes, coluna, row que você coloca ali dentro da classe, se é ela que seria responsável por tornar esse lock dela muito grande, essa linha de código muito grande.
+
+00:23:02 SPK_1
+Porque, por exemplo, Se a gente colocar aqui por linha de código, você percebe que, por exemplo, a gente tem essa classe aqui, que ela tem 226 linhas de código, mas a calculativa dela é 12.
+
+00:23:19 SPK_1
+A outra tem 225 e a calculativa dela é 22.
+
+00:23:23 SPK_1
+Então, na minha cabeça, eu estou tentando ainda entender sobre essa relação entre carga cognitiva da classe e linha de código.
+
+00:23:35 SPK_1
+Porque, no fim das contas, a ideia também é diminuir o número de linhas de uma classe.
+
+00:23:40 SPK_1
+Se uma classe tem muitas linhas, ela é difícil de entender.
+
+00:23:44 SPK_1
+Só que, se eu tenho uma classe que tem muitas linhas e que a complexidade dela não aumenta, aí eu tenho um problema, porque eu não estou quantificando direito a complexidade.
+
+00:23:57 SPK_1
+Então, o meu medo nessa pesquisa é deixar passar isso.
+
+00:24:00 SPK_1
+Como é que você vê, por exemplo, a linguagem, sei lá, elevada em relação a outra coisa?
+
+00:24:09 SPK_2
+Ou, de forma alguma coisa, que é.
+
+00:24:14 SPK_1
+A possibilidade O tempo de trabalho do pessoal de Java, quer dizer, PCDs é a maioria, todos os trabalhos até aqui foram em Java, mas em equipes, só que assim, todo mundo era sênior, eram especialistas, a galera era muito braba mesmo, e eles trabalhavam com outras métricas, eles trabalhavam com, por exemplo, número de linha de código, trabalhavam coesão da classe, acoplamento e coesão da classe.
+
+00:24:51 SPK_1
+Eles trabalhavam com...
+
+00:24:53 SPK_1
+como é que é o nome?
+
+00:24:58 SPK_1
+que é o peso da classe.
+
+00:25:00 SPK_1
+Eles trabalhavam também uma parte de...
+
+00:25:04 SPK_1
+como é que chama?
+
+00:25:08 SPK_1
+A parte de herança da classe.
+
+00:25:09 SPK_1
+Se uma classe tinha uma profundidade muito grande, vamos supor, era uma classe que estendia uma classe, sendo que essa classe já estendia uma outra classe, e assim sucessivamente.
+
+00:25:22 SPK_1
+Era também uma outra forma.
+
+00:25:24 SPK_1
+Então não tem exatamente um...
+
+00:25:28 SPK_1
+um item que é o certo que é o errado depende muito da equipe como a gente tá uma equipe que tá começando ninguém é sênior por exemplo então esse tipo de métrica mais complexa não caberia aqui mas você pode usar qualquer tipo de métrica por exemplo linha de código pode ser uma métrica só que a ideia...
+
+00:25:50 SPK_1
+pode falar se você vender.
+
+00:25:56 SPK_2
+É porque eu não custei o CDD, mas se o CDD é também intuicial, diminuir o número de linhas, então não faz sentido tomar aquela...
+
+00:26:05 SPK_2
+contabilizar o arquivo.
+
+00:26:07 SPK_2
+Porque, por exemplo, tem uma parte que o Tom Ferreira fez, que ele montou várias folhas, várias blocos, que era só pra mostrar detalhes da demanda.
+
+00:26:19 SPK_2
+E aí, isso aí, tipo, aumentou acho que umas 40 linhas, entendeu?
+
+00:26:25 SPK_1
+Sim.
+
+00:26:27 SPK_2
+Só que a estrutura da lua em caracol não tinha nada que fosse assim.
+
+00:26:32 SPK_2
+Era só uma lua de lua em pólo com um rochado de queijo.
+
+00:26:37 SPK_1
+Pois é, aí a pergunta que tem que se fazer é se quando a gente tem uma classe com, por exemplo, é olhar para essas duas, é olhar para essas duas classes, são classes com linhas aproximadas, vamos dizer que com a mesma quantidade de linha, dado que é de 1925, 1926, vamos dizer que mesma quantidade de linha, que uma tem quase a metade da complexidade da outra.
+
+00:27:06 SPK_1
+aí vale a pena a gente observar essas duas classes e entender se faz sentido essas carreiras sublimitivas porque então eu coloco uma classe que ela tem 200 linhas a outra tem 200 linhas só que uma tem complexidade baixa e a outra tem complexidade alta.
+
+00:27:26 SPK_2
+Na verdade, esse plano na outra também tem o projeto de iteiros e o sign-in.
+
+00:27:30 SPK_2
+O projeto de iteiros tem 313, tem 30 pontos de CP e o sign-in tem 296, que é aproximadamente igual.
+
+00:27:39 SPK_2
+Tem só também 16 pontos.
+
+00:27:40 SPK_1
+Pois é, então seria essas duas com as duas de cima, né?
+
+00:27:48 SPK_1
+Então, seria olhar para essas duas classes e ver se realmente, por exemplo, essa edit Ela tem muitas linhas, mas ela realmente é muito fácil de entender.
+
+00:28:06 SPK_1
+Essa outra aqui, ela tem muitas linhas e é difícil de entender.
+
+00:28:11 SPK_1
+Só que tem que tirar da cabeça.
+
+00:28:13 SPK_1
+Na hora que a gente olhar para essas classes, tem que tirar da cabeça a quantidade de CP, a quantidade de linhas.
+
+00:28:20 SPK_1
+Só olha para a classe e percebe.
+
+00:28:23 SPK_1
+Ela é difícil de entender mesmo.
+
+00:28:25 SPK_1
+Porque se as duas, se você tirar da cabeça CDD, a gente está falando de dificuldade para entender a classe, a complexidade da classe, a legibilidade da classe, se é fácil ler ela, ou se ela é muito complexa, ela requer que você navegue muito pelos cósmos, ela requer que você entenda muitos conceitos, entendeu?
+
+00:28:49 SPK_1
+Então, olhar para as duas classes, esquecendo tudo, e primeiro responder, não, realmente, Elas tem a mesma quantidade de linha, mas elas são...
+
+00:28:56 SPK_1
+uma é muito mais complexa do que a outra.
+
+00:28:59 SPK_1
+Porque é quase o dobro, né?
+
+00:29:01 SPK_1
+Então ela deve ser bem mais complexa do que a outra.
+
+00:29:04 SPK_1
+Então acho que é o primeiro exercício que a gente precisa fazer.
+
+00:29:07 SPK_2
+Oi?
+
+00:29:07 SPK_2
+Eu imagino que a área complexidade deve estar alta, como que ela está no mundo, e...
+
+00:29:15 SPK_2
+eu não vai ter nenhum bloco, né?
+
+00:29:20 SPK_2
+Ou seja, ele fica muito normal.
+
+00:29:23 SPK_2
+É, pode ser.
+
+00:29:24 SPK_2
+Mas aí, pois é, a gente tem que olhar e ver se a legibilidade.
+
+00:29:31 SPK_1
+É isso.
+
+00:29:39 SPK_1
+Então, é uma coisa que eu vou estar aí durante o Diogo organizando essas duas classes para vocês olharem ela assim.
+
+00:29:47 SPK_1
+Tirem uns 10 minutos para ver cada uma das classes e pensar sobre, ah não, essas classes aqui, uma é assim, a outra é assada e a gente faz a comparação.
+
+00:29:59 SPK_1
+E aí a gente pode chegar no consenso, o número de linhas da classe ela não determina a complexidade dela de fato.
+
+00:30:07 SPK_1
+E aí a gente pode eliminar a questão de colocar column, row, como um IFP.
+
+00:30:14 SPK_1
+Caso não...
+
+00:30:16 SPK_2
+Eu vi agora que essa é a distribuirita de demandas que eu fiz.
+
+00:30:22 SPK_2
+E nessa distribuirita de demandas, na verdade, ela poderia ser dividida em três partes.
+
+00:30:27 SPK_2
+Porque na verdade ela já é dividida em três partes, porque as partes da distribuição não lembram o negócio por trás.
+
+00:30:37 SPK_1
+Deixa eu ver onde é que ela fica qual é a classe mesmo que eu esqueci?
+
+00:30:44 SPK_1
+edit, create, é form né?
+
+00:30:49 SPK_1
+ou não?
+
+00:30:53 SPK_2
+É, é forms, aí ele manda e ele traz forms tu vai ver que eu criei duas classes da mesma coisa, tu dá só pra ter dividido Ah.
+
+00:31:08 SPK_1
+Tá, mas acho que a gente tem uma questão também aqui.
+
+00:31:13 SPK_2
+Não, mas tá somado, tá escrito assim.
+
+00:31:15 SPK_1
+A carga do risco é de 28,87.
+
+00:31:16 SPK_2
+Aí ali que a demanda tá aqui, né, tá somado, tá 22.
+
+00:31:39 SPK_1
+Calma aí.
+
+00:31:41 SPK_1
+Não entendi.
+
+00:31:42 SPK_2
+Pô, o que é que a gente falou assim?
+
+00:31:46 SPK_2
+Nessa daí, é...
+
+00:31:48 SPK_2
+Tem duas classes, na verdade.
+
+00:31:50 SPK_1
+É, duas classes.
+
+00:31:53 SPK_2
+Líquido, líquido e demântico.
+
+00:31:55 SPK_2
+E acaba com o líquido total, mas pelo menos o que tá aqui de cima, que eu tô vendo agora, tá com pontos, tá com total de 7 CP.
+
+00:32:04 SPK_2
+Tem uma outra logo debaixo, que é chamada líquido e demântico.
+
+00:32:07 SPK_2
+Ela tá com 15.
+
+00:32:09 SPK_2
+Aí nesse teu Excel, ela tá com 22, que é justamente a soma entre 15 e mais 7.
+
+00:32:18 SPK_2
+Aí se a gente separar...
+
+00:32:20 SPK_1
+Não, sabe por que?
+
+00:32:22 SPK_1
+Eu acho que faltou dar o git pull aí.
+
+00:32:25 SPK_1
+Ela tem 22 mesmo.
+
+00:32:26 SPK_1
+O link demand tem 22.
+
+00:32:28 SPK_1
+A edit create demand tem 12.
+
+00:32:32 SPK_2
+Ah, então esquece o que eu falei.
+
+00:32:34 SPK_2
+É, esquece o que eu falei.
+
+00:32:42 SPK_1
+Tá, beleza.
+
+00:32:43 SPK_1
+É, tá aqui, ó.
+
+00:32:43 SPK_1
+Justamente, é...
+
+00:32:47 SPK_1
+É, justamente, é bom que tá tudo no mesmo arquivo, né?
+
+00:32:52 SPK_1
+As duas classes que a gente quer comparar.
+
+00:32:55 SPK_1
+Então, porque que...
+
+00:33:00 SPK_1
+Calma, deixa eu ver.
+
+00:33:02 SPK_1
+Edit, Create...
+
+00:33:03 SPK_1
+Ah não, a outra é...
+
+00:33:09 SPK_1
+Edit, Create, é outra, é Project Forms.
+
+00:33:13 SPK_1
+Então, é o que eu imaginava.
+
+00:33:25 SPK_1
+É porque é um formulário, né?
+
+00:33:27 SPK_1
+Então, por ser um formulário, não tem muito como abstrair isso aqui.
+
+00:33:33 SPK_1
+Quer dizer, pode ser até que teria.
+
+00:33:41 SPK_2
+Não, se eu usasse algum pacote, acho que seria mais fácil, ou o pessoal do form, ou o...
+
+00:33:45 SPK_1
+Não, não é.
+
+00:33:49 SPK_1
+É porque...
+
+00:33:51 SPK_1
+É porque...
+
+00:33:52 SPK_1
+Lembra que aqui fosse um TextFormBuild?
+
+00:33:56 SPK_1
+Mesmo sem ser um...
+
+00:34:00 SPK_1
+Ou um TextFormBuildBlock, que é o que tu vai usar o form lá?
+
+00:34:05 SPK_1
+Tu teria que repetir essas caras aqui, de qualquer maneira.
+
+00:34:13 SPK_1
+É porque tem um formulário, né?
+
+00:34:17 SPK_1
+Então...
+
+00:34:21 SPK_1
+Eu acho que é essa que é a diferença entre essas classes.
+
+00:34:25 SPK_1
+É porque o formulário, ele não necessariamente torna uma classe complexa.
+
+00:34:29 SPK_1
+Ele só aumenta o número de linhas, de fato.
+
+00:34:38 SPK_1
+Tá, mas eu acho que cada pessoa tem que fazer a observação e tirar a sua conclusão e a gente depois xingar no consenso.
+
+00:34:50 SPK_1
+Beleza, então eu vou atualizar essa tabela aqui, colocar a quantidade, só que no caso vai cair para 14 se eu tirar esse cara aqui.
+
+00:35:10 SPK_1
+e aí ficaria, deixa eu ver 14, não ia mudar não, porque esses caras aqui estavam 14, ia continuar sendo isso aqui, deixa eu logo alterar aqui Beleza, então vai ser 14 na verdade, né, saindo esse cara aqui.
+
+00:35:51 SPK_1
+E só falta a gente ver se vai considerar ou não Column, né, Column Row, List View, por exemplo.
+
+00:35:59 SPK_1
+E aí se considerar a gente volta pra 15, mas por enquanto tá sem ele.
+
+00:36:07 SPK_1
+Acho que é isso.
+
+00:36:08 SPK_1
+Mais alguma consideração de alguém?
+
+00:36:24 SPK_1
+Tá, beleza.
+
+00:36:25 SPK_1
+Aí eu vou junto com o Enzo, a gente vai ver a questão da arquitetura da pasta Quando a gente escolher, a gente vai também dar um texto, algum artigo pra vocês verem.
+
+00:36:40 SPK_1
+Artigo tipo um blog da vida desses.
+
+00:36:44 SPK_1
+Pra vocês verem sobre essa arquitetura que a gente vai usar.
+
+00:36:50 SPK_1
+Seja form block, seja por componentização, coisas do tipo.
+
+00:36:55 SPK_1
+E aí a gente pode botar lá no readme como é a estrutura de pasta, pra vocês entenderem e tal.
+
+00:37:01 SPK_1
+mas a ideia hoje é só fazer essa organização e a partir de amanhã que a gente começa a refatoração de código de fato.
+
+00:37:10 SPK_1
+Beleza?
+
+00:37:16 SPK_1
+e aí eu vou separar do projeto essas duas classes não olhem dentro do visual code porque eu quero que vocês olhem num lugar mais tranquilo, por exemplo olhando em duas abas cada uma das duas classes que a gente quer comparar Aí pensem na primeira classe, pensem na segunda, vejam se a complexidade delas faz sentido, se a quantidade está impactando mesmo ou não.
+
+00:37:49 SPK_1
+Pode ser que sim, pode ser que não.
+
+00:37:51 SPK_1
+A gente só quer saber se para a equipe impacta ou não.
+
+00:37:56 SPK_1
+Não existe uma verdade.
+
+00:37:57 SPK_1
+Existe uma verdade, vamos dizer assim, da equipe, da gente.
+
+00:38:00 SPK_1
+A nossa verdade é que ela está impactando.
+
+00:38:02 SPK_1
+Ou não, não está.
+
+00:38:03 SPK_1
+Então pronto, não precisa.
+
+00:38:05 SPK_1
+Beleza?
+
+00:38:11 SPK_1
+Então até meio dia eu vou estar mandando esses dois links, vou mandar a tabela atualizada, e aí se precisar atualizar lá no fim do dia, a gente considera e atualiza de novo e manda de novo.
+
+00:38:23 SPK_1
+Beleza?
+
+00:38:25 SPK_1
+E aí dá um git pull aí no projeto e aí vocês vão dando uma olhada sobre como se acostumar com o padrão dos comentários e e até observar onde colocar o ICP pra não esquecer, enfim, durante o processo de refatoração.
+
+00:38:48 SPK_1
+Beleza?
+
+00:38:54 SPK_1
+Então é isso, muito obrigado por fazerem parte dessa semana aí.
+
+00:39:02 SPK_1
+Até qualquer momento aí.
+
+00:39:04 SPK_1
+Falou, até mais.

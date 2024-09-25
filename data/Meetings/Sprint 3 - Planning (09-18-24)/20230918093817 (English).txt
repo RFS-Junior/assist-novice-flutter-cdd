@@ -1,0 +1,965 @@
+00:00:02 SPK_1
+Okay, beauty.
+
+00:00:03 SPK_1
+So if no one will have one more point, I have only the question here of ICP to talk, for us to make this definition.
+
+00:00:12 SPK_1
+If, I mean, there were some points, right, who raised there the last time.
+
+00:00:18 SPK_1
+But, looking at this table here, we, what we ...
+
+00:00:23 SPK_1
+First, do we need to change anything?
+
+00:00:26 SPK_1
+If so, what do we have to change here in this table?
+
+00:00:28 SPK_1
+What makes sense?
+
+00:00:29 SPK_1
+What no longer makes sense here?
+
+00:00:32 SPK_1
+Does anyone want to start?
+
+00:00:35 SPK_2
+I think it no longer makes sense of Riddick of basics.
+
+00:00:42 SPK_1
+Here, right?
+
+00:00:44 SPK_3
+What do you think there?
+
+00:00:49 SPK_4
+I think so too.
+
+00:00:52 SPK_1
+Okay, then ...
+
+00:00:55 SPK_1
+Pedro, why does not make sense?
+
+00:01:04 SPK_3
+I think it's not having any ...
+
+00:01:06 SPK_3
+The use or not of it, of this trigger, is having no impact on reading the code, for, for example, to add a complexity in it.
+
+00:01:17 SPK_1
+Then, when I add a column, it does not make it difficult to readability, it does not make it difficult to complex the code.
+
+00:01:27 SPK_1
+And that?
+
+00:01:30 SPK_3
+This does not make my understanding difficult for him.
+
+00:01:38 SPK_1
+Beauty, but does anyone have a point about it?
+
+00:01:40 SPK_1
+Does anyone disagree?
+
+00:01:42 SPK_5
+It's the same thing as Carlos as well.
+
+00:01:44 SPK_2
+I also agree with that.
+
+00:01:48 SPK_1
+Okay, beauty.
+
+00:01:49 SPK_1
+Ok, so we can make this change.
+
+00:01:51 SPK_1
+We can make this change here, remove the column.
+
+00:01:56 SPK_1
+So, I'll even do an analysis of how to manage this in the code, because there are several ECPs already ...
+
+00:02:07 SPK_1
+Remembering that we have to make a good discussion, even for next week the possibility of taking an ECP or changing it, like, does not happen ...
+
+00:02:19 SPK_1
+I mean, we are free, very free to do this, okay?
+
+00:02:23 SPK_1
+It is better that we make changes when necessary, okay?
+
+00:02:28 SPK_1
+But it would be nice to analyze things well so that no changes are made or very radical or constant.
+
+00:02:38 SPK_1
+Why?
+
+00:02:38 SPK_1
+Because now, beauty, let's take a column, let's take row, wrap ...
+
+00:02:42 SPK_1
+But we now have to update in the code, because we are commenting, it's not just.
+
+00:02:47 SPK_1
+There is no plugin to do this, for example.
+
+00:02:51 SPK_1
+There is the tip there for those who want a necessary research.
+
+00:02:55 SPK_2
+I can even take responsibility and analyze the whole system we are making and remove these comments.
+
+00:03:03 SPK_1
+Beauty, so you have to take the ICP comment and have to update the total cognitive load of the class.
+
+00:03:11 SPK_1
+Because you imagine you have several columns there, so there will be several ICPs.
+
+00:03:16 SPK_1
+Beauty?
+
+00:03:19 SPK_1
+Is there any other here?
+
+00:03:21 SPK_1
+I mean, in fact, let me ask more directly.
+
+00:03:24 SPK_1
+This one from If, Else, For, While, external, are they making sense?
+
+00:03:33 SPK_1
+For any else, for any if, for whatever I see, I will have an ICP there.
+
+00:03:40 SPK_1
+Or not, I just want when it has to do with the widget, if we control the widget.
+
+00:03:45 SPK_1
+Or not, it makes no sense anymore.
+
+00:03:47 SPK_1
+What are you thinking of this?
+
+00:03:51 SPK_5
+I think you have to keep it.
+
+00:03:57 SPK_1
+Everyone thinks?
+
+00:03:58 SPK_2
+Me too.
+
+00:03:59 SPK_2
+Aham.
+
+00:04:03 SPK_1
+Okay, why have Daniel have to keep up?
+
+00:04:07 SPK_5
+Because, at least in my code, I use a lot of If-Else in a way that you can't disregard.
+
+00:04:13 SPK_1
+I understood.
+
+00:04:15 SPK_1
+You use, for example, to work with service, with, I don't know ...
+
+00:04:21 SPK_5
+It is, for example, in the demand creation form, as is the same form, I needed to create some logics for ...
+
+00:04:31 SPK_5
+For example, right, because you can create or edit.
+
+00:04:34 SPK_5
+So when he clicks the button, he has to see the ...
+
+00:04:37 SPK_5
+What is the user doing to do the right thing too, understand?
+
+00:04:41 SPK_5
+Like this, sometimes the user can put a blank screen and such, so I put some ...
+
+00:04:47 SPK_5
+I put some IFs and Elses that detect this.
+
+00:04:51 SPK_1
+Okay, ok, I got it.
+
+00:04:55 SPK_1
+Beauty, does anyone have something else to add about it?
+
+00:05:00 SPK_2
+The very part of readability for those who are not developing, for example, like Daniel, right?
+
+00:05:05 SPK_2
+Then sometimes I take the screens he makes.
+
+00:05:08 SPK_2
+Then, for example, there was one there that he used a lot if IF-Else.
+
+00:05:12 SPK_2
+There, just from ...
+
+00:05:14 SPK_2
+and...
+
+00:05:15 SPK_2
+Ok the comment, right?
+
+00:05:16 SPK_2
+That, Oh, this is a .cp, that I know, right?
+
+00:05:19 SPK_2
+Which is if-S, each costs one.
+
+00:05:21 SPK_2
+And it makes sense each cost one, because sometimes he uses if-alse for different things, not just for the form, to update the screen as well.
+
+00:05:29 SPK_2
+So, like, it's important to have this CP yet.
+
+00:05:31 SPK_1
+Beauty, ok.
+
+00:05:33 SPK_1
+So you keep the understanding last time, right?
+
+00:05:41 SPK_1
+Okay, come on.
+
+00:05:42 SPK_1
+Another thing that you may not have ...
+
+00:05:44 SPK_1
+That is, some people have not yet understood very well about the coupling.
+
+00:05:52 SPK_1
+For example, I saw that some people have put coupling for One-Preced.
+
+00:05:59 SPK_1
+And maybe it's confusing a little ...
+
+00:06:01 SPK_1
+That is, this is it, the function as an argument.
+
+00:06:04 SPK_1
+It is confusing a little what is a function as an argument.
+
+00:06:07 SPK_1
+A function as an argument A function as an argument is when a class receives as a parameter of this class a function.
+
+00:06:22 SPK_1
+For example, I used that button example, but it could be any other type of class.
+
+00:06:30 SPK_1
+And then perhaps because of the example I gave, some people thought onpressed was a function coupling.
+
+00:06:36 SPK_1
+OnPressed is not a function coupling.
+
+00:06:38 SPK_1
+Why?
+
+00:06:39 SPK_1
+Because, let's suppose, you have a textbutton, a materialbutton, an elevatedbutton, it is a class, it is a flutter widget and it has this onpressed parameter so it is not a class that you are creating and you are receiving a function As an argument so onpressed is not a function as an argument so it does not tell the ICP will only count when I create this class and this class I created it receives a function and then I put it, even, I don't even put it where I call the function where I actually pass the function.
+
+00:07:18 SPK_1
+I put there where, within the class I created, above the variable, I don't know, let's assume that I created the variable, the name is, I don't know, it's function, I don't think you can see another.
+
+00:07:36 SPK_1
+Yeah, I don't know, myfunction.
+
+00:07:38 SPK_1
+And then this myfunction, her type is a function.
+
+00:07:40 SPK_1
+It can be a void callback, which is a type of function.
+
+00:07:48 SPK_1
+And then I put this CP up there.
+
+00:07:50 SPK_1
+Can you understand this here that I'm talking about?
+
+00:08:02 SPK_1
+So that's it.
+
+00:08:04 SPK_1
+Just be aware that function as an argument first, I only count on the class that I created the functions, and it is a function received as an argument, and I will comment on this variable that I created.
+
+00:08:23 SPK_1
+And then, depending on this class, I think everyone understood.
+
+00:08:27 SPK_1
+I think I didn't see errors to count it.
+
+00:08:34 SPK_1
+Then the question still makes sense the C2 of CP?
+
+00:08:44 SPK_1
+Beauty.
+
+00:08:58 SPK_1
+Anything else you want to highlight, want to talk more about?
+
+00:09:03 SPK_1
+Asynchronous functions or asynchronous widgets, state management.
+
+00:09:15 SPK_1
+For example, these animated here.
+
+00:09:20 SPK_1
+Are you already working with them?
+
+00:09:21 SPK_2
+Not yet, because the design is not yet defined.
+
+00:09:25 SPK_2
+That's why I even want to talk to you and Alohane.
+
+00:09:29 SPK_2
+Because it is no use creating something and then having to be removed.
+
+00:09:36 SPK_2
+As was the case of a bar that I did.
+
+00:09:40 SPK_2
+For the form, only in the design of the canvas flow, it is not present and also makes no sense to have it.
+
+00:09:48 SPK_2
+Then I'm not using it yet.
+
+00:09:50 SPK_2
+I have a point for Flutter Block and Form Form Block, type, lower from 3 to 2.
+
+00:09:58 SPK_2
+I don't know if the others agree.
+
+00:10:00 SPK_1
+Ah, why download?
+
+00:10:04 SPK_1
+How to download and why?
+
+00:10:07 SPK_2
+I think he's less complex to read in the current sprint than before.
+
+00:10:13 SPK_2
+For example, before we had not so much practice.
+
+00:10:17 SPK_2
+And now with us developing the application, it has become less complex to understand.
+
+00:10:28 SPK_1
+I understood.
+
+00:10:30 SPK_1
+Does anyone agree?
+
+00:10:30 SPK_1
+Does anyone disagree?
+
+00:10:31 SPK_1
+How is it?
+
+00:10:39 SPK_4
+You can talk again, man, that my internet is cutting.
+
+00:10:43 SPK_2
+I was just saying that I have the suggestion of lowering Flutterblock and FlutterFormerBlock ICP for 2 instead of 3.
+
+00:10:59 SPK_2
+Because with us working on this project, his complexity rate lowered due to our own practice with him using.
+
+00:11:09 SPK_2
+He is less complex than before we started developing this application.
+
+00:11:13 SPK_4
+Oh yes, yes.
+
+00:11:15 SPK_4
+That is true.
+
+00:11:15 SPK_1
+Until.
+
+00:11:18 SPK_4
+Because we're using more too, right?
+
+00:11:20 SPK_4
+In various applications of him, during ...
+
+00:11:26 SPK_4
+throughout the application.
+
+00:11:31 SPK_1
+I understood.
+
+00:11:31 SPK_1
+So this 3 here is more related to the lack of practice, the lack of understanding you had about Provider.
+
+00:11:44 SPK_1
+So you think you now have to decrease, for example, to 1 in 1, right?
+
+00:11:48 SPK_1
+1 When does it notify or 1 for the entire construction?
+
+00:11:52 SPK_1
+What is your proposal?
+
+00:11:57 SPK_2
+My proposal would be 1 for the whole construction.
+
+00:12:01 SPK_2
+There would be 3.
+
+00:12:07 SPK_1
+No, calm down, I didn't understand.
+
+00:12:09 SPK_1
+Like, do you want this here to turn 1 and ICP turn 1?
+
+00:12:13 SPK_1
+Or that Change Notify and consumes you come 1?
+
+00:12:17 SPK_2
+Exactly, Change Notify and consumes it come 1.
+
+00:12:20 SPK_1
+Okay, so the total would be 2.
+
+00:12:23 SPK_2
+Exactly, and below it would also be 2.
+
+00:12:25 SPK_1
+This one, I understood.
+
+00:12:29 SPK_1
+Carlos and Daniel there are commenting a lot, what do you think?
+
+00:12:43 SPK_3
+I'm not having a problem with the way you are now.
+
+00:12:46 SPK_3
+I couldn't even continue.
+
+00:12:50 SPK_1
+Do you think 3 is a good value, for example, to provide?
+
+00:12:56 SPK_1
+Don't you think it's too much?
+
+00:13:00 SPK_1
+of the discord of John.
+
+00:13:13 SPK_2
+That question that was commented last week to lower the maximum cognitive load because the classes were no more than 20, for example, 24.
+
+00:13:23 SPK_2
+Never beat 32.
+
+00:13:29 SPK_2
+Then with that, like, it will decrease.
+
+00:13:41 SPK_1
+No, it is, calm.
+
+00:13:42 SPK_1
+Before that, let's first think about ICP.
+
+00:13:44 SPK_1
+Then we think of total.
+
+00:13:48 SPK_1
+First let's think here about the cognitive load, right?
+
+00:13:54 SPK_1
+The complexity, in fact, of each item.
+
+00:13:58 SPK_1
+Ah, I think this item, a consumer, it is not two, because I think it is not that complex, because now I have improved even my understanding, I think the team has improved the understanding, we have a lot of practice , yes, then we will decrease and in the end we think about the total cognitive load.
+
+00:14:17 SPK_1
+For now let's think only of the complexity of the items.
+
+00:14:24 SPK_1
+And then João Pedro is coming to say that we have to reduce this consume for one.
+
+00:14:31 SPK_1
+Because understanding is improving.
+
+00:14:33 SPK_1
+It's not being so complex to the team.
+
+00:14:37 SPK_1
+Carlos is saying that it is to maintain.
+
+00:14:42 SPK_1
+So, who takes third opinion?
+
+00:14:51 SPK_5
+So, particularly I don't know why ...
+
+00:14:55 SPK_5
+This week, in fact, I was still going to take time to study this provider, which has not yet entered my head.
+
+00:15:03 SPK_5
+I need to do this because my code is getting, in my opinion, is getting very complex.
+
+00:15:09 SPK_5
+And Provider helps to take this complexity.
+
+00:15:12 SPK_5
+So, I think I should keep it.
+
+00:15:21 SPK_1
+What we can take a strategy here to try to define if it is 2, if it is 1, is to make a comparison.
+
+00:15:31 SPK_1
+It is comparing with other elements that we are continuing their complexity.
+
+00:15:39 SPK_1
+So you have to look at the consumer and look at the table in general.
+
+00:15:46 SPK_1
+Because we are we are defining the complexity of each of these items.
+
+00:15:51 SPK_1
+So this item is more complex than this, it is harder to implement, it is easier to implement, it is harder to understand, the concept is harder, easier.
+
+00:16:00 SPK_1
+So we are comparing these elements.
+
+00:16:06 SPK_1
+So much so that, for example, if you have a change here, the next question I am going to ask is, have to change, then, these guys here?
+
+00:16:14 SPK_1
+Futrestream?
+
+00:16:21 SPK_1
+Because the concepts here are kind of similar.
+
+00:16:25 SPK_1
+Okay, okay, which is asynchronous promotion, which is state management.
+
+00:16:29 SPK_1
+But there is a proximity there, we are talking about ...
+
+00:16:32 SPK_1
+of...
+
+00:16:33 SPK_1
+You change the state and notify everyone, for example.
+
+00:16:42 SPK_1
+Could a streamambuilder and futurebuilder be go-consumers?
+
+00:16:45 SPK_1
+It's just for us to have a comparison parameter.
+
+00:16:51 SPK_2
+Yeah, exactly.
+
+00:16:52 SPK_2
+I gave the suggestion precisely because we are working more.
+
+00:16:59 SPK_2
+Then, for example, Flutter Block, we have worked with it a lot.
+
+00:17:05 SPK_2
+Especially Carlos, which he did, he used Flutter Block and Flutter Form Block.
+
+00:17:13 SPK_2
+Then, for example, if we compare with the others, we are having more practice with these two, right?
+
+00:17:21 SPK_2
+than, for example, an asynchronous function.
+
+00:17:24 SPK_2
+That is why the asynchronous function should still continue.
+
+00:17:28 SPK_5
+There...
+
+00:17:30 SPK_2
+This was just a suggestion I had given, got it?
+
+00:17:35 SPK_1
+Okay, I understood.
+
+00:17:36 SPK_1
+I think that...
+
+00:17:38 SPK_1
+Even Daniel and Carlos are seeing this part there a little.
+
+00:17:42 SPK_1
+You can talk, but I think you are working hard on asynchronous function.
+
+00:17:46 SPK_1
+That I think any call to the bank is an asynchronous function, for example.
+
+00:17:55 SPK_1
+It's not that?
+
+00:18:03 SPK_1
+For example, I don't hear there, through a stream, the firebase?
+
+00:18:11 SPK_1
+Yes.
+
+00:18:13 SPK_4
+This question that we will also make for requests, too, I believe it is good.
+
+00:18:21 SPK_1
+So it is.
+
+00:18:35 SPK_1
+Does anyone want to add to this discussion?
+
+00:18:47 SPK_1
+Again, the question?
+
+00:18:48 SPK_2
+Yeah, we could keep it there and continue with just with, like, remove the basic widget.
+
+00:19:02 SPK_1
+I understood.
+
+00:19:04 SPK_1
+AND...
+
+00:19:10 SPK_1
+Then...
+
+00:19:13 SPK_1
+We will keep this ...
+
+00:19:17 SPK_1
+Both consumer and maybe this issue of manipulating a stream, manipulating a filter, such as 2GCP, I think it's reasonable, or I think it has to decrease to 1 too, because our understanding is getting better.
+
+00:19:36 SPK_1
+Then...
+
+00:19:37 SPK_1
+Still solve it.
+
+00:19:42 SPK_1
+So, who else?
+
+00:19:44 SPK_1
+Who else finds what about it?
+
+00:19:47 SPK_1
+Maintain or decrease?
+
+00:19:48 SPK_5
+I think it could really just take this basic widget and the rest keep.
+
+00:19:56 SPK_1
+Okay, ok.
+
+00:19:57 SPK_4
+Yeah, I think that's right.
+
+00:19:58 SPK_1
+AND...
+
+00:20:02 SPK_1
+What about the total cognitive load?
+
+00:20:06 SPK_1
+We last did, some people talked a little about reducing the total cognitive load because it wasn't affecting it, it was a high value.
+
+00:20:20 SPK_1
+And then it made it not to forces much to have to refact the class and such.
+
+00:20:25 SPK_1
+But João Pedro came with the issue of layout.
+
+00:20:31 SPK_1
+When you add a layout, because usually delivery, for example, from Daniel, are features, there is no part of the layout.
+
+00:20:41 SPK_1
+So much code there is, in quotes, ignored.
+
+00:20:46 SPK_1
+part of layout.
+
+00:20:48 SPK_1
+And then when the user's interface part comes, then there will come several earthquakes there, maybe some more widgets, maybe between the issue of animation, and that will increase the class.
+
+00:21:03 SPK_1
+It will increase the ICP, sorry.
+
+00:21:05 SPK_1
+Yeah, it will increase the class by definition.
+
+00:21:10 SPK_1
+So, what else can we talk about it and define?
+
+00:21:16 SPK_2
+For example, last week was touched at a point, and I even got up, that they were saying that a class, for example, had a very low cognitive load, for example 8, then I raised the point, which when the layout is added, The design, then the load increases, to much more than 8, for example, I set the example there, had an 8 class, then after I implemented, it increased to 20.
+
+00:21:45 SPK_2
+But still, she doesn't burst.
+
+00:21:49 SPK_2
+I take care not to burst the maximum conductive load.
+
+00:21:52 SPK_2
+When we remove these basic widgets, it will lower to 30.
+
+00:21:57 SPK_2
+And I still think we'll have problems with that.
+
+00:22:04 SPK_1
+Okay, I understood.
+
+00:22:05 SPK_1
+Thus, the idea is not much we do to see how ...
+
+00:22:11 SPK_1
+Okay, we have to analyze the impacts of ICP change, total change of cognitive load.
+
+00:22:17 SPK_1
+But the purpose is to manage the complexity of the class.
+
+00:22:22 SPK_1
+For us to manage the complexity of the class, we look at the items, for this table, define a maximum value there.
+
+00:22:32 SPK_1
+And then, when we make this definition, then we'll look at our classes and try to understand if they are complex according to our definitions.
+
+00:22:40 SPK_1
+So try not to make changes thinking about, I don't know, how it will be inside my class.
+
+00:22:48 SPK_1
+Did you understand?
+
+00:22:49 SPK_1
+So what we should look at is items of complexity.
+
+00:22:54 SPK_1
+Does it make sense of these items?
+
+00:22:55 SPK_1
+He does.
+
+00:22:57 SPK_1
+Total calculation, data and items we defined.
+
+00:23:01 SPK_1
+We define here as double or may even decrease a little more.
+
+00:23:06 SPK_1
+Look at that.
+
+00:23:07 SPK_1
+And after this definition we look at our classes.
+
+00:23:10 SPK_1
+Because it is this table and this total ICP that will define whether a class is complex or not.
+
+00:23:17 SPK_1
+So don't look too much to the class to define.
+
+00:23:20 SPK_1
+Like, imagine the classes there, how to decrease, make an account.
+
+00:23:24 SPK_1
+I'm not saying you're doing exactly that.
+
+00:23:26 SPK_1
+I'm just talking to avoid doing this.
+
+00:23:35 SPK_1
+Okay, so here ...
+
+00:23:40 SPK_1
+This one will leave, right?
+
+00:23:43 SPK_1
+So here it will fall to 30.
+
+00:23:45 SPK_1
+Exactly.
+
+00:23:45 SPK_1
+30 CP points.
+
+00:23:52 SPK_1
+Everyone agree?
+
+00:23:57 SPK_4
+Yes.
+
+00:23:59 SPK_1
+Yes.
+
+00:24:01 SPK_1
+Beauty.
+
+00:24:04 SPK_1
+Well, does anyone have something to add?
+
+00:24:06 SPK_1
+A tip there on any practice?
+
+00:24:10 SPK_4
+Just confirming the ID basically with the VAMMEN, that's?
+
+00:24:14 SPK_1
+Yeah, this is going out here.
+
+00:24:16 SPK_4
+So, in this case, the changes would be to change the basic edit and the cognitive load stay at 33.
+
+00:24:22 SPK_1
+Yeah, because as it is double, we are defining here that ICP is double the total of ICP and an ICP is coming out of here.
+
+00:24:30 SPK_1
+So here comes out two.
+
+00:24:32 SPK_1
+Leaves 32 to 30.
+
+00:24:33 SPK_1
+I will update this table and put it in the group.
+
+00:24:41 SPK_1
+So, the interesting thing, I think I didn't even complete it at the beginning of the meeting, but the interesting thing is that you, I don't know if you are already doing it, right?
+
+00:24:50 SPK_1
+Download the pdfzinho, this PDF that I'm going to put there.
+
+00:24:54 SPK_1
+And then, when you are developing, I know you have some practices about first codar, then count ICP, right?
+
+00:25:03 SPK_1
+So when you count the ICP count, put the table on the side.
+
+00:25:07 SPK_1
+Put your cell phone here, take a look at the table for ...
+
+00:25:11 SPK_1
+Not to lose anything.
+
+00:25:14 SPK_1
+Beauty?
+
+00:25:17 SPK_2
+Beauty.
+
+00:25:18 SPK_2
+So, from now on it's flying, right?
+
+00:25:21 SPK_1
+Yes yes.
+
+00:25:21 SPK_1
+I will put ...
+
+00:25:22 SPK_1
+As soon as the meeting is over here, I'm going to climb the PDF in the group.
+
+00:25:26 SPK_1
+Then, just download and will be updated.
+
+00:25:29 SPK_2
+Beauty, so here, that ...
+
+00:25:32 SPK_2
+Those two ...
+
+00:25:33 SPK_2
+Those two tasks, right, that it is only missing to count this CPU, I will already update already as ...
+
+00:25:38 SPK_2
+AND...
+
+00:25:39 SPK_2
+This table and the rest of the whole project.
+
+00:25:42 SPK_2
+I'm going to make a git pull here and I'm doing it.
+
+00:25:45 SPK_1
+Beauty.
+
+00:25:46 SPK_1
+Beauty.
+
+00:25:48 SPK_1
+Something to add there guys?
+
+00:25:52 SPK_1
+About any part of the meeting?
+
+00:25:54 SPK_1
+Planning?
+
+00:25:57 SPK_5
+Not for the time being.
+
+00:26:03 SPK_1
+Not for now, either.
+
+00:26:04 SPK_1
+Beauty, so we are updating there in the group.
+
+00:26:07 SPK_1
+And then, anything too, Enzo is at this Plane meeting, but he who's there, he's the Scrum Master, he's going to drive you better about the tasks.
+
+00:26:19 SPK_1
+Beauty?
+
+00:26:20 SPK_1
+So talk to him about, I don't know, some definitions, try to see who will do what too.
+
+00:26:28 SPK_1
+And then we are talking about whatsapp, I'm always available there, just send a message that when I have, when I see the message, I help, I answer.
+
+00:26:37 SPK_1
+Beauty?
+
+00:26:39 SPK_2
+Beauty.
+
+00:26:41 SPK_1
+So, good week there and let's go ...
+
+00:26:46 SPK_1
+Speak like me, David.
+
+00:26:47 SPK_1
+Let's work, let's work.
+
+00:26:51 SPK_1
+Beauty.
+
+00:26:52 SPK_1
+Beauty, let's go.
+
+00:26:52 SPK_1
+He said, he said.
+
+00:26:53 SPK_4
+Let's work, friends.
+
+00:26:55 SPK_4
+He said, guys.
+
+00:26:55 SPK_4
+Good morning.
+
+00:26:56 SPK_4
+Good morning, bro.
+
+00:26:56 SPK_2
+Thanks, thanks.
+
+00:27:00 SPK_1
+And there.

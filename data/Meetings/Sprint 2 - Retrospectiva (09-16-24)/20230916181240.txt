@@ -1,0 +1,674 @@
+00:00:02 SPK_1
+Já pode?
+
+00:00:03 SPK_1
+Pode.
+
+00:00:05 SPK_2
+Sobre o CDD, eu acho que o processo de contabilizar os pontos de ICP já se tornou mais fluido, mais fácil de fazer.
+
+00:00:15 SPK_2
+Não tem que ficar consultando já tantas vezes a tabela, já tem um link de cabeça a isso.
+
+00:00:20 SPK_2
+E coisa que eu notei é que o limite de pontos para uma classe, que é 32 pontos, Eu acho que ele está muito alto, porque as classes que eu vejo, muitas nem chegam a 25 pontos, mais ou menos.
+
+00:00:37 SPK_2
+As grandes chegam a mais ou menos 20 e poucos pontos, mas a maioria é menos que isso.
+
+00:00:42 SPK_2
+Aí eu creio que a gente tem que ver esse limite aí.
+
+00:00:46 SPK_2
+E uma opinião minha é que os widgets básicos poderiam ser retirados da tabela, na minha opinião.
+
+00:00:55 SPK_2
+É isso.
+
+00:01:05 SPK_1
+Alguém mais?
+
+00:01:06 SPK_3
+Se a pessoa quer falar sobre a colocou no cartão?
+
+00:01:17 SPK_3
+Eu posso falar sobre.
+
+00:01:18 SPK_3
+Em relação ao CDD, eu achei que é algo muito interessante, tipo assim, a gente consegue visualizar melhor o que nós estamos usando, como que nós estamos trabalhando no código Mas eu sinto assim que no projeto nesse, no caso que nós estamos fazendo, eu acho que não vai bater o número no final.
+
+00:01:41 SPK_3
+Eu não sei se é por conta da quantidade de funcionalidades ou coisa assim, sabe?
+
+00:01:47 SPK_3
+Mas o que me chamou muita atenção foi essa questão de poder visualizar de forma melhor como que nós estamos fazendo, poder visualizar melhor o que nós estamos usando.
+
+00:02:01 SPK_1
+A gente pode comentar sobre o resto também?
+
+00:02:05 SPK_1
+Não, é normal.
+
+00:02:07 SPK_1
+Começa falando da sprint e por último você vai ver.
+
+00:02:11 SPK_2
+Posso só fazer um comentário sobre o que o James falou?
+
+00:02:14 SPK_2
+É que por mais que a gente não chegue nesse limite de pontos do ICP, eu vejo que ainda assim anotar esses pontos ajuda porque como ele falou, meio que dá uma visão geral do que a gente tá fazendo.
+
+00:02:28 SPK_2
+Isso me dá ideias de como Melhorar o meu código, deixar ele talvez menos redundante, mas coisas desse tipo.
+
+00:02:37 SPK_1
+Beleza.
+
+00:02:40 SPK_3
+Então pode comentar de novo.
+
+00:02:45 SPK_3
+Exatamente.
+
+00:02:45 SPK_3
+Oi?
+
+00:02:45 SPK_3
+Desculpa que eu não escutei direito.
+
+00:02:47 SPK_1
+Sim, pode comentar sobre realizar a sprint agora também.
+
+00:02:50 SPK_3
+Ah tá, deixa eu abrir o trailer novamente aqui.
+
+00:02:55 SPK_3
+Tá, falando sobre o que deu certo, né?
+
+00:03:00 SPK_3
+Bom, sobre o que deu certo, eu vejo que algo que eu achei muito interessante, muito bacana foi a gente dar essa parada até mais ou menos no meio da semana pra gente poder ver onde que estavam os bugs, sabe?
+
+00:03:12 SPK_3
+Onde que estavam os bugs, poder preparar, a gente focar neles pra depois continuar com outras demandas, né?
+
+00:03:20 SPK_3
+Foi algo que eu achei muito legal.
+
+00:03:22 SPK_3
+Super CDT.
+
+00:03:31 SPK_4
+Porque eu acho que não.
+
+00:03:32 SPK_3
+Salvou um outro aqui bom, é sobre as mudanças necessárias é...
+
+00:03:46 SPK_3
+tá, sobre as mudanças necessárias, eu acredito que mais que o CDD facilitou bastante a visualização Eu acho que é um pouco, tipo assim, é comentar um pouco, na verdade, é comentar mais os cores, de maneira geral.
+
+00:04:10 SPK_3
+Por exemplo, ontem, eu tive uma dificuldadezinha, que eu tava até com o Junior lá, com o One lá na frente, que eu tava vendo, a gente tem um pouco de dificuldade de entender uma tela específica, assim, de entender como que ela funcionava.
+
+00:04:27 SPK_3
+aí eu acho que com os comentários também facilita para a outra pessoa, não estou falando só de mim exclusivamente, mas de maneira geral.
+
+00:04:35 SPK_3
+O item de ação eu não cheguei a preencher nada.
+
+00:04:59 SPK_1
+Aqui não precisa de escutador também não.
+
+00:05:00 SPK_3
+E no caso o CTDD foi aquilo que eu tinha dito.
+
+00:05:04 SPK_1
+Ah, beleza.
+
+00:05:06 SPK_3
+Eu achei essa semana assim, achei bem interessante a dinâmica dele, senti.
+
+00:05:14 SPK_1
+Ah, beleza, é isso mesmo.
+
+00:05:18 SPK_1
+Alguém mais quer continuar?
+
+00:05:23 SPK_1
+Pode ser.
+
+00:05:28 SPK_1
+O que deu certo nessa sprint é basicamente a mesma resposta da semana passada, o que muda é o GitHub com as branches.
+
+00:05:37 SPK_1
+Semana passada, como eu tava trabalhando em dupla com o Dionísio e o Carlos, aí eu tinha que verificar o fork de cada um pra poder pegar as atualizações dos códigos.
+
+00:05:49 SPK_1
+A iCloud Branch não, que o GitHub, mesmo ele fazendo o merge, né, quando a gente faz o git pull, ele não tá atrapalhando o meu desenvolvimento.
+
+00:05:59 SPK_1
+Bom, nas mudanças necessárias...
+
+00:06:05 SPK_1
+As retrospectivas serem no sábado, eu gostei da hora de hoje.
+
+00:06:09 SPK_1
+Eu prefiro do que na sexta-feira.
+
+00:06:11 SPK_3
+Beleza.
+
+00:06:13 SPK_1
+Os itens de ação é acertar o layout do projeto com os devs do front-end.
+
+00:06:19 SPK_1
+Tipo assim, eu coloquei porque, por exemplo, a Lohan hoje ela tava adicionando mais diagramas de como vai ficar, pra ter uma visão melhor né do do aplicativo em si, aí eu aproveitei já para poder também ir desenvolvendo e colocando o front-end na interface que estava primitiva anteriormente.
+
+00:06:45 SPK_1
+Só que assim, tem algumas coisas que o pessoal do back-end desenvolveu, o Dionísio, o Lucas, Lucas não, o Carlos, o Pedro, o Daniel, que são algumas coisas a mais que não estavam na interface dela, então acho que deve ter uma conversa assim para tentar deixar o que precisa deixar e retirar o que for de necessário.
+
+00:07:09 SPK_1
+Por exemplo, também tinha uma funcionalidade que eu tinha colocado semana passada que eu retirei porque não faz sentido, com base no que ela estava colocando lá no Miro.
+
+00:07:19 SPK_1
+As questões e discussões é o mínimo produto viável do que a gente vai discutir na plane, E no CDD eu tenho uma consideração de, assim, como eu só estou fazendo a contabilidade dos pontos de CP ao final do meu desenvolvimento, ele não está impactando durante o desenvolvimento, somente no final.
+
+00:07:44 SPK_1
+Eu acho que os comentários no código têm sido mais eficazes do que o CDD, na minha opinião.
+
+00:07:54 SPK_1
+No que ele tá me contribuindo é apenas tipo pra entender qual o limite que eu tenho que ter durante o meu desenvolvimento.
+
+00:08:01 SPK_1
+Por exemplo, eu tava tendo uma tela lá, acho que era de cadastro.
+
+00:08:05 SPK_1
+Eu tava tendo muitos widgets básicos, então eu tava meio que só acordando, acordando e no final eu extrapolei o meu limite, que era 32 fontes.
+
+00:08:18 SPK_1
+Fora isso, ele me ajuda a ter esse controle, esse freio, né?
+
+00:08:21 SPK_1
+Porque, principalmente, eu que tô trabalhando mais na parte do front.
+
+00:08:27 SPK_1
+E eu tenho a sugestão de que o Widget Buds custe serem retirados da tabela.
+
+00:08:32 SPK_1
+Porque eles tão compreensíveis, até mesmo pra quem tá fazendo só o backhand.
+
+00:08:47 SPK_1
+Beleza, valeu.
+
+00:08:48 SPK_1
+Alguém mais que está voltando?
+
+00:08:50 SPK_1
+Daniel ou Pedro?
+
+00:08:52 SPK_3
+Vocês estão me ouvindo?
+
+00:09:05 SPK_5
+Então eu posso começar aqui.
+
+00:09:08 SPK_5
+No que deu certo, deixa eu ver aqui.
+
+00:09:11 SPK_5
+O pessoal achou os bugs, né?
+
+00:09:15 SPK_5
+Alguém está falando?
+
+00:09:19 SPK_5
+Tá, tá me ouvindo aí ou não?
+
+00:09:20 SPK_1
+Pô, tô escutando, acho que o teu Discord bugou de novo, Waze.
+
+00:09:23 SPK_1
+Ah, foi mal, vou sair aqui e entrar de novo.
+
+00:09:26 SPK_1
+Beleza.
+
+00:09:28 SPK_5
+Tá, beleza.
+
+00:09:30 SPK_5
+É o Waze que tá me ouvindo aí?
+
+00:09:31 SPK_1
+Aham, agora tô.
+
+00:09:32 SPK_1
+Não sei porque tem esse bug, mas...
+
+00:09:36 SPK_5
+Tá.
+
+00:09:36 SPK_5
+Aí o que deu certo, o pessoal tava descobrindo os bugs, né, aí eu...
+
+00:09:40 SPK_5
+O que deu certo pra mim foi consertar esses bugs, as tarefas atribuídas.
+
+00:09:46 SPK_5
+Apesar de eu ter metido o erro de ter pego muitas tarefas, eu achei que não ia dar certo, mas acabou dando tudo certo.
+
+00:09:56 SPK_5
+E também a parte de trabalhar com prints.
+
+00:10:00 SPK_5
+Eu acho que esse novo formato ajudou muito.
+
+00:10:03 SPK_5
+Porque antes eu tive, por exemplo, que ir lá no fork do Carlos e ver o que ele tinha feito.
+
+00:10:11 SPK_5
+Mudanças necessárias, eu não coloquei nada.
+
+00:10:17 SPK_5
+Itens de ação, a gente precisa organizar melhor o código, daquele formato que o Rony mandou no grupo.
+
+00:10:26 SPK_5
+É uma parte que eu tenho que começar a implementar isso no meu código.
+
+00:10:34 SPK_5
+Deixa eu ver, questão de discussões.
+
+00:10:39 SPK_5
+É só sobre...
+
+00:10:41 SPK_5
+a gente discute sobre a entrega do projeto mínimo viável, se vai continuar sendo o mesmo ou se vai ter alguma nova coisa.
+
+00:10:50 SPK_5
+Na minha opinião acho que tem que tomar cuidado se for colocar muitas novas coisas porque senão a gente vai ter que botar tudo de novo e pode acabar não dando tempo de entregar.
+
+00:11:06 SPK_5
+E sobre o CD...
+
+00:11:10 SPK_5
+Tô gostando de usar, deixa eu ver qual foi a minha resposta.
+
+00:11:19 SPK_5
+Até agora, nenhuma classe minha atingiu o máximo, mas eu ainda não tô certo se tem que aumentar ou diminuir, porque eu não sei se no futuro o código pode ficar mais complexo, entende?
+
+00:11:32 SPK_5
+Então eu ainda não tô muito certo disso.
+
+00:11:35 SPK_5
+E sobre o CDD, eu acho que os branches básicos, tipo colo, enrolo, eu acho que devem ser retirados e não devem ser contabilizados pelo ICB.
+
+00:11:46 SPK_5
+Por enquanto é isso.
+
+00:11:51 SPK_1
+Só falta o...
+
+00:11:52 SPK_4
+O que deu certo na sprint.
+
+00:12:03 SPK_4
+Eu coloquei aqui separar melhor as tarefas.
+
+00:12:08 SPK_4
+Porque na primeira sprint, acho que...
+
+00:12:11 SPK_4
+Tipo, o Carlos e o Daniel pegaram muita tarefa, aí ficou...
+
+00:12:14 SPK_4
+ficou difícil de saber o que estava acontecendo.
+
+00:12:18 SPK_4
+Aí agora tinha uma forma melhor distribuída, aí ficou mais fácil de organizar.
+
+00:12:28 SPK_4
+Também, né, a gente teve aquele documento que o Rony preparou com os requisitos e tal do projeto, como ele deve funcionar.
+
+00:12:39 SPK_4
+A gente teve uma visão melhor do que é o produto em si, né, e como ele funciona de maneira global.
+
+00:12:48 SPK_4
+E a mudança no fluxo de trabalho, no GitHub, pra usar branch em relação à maneira que tava antes, né, que cada um fazia separado, aí ficava ruim de ver onde tava As mudanças no código agora ficou tudo centralizado, aí é mais fácil de ver qualquer mudança mais recente.
+
+00:13:09 SPK_4
+Mudanças necessárias.
+
+00:13:13 SPK_4
+Eu coloquei aquilo que eu falei antes durante reunião, que padronizar o nome das classes do widget para ser, na medida do possível, ter o mesmo nome do arquivo onde ele está.
+
+00:13:27 SPK_4
+pra quando a gente for referência, a gente achar mais fácil.
+
+00:13:38 SPK_3
+Gente, desculpa, só me lembrando que eu preciso sair aqui, tá bom?
+
+00:13:40 SPK_2
+Que eu não tenho...
+
+00:13:40 SPK_1
+Beleza.
+
+00:13:40 SPK_3
+Beleza, galera, vou pôr o resto aí de...
+
+00:13:43 SPK_3
+de...
+
+00:13:43 SPK_3
+de...
+
+00:13:43 SPK_3
+de...
+
+00:13:43 SPK_3
+de...
+
+00:13:43 SPK_3
+de...
+
+00:13:43 SPK_3
+de...
+
+00:13:43 SPK_4
+De...
+
+00:13:44 SPK_4
+de...
+
+00:13:44 SPK_4
+de...
+
+00:13:45 SPK_4
+de...
+
+00:13:45 SPK_4
+de...
+
+00:13:45 SPK_4
+de...
+
+00:13:45 SPK_4
+de...
+
+00:13:45 SPK_1
+De...
+
+00:13:45 SPK_1
+de...
+
+00:13:45 SPK_1
+de...
+
+00:13:45 SPK_1
+de...
+
+00:13:45 SPK_1
+de...
+
+00:13:45 SPK_1
+de...
+
+00:13:45 SPK_1
+de...
+
+00:13:46 SPK_1
+de...
+
+00:13:46 SPK_1
+de...
+
+00:13:46 SPK_1
+de...
+
+00:13:46 SPK_1
+de...
+
+00:13:46 SPK_1
+de...
+
+00:13:46 SPK_1
+de...
+
+00:13:46 SPK_1
+de...
+
+00:13:46 SPK_3
+De...
+
+00:13:46 SPK_3
+de...
+
+00:13:46 SPK_3
+de...
+
+00:13:46 SPK_3
+de...
+
+00:13:47 SPK_3
+de...
+
+00:13:47 SPK_3
+de...
+
+00:13:47 SPK_3
+de...
+
+00:13:47 SPK_1
+De...
+
+00:13:47 SPK_1
+de...
+
+00:13:47 SPK_1
+de...
+
+00:13:47 SPK_1
+de...
+
+00:13:47 SPK_1
+de...
+
+00:13:47 SPK_1
+de...
+
+00:13:48 SPK_1
+de...
+
+00:13:48 SPK_3
+De...
+
+00:13:48 SPK_3
+de...
+
+00:13:48 SPK_3
+de...
+
+00:13:48 SPK_3
+de...
+
+00:13:48 SPK_3
+de...
+
+00:13:48 SPK_3
+de...
+
+00:13:48 SPK_3
+de...
+
+00:13:48 SPK_3
+de...
+
+00:13:48 SPK_3
+de...
+
+00:13:49 SPK_3
+de...
+
+00:13:49 SPK_3
+de...
+
+00:13:49 SPK_3
+de...
+
+00:13:49 SPK_3
+de...
+
+00:13:49 SPK_3
+de...
+
+00:13:49 SPK_3
+de...
+
+00:13:49 SPK_3
+de...
+
+00:13:49 SPK_3
+de...
+
+00:13:49 SPK_3
+de...
+
+00:13:50 SPK_3
+de...
+
+00:13:50 SPK_3
+de...
+
+00:13:51 SPK_3
+de...
+
+00:13:51 SPK_1
+De...
+
+00:13:51 SPK_1
+de...
+
+00:13:51 SPK_1
+de...
+
+00:13:51 SPK_1
+de...
+
+00:13:51 SPK_1
+de...
+
+00:13:51 SPK_1
+de...
+
+00:13:51 SPK_1
+de...
+
+00:13:51 SPK_4
+De...
+
+00:13:51 SPK_4
+de...
+
+00:13:51 SPK_4
+de...
+
+00:13:51 SPK_4
+de...
+
+00:13:52 SPK_4
+de...
+
+00:13:52 SPK_4
+de...
+
+00:13:52 SPK_4
+de...
+
+00:13:53 SPK_3
+De...
+
+00:13:53 SPK_3
+de...
+
+00:13:53 SPK_3
+de...
+
+00:13:54 SPK_3
+de...
+
+00:13:54 SPK_3
+de...
+
+00:13:55 SPK_3
+de...
+
+00:13:55 SPK_3
+de.
+
+00:13:58 SPK_4
+Nos itens de ação.
+
+00:14:01 SPK_4
+Eu só anotei aqui pra ficar registrado, que é aquela parte de colocar os nomes dos arquivos no padrão lá de Snake Case e tal, os nomes das classes e tudo mais.
+
+00:14:17 SPK_4
+Na questão de discussões eu não coloquei nada e no CDD eu peguei uma tarefa pra fazer de desenvolvimento que foi.
+
+00:14:27 SPK_1
+De.
+
+00:14:29 SPK_4
+Iniciar o projeto, só que eu falando com o Rony depois eu vi que não tinha como eu fazer, né?
+
+00:14:36 SPK_4
+Porque dependia de funcionalidades que não foram implementadas ainda, que estão no backlog.
+
+00:14:42 SPK_4
+Porque eu não toquei nessa parte da execução, você fez aquela parte de teste.
+
+00:14:48 SPK_4
+Porém, enquanto eu tava tentando fazer, eu acho que me ajudou a entender o código que já tá feito, né?
+
+00:14:56 SPK_4
+Pra...
+
+00:14:58 SPK_4
+tentar seguir a partir daquilo, olhando o código do Carlos e do Daniel, por exemplo.
+
+00:15:02 SPK_1
+Eu queria só dar uma consideração sobre o CDD, por exemplo, os meninos aí comentaram sobre a diminuição de pontos, né?
+
+00:15:14 SPK_1
+Assim, eu não concordo que deva diminuir, porque, por exemplo, o pessoal que trabalha no back-end estava vendo as classes lá antes de pegar para transformar para o front-end, Por exemplo, os números estavam bem baixos mesmo, que não poderia chegar a 32 nem se implementassem novas funcionalidades de back-end.
+
+00:15:34 SPK_1
+Aí, por exemplo, 8, 12, 14...
+
+00:15:35 SPK_1
+Só que aí, quando eu estava desenvolvendo a parte do front-end, eles aumentavam.
+
+00:15:41 SPK_1
+E, por exemplo, tinha uma classe lá que ela tinha muito focado no back-end e também tinha muitos componentes.
+
+00:15:49 SPK_1
+E, tipo, não fazia sentido eu fazer o front-end e componentizar, sendo que aquela classe já tinha muitos componentes.
+
+00:15:57 SPK_1
+Aí acabou que...
+
+00:15:59 SPK_1
+essa é a minha consideração.
+
+00:16:01 SPK_5
+Pra mim também não.
+
+00:16:03 SPK_4
+Eu aceito.
+
+00:16:05 SPK_1
+Então, repete aí por favor, Carlos, sobre...
+
+00:16:07 SPK_4
+Só o CDD e aí eu vou.
+
+00:16:09 SPK_1
+Seguir no home, que é gravado.

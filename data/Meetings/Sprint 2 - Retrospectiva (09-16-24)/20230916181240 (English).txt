@@ -1,0 +1,674 @@
+00:00:02 SPK_1
+Can you already?
+
+00:00:03 SPK_1
+He can.
+
+00:00:05 SPK_2
+About the CDD, I think the process of accounting for ICP points has already become more fluid, easier to do.
+
+00:00:15 SPK_2
+You don't have to be consulting the table so many times, you already have a head link to that.
+
+00:00:20 SPK_2
+And something I noticed is that the point limit for a class, which is 32 points, I think it is very high, because the classes I see, many do not even reach 25 points, more or less.
+
+00:00:37 SPK_2
+The big ones are about 20 and a few points, but most are less than that.
+
+00:00:42 SPK_2
+Then I believe we have to see this limit there.
+
+00:00:46 SPK_2
+And one of my opinion is that the basic widgets could be removed from the table, in my opinion.
+
+00:00:55 SPK_2
+And that.
+
+00:01:05 SPK_1
+Someone more?
+
+00:01:06 SPK_3
+If the person wants to talk about put it on the card?
+
+00:01:17 SPK_3
+I can talk about.
+
+00:01:18 SPK_3
+Regarding the CDD, I thought it is very interesting, like this, we can better visualize what we are using, as we are working on the code but I feel as soon as in the project, in the case we are doing, I think it won't hit the number at the end.
+
+00:01:41 SPK_3
+I don't know if it's because of the amount of features or something, you know?
+
+00:01:47 SPK_3
+But what caught my attention was this question of being better visualized how we are doing, being able to better visualize what we are using.
+
+00:02:01 SPK_1
+Can we comment on the rest too?
+
+00:02:05 SPK_1
+No, it's normal.
+
+00:02:07 SPK_1
+It starts talking about Sprint and lastly you will see.
+
+00:02:11 SPK_2
+Can I just comment on what James said?
+
+00:02:14 SPK_2
+For as much as we do not reach this limit of ICP points, I see that still writing these points helps because as he said, kind of gives an overview of what we are doing.
+
+00:02:28 SPK_2
+This gives me ideas on how to improve my code, make it perhaps less redundant, but things like that.
+
+00:02:37 SPK_1
+Beauty.
+
+00:02:40 SPK_3
+Then you can comment again.
+
+00:02:45 SPK_3
+Exactly.
+
+00:02:45 SPK_3
+Hey?
+
+00:02:45 SPK_3
+Sorry I didn't hear right.
+
+00:02:47 SPK_1
+Yes, you can comment on Sprint now as well.
+
+00:02:50 SPK_3
+Oh ok, let me open the trailer again here.
+
+00:02:55 SPK_3
+Okay, talking about what worked, right?
+
+00:03:00 SPK_3
+Well, about what worked, I see that something that I found very interesting, very cool was that we stop even more or less in the middle of the week so we can see where the bugs were, you know?
+
+00:03:12 SPK_3
+Where the bugs were, being able to prepare, we focus on them to continue with other demands, right?
+
+00:03:20 SPK_3
+It was something I found very cool.
+
+00:03:22 SPK_3
+Super CDT.
+
+00:03:31 SPK_4
+Because I don't think so.
+
+00:03:32 SPK_3
+Saved another good here, it is about the necessary changes is ...
+
+00:03:46 SPK_3
+Okay, about the necessary changes, I believe that more than the CDD has greatly facilitated the visualization I think it's a little, like, it is to comment a little, in fact, is to comment more the colors, in general.
+
+00:04:10 SPK_3
+For example, yesterday, I had a little difficulty, that I was even with Junior there, with One up front, which I was seeing, we have a little difficulty understanding a specific screen, so to understand how to understand It worked.
+
+00:04:27 SPK_3
+Then I think with comments also makes it easier for someone else, I'm not just talking about me exclusively, but in general.
+
+00:04:35 SPK_3
+The action item I didn't fill anything.
+
+00:04:59 SPK_1
+No listener does not have no listener either.
+
+00:05:00 SPK_3
+And in this case CTDD was what I had said.
+
+00:05:04 SPK_1
+Ah, beauty.
+
+00:05:06 SPK_3
+I found this week like that, I found his dynamics very interesting, I felt.
+
+00:05:14 SPK_1
+Ah, beauty, that's right.
+
+00:05:18 SPK_1
+Does anyone more want to continue?
+
+00:05:23 SPK_1
+Could it be.
+
+00:05:28 SPK_1
+What worked in this sprint is basically the same answer as last week, what changes is Github with the Branches.
+
+00:05:37 SPK_1
+Last week, as I was working in pairs with Dionísio and Carlos, then I had to check the fork of each one to get the codes updates.
+
+00:05:49 SPK_1
+Icloud Branch no, that Github, even though he doing Merge, right, when we do Git Pull, he's not disturbing my development.
+
+00:05:59 SPK_1
+Well, in the necessary changes ...
+
+00:06:05 SPK_1
+The retrospectives are on Saturday, I liked it today.
+
+00:06:09 SPK_1
+I prefer than on Friday.
+
+00:06:11 SPK_3
+Beauty.
+
+00:06:13 SPK_1
+The action items is to hit the project layout with the front end Devs.
+
+00:06:19 SPK_1
+Like, I put it because, for example, Lohan today she was adding more diagrams of how it will be, to get a better view of the application itself, so I took the opportunity to be able to develop and put the front end at the interface that was primarily primitive.
+
+00:06:45 SPK_1
+But so, there are some things that the Back-end people developed, Dionysus, Lucas, Lucas not, Carlos, Pedro, Daniel, who are some more things that were not at her interface, so I think I think You must have such a conversation to try to leave what you need to leave and remove whatever you need.
+
+00:07:09 SPK_1
+For example, there was also a functionality that I had put last week that I removed because it makes no sense, based on what it was putting there in Miro.
+
+00:07:19 SPK_1
+The questions and discussions are the minimum viable product of what we will discuss on Plane, and on the CDD I have a consideration of, so, as I am just making the accounting of the CP points at the end of my development, it is not impacting During development, only at the end.
+
+00:07:44 SPK_1
+I think comments in the code have been more effective than the CDD, in my opinion.
+
+00:07:54 SPK_1
+What is it contributing to me is just kind to understand what limit I have to have during my development.
+
+00:08:01 SPK_1
+For example, I was having a screen there, I think it was registration.
+
+00:08:05 SPK_1
+I was having a lot of basic widgets, so I was kind of just waking up, waking up and at the end I extrapolated my limit, which was 32 sources.
+
+00:08:18 SPK_1
+Other than that, he helps me to have this control, this brake, right?
+
+00:08:21 SPK_1
+Because, especially, I'm working more on the front.
+
+00:08:27 SPK_1
+And I have the suggestion that widget Buds costs to be removed from the table.
+
+00:08:32 SPK_1
+Because they are so understandable, even for those who are just doing the backhand.
+
+00:08:47 SPK_1
+Beauty, thanks.
+
+00:08:48 SPK_1
+Anyone who is coming back?
+
+00:08:50 SPK_1
+Daniel or Pedro?
+
+00:08:52 SPK_3
+Are you listening to me?
+
+00:09:05 SPK_5
+So I can start here.
+
+00:09:08 SPK_5
+In what worked, let me see here.
+
+00:09:11 SPK_5
+The people found the bugs, right?
+
+00:09:15 SPK_5
+Is anyone talking?
+
+00:09:19 SPK_5
+Okay, are you listening to me there or not?
+
+00:09:20 SPK_1
+Wow, I'm listening, I think your Discord bugged again, Waze.
+
+00:09:23 SPK_1
+Ah, it was bad, I'm going out here and getting in again.
+
+00:09:26 SPK_1
+Beauty.
+
+00:09:28 SPK_5
+Okay, beauty.
+
+00:09:30 SPK_5
+Is it the waze that is listening to me there?
+
+00:09:31 SPK_1
+Aham, now I'm.
+
+00:09:32 SPK_1
+I don't know why there is this bug, but ...
+
+00:09:36 SPK_5
+Okay.
+
+00:09:36 SPK_5
+Then what worked, the people were discovering the bugs, right, then I ...
+
+00:09:40 SPK_5
+What worked for me was to fix these bugs, the assigned tasks.
+
+00:09:46 SPK_5
+Although I got the mistake of having caught a lot of tasks, I thought it wasn't going to work, but it turned out to be all right.
+
+00:09:56 SPK_5
+And also the part of working with prints.
+
+00:10:00 SPK_5
+I think this new format helped a lot.
+
+00:10:03 SPK_5
+Because before I had, for example, to go there at Carlos's fork and see what he had done.
+
+00:10:11 SPK_5
+Necessary changes, I didn't put anything.
+
+00:10:17 SPK_5
+Action items, we need to better organize the code, that format that Ron sent in the group.
+
+00:10:26 SPK_5
+It's a part that I have to start implementing this in my code.
+
+00:10:34 SPK_5
+Let me see, a question of discussions.
+
+00:10:39 SPK_5
+It's just about ...
+
+00:10:41 SPK_5
+We discuss the delivery of the viable minimum project, whether it will continue to be the same or if there will be something new.
+
+00:10:50 SPK_5
+In my opinion I think you have to be careful if we are putting a lot of new things because otherwise we will have to put it all over again and may end up not giving time to deliver.
+
+00:11:06 SPK_5
+And about the CD ...
+
+00:11:10 SPK_5
+I'm enjoying using it, let me see what was my answer.
+
+00:11:19 SPK_5
+So far, no class of mine has reached the most, but I'm not right if you have to increase or decrease, because I don't know if in the future the code can get more complex, you know?
+
+00:11:32 SPK_5
+So I'm not very right yet.
+
+00:11:35 SPK_5
+And about the CDD, I think the basic, lap -like branches, I think they should be removed and should not be accounted for by the ICB.
+
+00:11:46 SPK_5
+For now that's it.
+
+00:11:51 SPK_1
+Just the ...
+
+00:11:52 SPK_4
+What worked on Sprint.
+
+00:12:03 SPK_4
+I put here to separate the tasks better.
+
+00:12:08 SPK_4
+Because in the first sprint, I think ...
+
+00:12:11 SPK_4
+Like, Carlos and Daniel took a lot of task, then it was ...
+
+00:12:14 SPK_4
+It was hard to know what was going on.
+
+00:12:18 SPK_4
+Then now there was a better distributed form, then it became easier to organize.
+
+00:12:28 SPK_4
+Also, right, we had that document that Ron prepared with the requirements and such the project, how it should work.
+
+00:12:39 SPK_4
+We had a better view of the product itself, right, and how it works globally.
+
+00:12:48 SPK_4
+And the change in the workflow, in Github, to use Branch in relation to the way it was before, right, that each one was separate, there was bad to see where the changes in the code was now centered, then it's easier to see any more recent change.
+
+00:13:09 SPK_4
+Necessary changes.
+
+00:13:13 SPK_4
+I put what I said before during a meeting, that standardize the name of the widget classes to be as far as possible have the same name as the file where it is.
+
+00:13:27 SPK_4
+For when we are reference, we find it easier.
+
+00:13:38 SPK_3
+Guys, sorry, just remembering that I need to go out here, okay?
+
+00:13:40 SPK_2
+I don't have ...
+
+00:13:40 SPK_1
+Beauty.
+
+00:13:40 SPK_3
+Beauty, guys, I'll put the rest from ...
+
+00:13:43 SPK_3
+of...
+
+00:13:43 SPK_3
+of...
+
+00:13:43 SPK_3
+of...
+
+00:13:43 SPK_3
+of...
+
+00:13:43 SPK_3
+of...
+
+00:13:43 SPK_3
+of...
+
+00:13:43 SPK_4
+Of...
+
+00:13:44 SPK_4
+of...
+
+00:13:44 SPK_4
+of...
+
+00:13:45 SPK_4
+of...
+
+00:13:45 SPK_4
+of...
+
+00:13:45 SPK_4
+of...
+
+00:13:45 SPK_4
+of...
+
+00:13:45 SPK_1
+Of...
+
+00:13:45 SPK_1
+of...
+
+00:13:45 SPK_1
+of...
+
+00:13:45 SPK_1
+of...
+
+00:13:45 SPK_1
+of...
+
+00:13:45 SPK_1
+of...
+
+00:13:45 SPK_1
+of...
+
+00:13:46 SPK_1
+of...
+
+00:13:46 SPK_1
+of...
+
+00:13:46 SPK_1
+of...
+
+00:13:46 SPK_1
+of...
+
+00:13:46 SPK_1
+of...
+
+00:13:46 SPK_1
+of...
+
+00:13:46 SPK_1
+of...
+
+00:13:46 SPK_3
+Of...
+
+00:13:46 SPK_3
+of...
+
+00:13:46 SPK_3
+of...
+
+00:13:46 SPK_3
+of...
+
+00:13:47 SPK_3
+of...
+
+00:13:47 SPK_3
+of...
+
+00:13:47 SPK_3
+of...
+
+00:13:47 SPK_1
+Of...
+
+00:13:47 SPK_1
+of...
+
+00:13:47 SPK_1
+of...
+
+00:13:47 SPK_1
+of...
+
+00:13:47 SPK_1
+of...
+
+00:13:47 SPK_1
+of...
+
+00:13:48 SPK_1
+of...
+
+00:13:48 SPK_3
+Of...
+
+00:13:48 SPK_3
+of...
+
+00:13:48 SPK_3
+of...
+
+00:13:48 SPK_3
+of...
+
+00:13:48 SPK_3
+of...
+
+00:13:48 SPK_3
+of...
+
+00:13:48 SPK_3
+of...
+
+00:13:48 SPK_3
+of...
+
+00:13:48 SPK_3
+of...
+
+00:13:49 SPK_3
+of...
+
+00:13:49 SPK_3
+of...
+
+00:13:49 SPK_3
+of...
+
+00:13:49 SPK_3
+of...
+
+00:13:49 SPK_3
+of...
+
+00:13:49 SPK_3
+of...
+
+00:13:49 SPK_3
+of...
+
+00:13:49 SPK_3
+of...
+
+00:13:49 SPK_3
+of...
+
+00:13:50 SPK_3
+of...
+
+00:13:50 SPK_3
+of...
+
+00:13:51 SPK_3
+of...
+
+00:13:51 SPK_1
+Of...
+
+00:13:51 SPK_1
+of...
+
+00:13:51 SPK_1
+of...
+
+00:13:51 SPK_1
+of...
+
+00:13:51 SPK_1
+of...
+
+00:13:51 SPK_1
+of...
+
+00:13:51 SPK_1
+of...
+
+00:13:51 SPK_4
+Of...
+
+00:13:51 SPK_4
+of...
+
+00:13:51 SPK_4
+of...
+
+00:13:51 SPK_4
+of...
+
+00:13:52 SPK_4
+of...
+
+00:13:52 SPK_4
+of...
+
+00:13:52 SPK_4
+of...
+
+00:13:53 SPK_3
+Of...
+
+00:13:53 SPK_3
+of...
+
+00:13:53 SPK_3
+of...
+
+00:13:54 SPK_3
+of...
+
+00:13:54 SPK_3
+of...
+
+00:13:55 SPK_3
+of...
+
+00:13:55 SPK_3
+of.
+
+00:13:58 SPK_4
+In the action items.
+
+00:14:01 SPK_4
+I just wrote down here to be registered, which is that part of putting the names of the files in the pattern of Snake Case and such, the names of the classes and everything.
+
+00:14:17 SPK_4
+In the discussion I didn't put anything and on the CDD I got a task to make the development it was.
+
+00:14:27 SPK_1
+Of.
+
+00:14:29 SPK_4
+Start the project, only I talking to Ron after I saw that I couldn't do it, right?
+
+00:14:36 SPK_4
+Because it depended on features that have not yet been implemented, which are in the backlog.
+
+00:14:42 SPK_4
+Because I didn't touch this part of the execution, you did that test part.
+
+00:14:48 SPK_4
+But while I was trying to do it, I think it helped me understand the code that is already made, right?
+
+00:14:56 SPK_4
+For...
+
+00:14:58 SPK_4
+Try to follow from that, looking at Carlos and Daniel's code, for example.
+
+00:15:02 SPK_1
+I just wanted to give a consideration about the CDD, for example, the boys there commented on the reduction of points, right?
+
+00:15:14 SPK_1
+So I don't agree that you should decrease, because, for example, the people who work on the back-end were seeing the classes there before taking it to turn to the front end, for example, the numbers were very low, which It could reach 32 nor if new back-end features were implemented.
+
+00:15:34 SPK_1
+Then, for example, 8, 12, 14 ...
+
+00:15:35 SPK_1
+Only then, when I was developing the front end, they increased.
+
+00:15:41 SPK_1
+And, for example, there was a class there that she had a lot of back-end focused and also had many components.
+
+00:15:49 SPK_1
+And, like, it made no sense to make the front end and component, and that class already had many components.
+
+00:15:57 SPK_1
+Then it was over ...
+
+00:15:59 SPK_1
+This is my consideration.
+
+00:16:01 SPK_5
+Nor for me either.
+
+00:16:03 SPK_4
+I accept.
+
+00:16:05 SPK_1
+So, repeat please, Carlos, about ...
+
+00:16:07 SPK_4
+Just the CDD and then I go.
+
+00:16:09 SPK_1
+Follow in the home, which is recorded.

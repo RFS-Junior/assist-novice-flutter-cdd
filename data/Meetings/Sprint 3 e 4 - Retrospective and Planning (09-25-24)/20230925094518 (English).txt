@@ -1,0 +1,233 @@
+00:00:02 SPK_1
+I did it too.
+
+00:00:05 SPK_2
+Also.
+
+00:00:05 SPK_2
+Okay, then ...
+
+00:00:06 SPK_2
+AND...
+
+00:00:06 SPK_2
+What is it to start by talking there?
+
+00:00:11 SPK_2
+How ...
+
+00:00:18 SPK_3
+In my opinion, I think there is nothing to change.
+
+00:00:19 SPK_3
+AND...
+
+00:00:19 SPK_3
+Until when it's in the past operation, I think it's good.
+
+00:00:27 SPK_2
+Yeah, from the last ...
+
+00:00:30 SPK_2
+From the first table, from the first version for the second, we got the issue of basic widgets, column, row, which are there from Flex.
+
+00:00:50 SPK_2
+Why did you notice that this really was something that made a difference or do you think you should return?
+
+00:00:58 SPK_2
+Do you have any opinions about this change?
+
+00:01:00 SPK_2
+Have you seen any impact on your code when it comes to developing?
+
+00:01:08 SPK_2
+And the amount of maximum cognitive load, which is at 30 points, which is twice the amount of cps we have defined.
+
+00:01:20 SPK_2
+These questions are more or less.
+
+00:01:22 SPK_2
+And also about how was the experience in the retrospective, which I think you could collaborate.
+
+00:01:38 SPK_3
+Yeah, I think in the part of.
+
+00:01:40 SPK_4
+Blood Pool, for me ...
+
+00:01:42 SPK_3
+I think it improved the issue of testing call and no.
+
+00:01:45 SPK_3
+I think the opportunity for us to use the most advanced IT.
+
+00:01:51 SPK_3
+I think it was really good.
+
+00:01:53 SPK_3
+And that's it.
+
+00:01:56 SPK_2
+Beauty.
+
+00:02:00 SPK_2
+Anyone else there?
+
+00:02:00 SPK_2
+AND...
+
+00:02:05 SPK_4
+With the removal of the hair, a little more real about the issue of sharing some individual, I think with society.
+
+00:02:11 SPK_4
+I also have to say that it gave me a concern in the inspection accounting part.
+
+00:02:25 SPK_4
+Tell me, right, I was always counting when I finished developing.
+
+00:02:30 SPK_4
+Then, when I finished developing, I told the inspections.
+
+00:02:34 SPK_4
+Then with the removal of the spaces, there.
+
+00:02:35 SPK_1
+Everyone is much more concerned about the end.
+
+00:02:57 SPK_2
+Okay, beauty.
+
+00:02:57 SPK_2
+Anyone else there?
+
+00:03:06 SPK_4
+Has Caesar made you refact a class?
+
+00:03:08 SPK_1
+Or changed the style of how you.
+
+00:03:17 SPK_2
+Do you program somehow?
+
+00:03:19 SPK_2
+So far not.
+
+00:03:36 SPK_4
+He didn't make me refact a class, but because of before, when I added ...
+
+00:03:44 SPK_4
+It must have only one specific case, which I could not configure the screen, but then Clarke explored the size of the CPU because of many values.
+
+00:03:56 SPK_4
+Then I needed to do myself to component some things.
+
+00:04:00 SPK_4
+They made no sense to component, but had to composement because it could not burst the positive attack.
+
+00:04:08 SPK_4
+Then, therefore, after this experience, he helped me look at the ease of understanding of the cosmos.
+
+00:04:17 SPK_4
+For example, always, instead of creating various elements that have the same organization, for example, a text, it has a text that has the source, has the color, it also has the size.
+
+00:04:37 SPK_4
+I know I will repeat several times, in the classic, as a component, it helps me to have this vision.
+
+00:04:45 SPK_4
+And based on that, whenever I can, I do this kind of development, to component some items, so I can use it as control.
+
+00:04:56 SPK_1
+I understood.
+
+00:05:09 SPK_2
+You are using Provider's, right?
+
+00:05:12 SPK_2
+The crowd that, for example, I imagine who created the provides, right?
+
+00:05:19 SPK_2
+Some provides there from the service to manage the state has ...
+
+00:05:26 SPK_2
+Understand how code works and everything.
+
+00:05:29 SPK_2
+But it is the crowd that, for example, you need to modify there a code that someone else has created.
+
+00:05:35 SPK_2
+When you have provider, it's easy to understand.
+
+00:05:39 SPK_2
+It's because, for now, we only use Provider, we are not using Flutterblock, for example.
+
+00:05:46 SPK_2
+Is it being easy to understand or provider really a factor that weighs there in the complexity of the class?
+
+00:05:56 SPK_1
+It depends a little, for example.
+
+00:06:08 SPK_4
+Than Provider is assuming.
+
+00:06:11 SPK_4
+For example, there are some classes that Provider will start the state of, for example, the screen in the issue of theme, light theme and dark theme.
+
+00:06:25 SPK_4
+Then it is a little easier to understand, but there are some provides there that work with the part of ...
+
+00:06:34 SPK_4
+The initiator organs of the managers that they are beauty, I understood.
+
+00:07:00 SPK_2
+Anyone else there wants to tell the CDD experience for 6 prints?
+
+00:07:12 SPK_2
+Or even make a CP change, as we did last week.
+
+00:07:17 SPK_2
+Or I think it's working as it is at the moment.
+
+00:07:21 SPK_2
+We should do it at Sprint, which was the past sprint.
+
+00:07:24 SPK_1
+I think today was the end.
+
+00:07:31 SPK_4
+I think the rhythm was good.
+
+00:07:32 SPK_4
+I also think it was good.
+
+00:07:44 SPK_2
+Beauty, so let's keep the table will not change, the same score 30 points we have worked on the application?
+
+00:08:26 SPK_2
+Not yet, I'm wanting to do this part only when you finish more than any element of the screens here so you don't have any conflict after you need to take an animation and such.
+
+00:08:31 SPK_2
+Oh ok, I understand, true.
+
+00:08:32 SPK_2
+Because we can have a screen, you create an animation there and then this screen comes out for some reason.
+
+00:08:36 SPK_2
+Then the animation is kind of boring to create, right?
+
+00:08:40 SPK_4
+And it's true, give one.
+
+00:08:44 SPK_1
+Little more.
+
+00:08:55 SPK_2
+From work that I also realized, as if I stayed the part of ...
+
+00:08:59 SPK_2
+to work responsibility.
+
+00:09:00 SPK_2
+Beauty, then.
+
+00:09:00 SPK_2
+So we keep the table here as it is.

@@ -1,0 +1,1055 @@
+00:00:08 SPK_1
+And then, the question is as follows, in this table here, we have the classes that end up with a higher total index, because I organized here for the largest.
+
+00:00:24 SPK_1
+And then we have this other class here, project date has 30.
+
+00:00:28 SPK_1
+There is link here, that I don't know what means a lot.
+
+00:00:34 SPK_1
+Form Project, finally.
+
+00:00:36 SPK_1
+And then I have this other column here that I see if they are inside the limit, right?
+
+00:00:44 SPK_1
+And here in this first I determine that if the limit is equal to or less than 30, then it is within the limit.
+
+00:00:54 SPK_1
+In the case of here, she's 30, so she's inside the limit.
+
+00:00:58 SPK_1
+If not, it will be false.
+
+00:01:00 SPK_1
+These three classes here are out of the CP limit that we initially defined.
+
+00:01:07 SPK_1
+We just note that there are actually three classes here that are out of the limit.
+
+00:01:13 SPK_1
+But there, what is my proposal I'm making here for this week?
+
+00:01:18 SPK_1
+It's just that we decrease the limit quite, halfway through it.
+
+00:01:22 SPK_1
+That is, we will do a factorial factor so that all classes are within the limit equal to or less than 15.
+
+00:01:32 SPK_1
+Because 15 is the total number of ICPs.
+
+00:01:38 SPK_1
+So the idea is that, I don't know, we have a class that she has one of each of these items here.
+
+00:01:46 SPK_1
+Just one example, of course it won't be like that, right?
+
+00:01:47 SPK_1
+So it will have a print, an coupling, an asynchronous option, an asynchronous index, a state and an animation.
+
+00:02:02 SPK_1
+And she would have 15 CP points.
+
+00:02:05 SPK_1
+And then the idea is not that we put the issue of basic widgets, because we will not treat this part of the layout and everything.
+
+00:02:18 SPK_1
+And maybe take this animated widget here, because we won't use it.
+
+00:02:26 SPK_1
+What do you think?
+
+00:02:26 SPK_2
+Interesting this approach.
+
+00:02:32 SPK_1
+So we would only work the same layout part.
+
+00:02:36 SPK_1
+And then we would have to work within these ten classes here, to refact these ten classes.
+
+00:02:49 SPK_1
+Obviously this will make, for example, at the moment we have forty -five, forty -five not right, forty -four classes.
+
+00:02:58 SPK_1
+That would make us more classes, right?
+
+00:03:00 SPK_1
+Because, for example, the mainapp will turn into one or more or more classes.
+
+00:03:06 SPK_1
+Demand details too.
+
+00:03:07 SPK_1
+If I'm not mistaken, I think details of the demand has ...
+
+00:03:11 SPK_1
+There are two provides, there are two streams, if I'm not mistaken.
+
+00:03:16 SPK_1
+I saw a class that was like this, which had several provides.
+
+00:03:18 SPK_1
+Hey?
+
+00:03:19 SPK_1
+Yeah, I didn't understand.
+
+00:03:19 SPK_1
+I think it is.
+
+00:03:24 SPK_2
+More details.
+
+00:03:32 SPK_1
+Yeah, and that's the question, right?
+
+00:03:34 SPK_1
+It's going back to the code and remembering why the person did it, right?
+
+00:03:38 SPK_1
+Why did I do this?
+
+00:03:39 SPK_1
+What was my logic?
+
+00:03:41 SPK_1
+And then you try to rethink a logic, because O, imagine that we put a new person on this project and they have to make this demand for details here.
+
+00:03:52 SPK_1
+We came back a lot in this class, right?
+
+00:03:55 SPK_1
+If she read this code here, she will take a long time to understand what he does and everything.
+
+00:04:02 SPK_1
+Then it is more difficult to maintain here, for example.
+
+00:04:05 SPK_1
+And then, the idea is that we have classes, for example, imagine here a class with one size, whatever, reasonable.
+
+00:04:15 SPK_1
+Here, Oh.
+
+00:04:17 SPK_1
+StartProject.
+
+00:04:18 SPK_1
+Where is this?
+
+00:04:30 SPK_1
+Here, there is this class that she is to this way, right, reasonably large, she has 143 lines.
+
+00:04:36 SPK_1
+So she has 143 lines, has 14 ICP points.
+
+00:04:40 SPK_1
+So, probably, the possibility that I understand her faster is big, because her ICP is small, right, 14.
+
+00:04:48 SPK_1
+So, if we killed our classes within 14, 15, right, depending on the amount of ICPs we will define there, all classes will be small.
+
+00:05:01 SPK_1
+They will have here 143, 150 lines.
+
+00:05:04 SPK_1
+You will not have a class of 474 lines.
+
+00:05:09 SPK_1
+So the idea is this.
+
+00:05:14 SPK_1
+If we greatly reduce the ICP.
+
+00:05:16 SPK_1
+Because this one has already burst the ICP even if it was 30.
+
+00:05:19 SPK_1
+I would have to take 8 ICP points from here somehow.
+
+00:05:24 SPK_1
+And then the idea is that we work on this limit here that is the equal 15 equal or less than 15 actually what do you think about this challenge?
+
+00:05:46 SPK_2
+I think it's wonderful there, like that, we have to see how it will organize the parts, right?
+
+00:05:59 SPK_2
+Because many parts will be created.
+
+00:06:02 SPK_2
+So, you need to see how it will organize better, because we are already organizing the parts, right?
+
+00:06:07 SPK_1
+That, that.
+
+00:06:08 SPK_1
+We will do ...
+
+00:06:10 SPK_1
+He can talk?
+
+00:06:11 SPK_2
+No, it is.
+
+00:06:12 SPK_2
+This is the following.
+
+00:06:12 SPK_2
+Even Windows will help in this part.
+
+00:06:13 SPK_1
+But basically, what are we going to do?
+
+00:06:25 SPK_1
+Let me see here, it is because this structure usually appears in libraries but, for example, you can research there how to structure how ...
+
+00:06:41 SPK_1
+No, architecture architecture of folders and there will be several people talking about various architectures.
+
+00:06:56 SPK_1
+No, this one is another roll.
+
+00:06:58 SPK_1
+Structuring a project away.
+
+00:07:05 SPK_1
+Here the guy will talk about, he has blocks, models, repositories will be several tips and in the end when we choose some architecture to follow for example here he has a different architecture also is by representations, domains and data as it will be to Following his folder, there is a lot on this subject.
+
+00:07:40 SPK_1
+So what happens?
+
+00:07:41 SPK_1
+Usually we, when we define something, we do the architecture of it, right?
+
+00:07:47 SPK_1
+Imagine, I'll have a next agent.
+
+00:07:49 SPK_1
+So imagine that we are here at the root, so we will have models, that we will put the entities.
+
+00:07:59 SPK_1
+We will have screens, that we will put screens from the user.
+
+00:08:06 SPK_1
+We will have database services, device there we will have the uses of the code let's assume that you have a regular, something to convert JSON file, I don't know, some basic uses.
+
+00:09:06 SPK_1
+And then, for example, here in Screens we can have the following.
+
+00:09:11 SPK_1
+We will do by module, let's suppose, just an example, it doesn't have to be so.
+
+00:09:17 SPK_1
+We do it by module, that is, imagine that you have the student there, so I will have the student.
+
+00:09:24 SPK_1
+And then, inside this student, I will have the name of the screen.
+
+00:09:29 SPK_1
+Screen name.
+
+00:09:32 SPK_1
+Beauty, but I will also have another folder called components that in this folder I put there the components that I will reuse elsewhere I don't know, imagine there an avatar of the user profile there I put here right avatar profile user.dart, which It is the name of the file.
+
+00:09:58 SPK_1
+This will be within Component, which I reuse inside the student, within the student's folder.
+
+00:10:07 SPK_1
+Just an example.
+
+00:10:07 SPK_1
+And then when we define, we'll make this little structure here will comment on her there just follow, get it?
+
+00:10:15 SPK_1
+Ah, there is a component that I use there inside the project screen I reuse in the project, I reuse in the detail of the project I also use in know where, beauty, what is ...
+
+00:10:27 SPK_1
+What is the ...
+
+00:10:30 SPK_1
+The folder that connects all these two files that I'm doing.
+
+00:10:35 SPK_1
+Ah, it's the Projects folder.
+
+00:10:37 SPK_1
+Ah, then create a folder called the component inside the project folder and inside you put this component.
+
+00:10:46 SPK_1
+Did you understand?
+
+00:10:52 SPK_1
+It's just an example, like, how it can be, but in the end we ...
+
+00:10:58 SPK_1
+No, the idea of ​​how it will be exactly it doesn't have to be what I'm talking about, I'm just giving an example.
+
+00:11:06 SPK_1
+But what I'm saying is that we will have, for example, it can be in the project's readme, we will have a place saying how is the architecture.
+
+00:11:15 SPK_1
+Did you understand?
+
+00:11:16 SPK_1
+We will have the model folder.
+
+00:11:19 SPK_1
+In the Models folder will have that, that, that.
+
+00:11:21 SPK_1
+We will have the Screens folder.
+
+00:11:23 SPK_1
+The Screens folder will have that, this, that.
+
+00:11:26 SPK_1
+We will have the service folder.
+
+00:11:29 SPK_1
+The service folder will have that, that, that.
+
+00:11:32 SPK_1
+And here I was explaining how we could manage these components that are reused.
+
+00:11:38 SPK_1
+For example, using the component folder.
+
+00:11:42 SPK_1
+That we can put inside some folder depending on where we reuse these components only that the idea of ​​putting components here in the main folder as it is being done here for example here I am in the LIB folder in LIB I have a folder called components This is not very cool because you don't know very well where these compounds are, where they are being reused.
+
+00:12:20 SPK_1
+And then, in case when you, let's suppose, I have the Screens folder, let me separate right here.
+
+00:12:27 SPK_1
+I have the screens folder, inside this screens folder I have the students folder.
+
+00:12:32 SPK_1
+And there inside this folder students I have, I don't know, student or student details.
+
+00:12:42 SPK_1
+And then I have some component that I created inside Datagrideluno.
+
+00:12:48 SPK_1
+Then I will component this thing.
+
+00:12:50 SPK_1
+Then I create a folder called component.
+
+00:12:54 SPK_1
+And this component folder I will have another file called, I don't know, the student's avatar.
+
+00:13:08 SPK_1
+And then I reuse it inside.
+
+00:13:10 SPK_1
+But I may create another file, I don't know.
+
+00:13:16 SPK_1
+Edit student profile.
+
+00:13:24 SPK_1
+And then this avatar here of the student, I will use both in student details and edit student profile.
+
+00:13:34 SPK_1
+So as I use only here inside these two, I create this component folder inside the student folder and put the student's avatar inside this folder.
+
+00:13:45 SPK_1
+Can you understand this well?
+
+00:13:51 SPK_1
+I understood.
+
+00:13:51 SPK_2
+So the component is just for that part.
+
+00:13:53 SPK_1
+That.
+
+00:13:54 SPK_1
+Then I have another, I have here manager.
+
+00:14:00 SPK_1
+Same thing, I'll have a folder called Component, and here I will have details of the manager and then we will suppose that inside I have something else, I don't know.
+
+00:14:20 SPK_1
+Only there is something to think about.
+
+00:14:23 SPK_1
+Now let's assume that I have this one here, the student's avatar.
+
+00:14:27 SPK_1
+But this student's avatar I can also use here within the manager's detail.
+
+00:14:31 SPK_1
+So what do I do?
+
+00:14:32 SPK_1
+I take this folder from here and I put inside what is common in both folders, which is the Screen folder.
+
+00:14:38 SPK_1
+Then the Screen folder can have a component folder that will have, I don't know, the avatar.
+
+00:14:44 SPK_1
+User avatar.
+
+00:14:49 SPK_1
+And then I use the user's avatar on both student and manager.
+
+00:14:54 SPK_1
+Here I won't need it anymore.
+
+00:14:57 SPK_1
+Did you understand?
+
+00:14:58 SPK_1
+So this here I use inside screen because screen is where the student has and where the manager has.
+
+00:15:05 SPK_1
+Only when I put the component here, for example ...
+
+00:15:11 SPK_1
+I will not use the component inside the model, I will not use the component within the service.
+
+00:15:16 SPK_1
+So it makes no sense to stay here.
+
+00:15:20 SPK_1
+Ideally, it should be at the root where I will start using it.
+
+00:15:25 SPK_1
+Did you understand?
+
+00:15:28 SPK_1
+He has.
+
+00:15:28 SPK_2
+You can understand.
+
+00:15:31 SPK_1
+Exactly, and then we are going to do it here today, we will already define this architecture until the end of the day, and we will put it on readme, make a discussion on whatsapp, you get the doubts, oh, I did not understand this Part here and such, and we structure for that kind, okay?
+
+00:15:50 SPK_1
+So, the first thing is to change this service here, so we already have a folder service that makes sense, service, but it makes no sense is the way it is written.
+
+00:16:02 SPK_1
+So, transforming this here into a service class itself, following the common standard of service, is to take these functions here that go to the database.
+
+00:16:14 SPK_1
+This is no longer going to the database.
+
+00:16:16 SPK_1
+This from here who will do it will be the service.
+
+00:16:20 SPK_1
+Okay?
+
+00:16:20 SPK_1
+But calm down, this can be last.
+
+00:16:22 SPK_1
+that is working and everything.
+
+00:16:25 SPK_1
+I think the most important thing, for now, is to repair the classes there.
+
+00:16:29 SPK_1
+And then we can finally leave this part of arranging the provides and services and defile their responsibility, each has its own responsibility.
+
+00:16:45 SPK_1
+Structure architecture.
+
+00:16:48 SPK_1
+I think that's it.
+
+00:16:49 SPK_1
+But we go through the day by putting there on Whatsapp, saying how it will be things, the moment we can make this discussion here from the CP table, if we really will do it, besides putting twice the load Cognitive, put the sum, which in the case here gives 15, but we put 30 because it was double, because some some cd works do it, they give double.
+
+00:17:20 SPK_1
+But I think in that context is one thing, in our context is different.
+
+00:17:24 SPK_1
+So we realize right looking here I even made a chart to see a dispersion of the two of the classes right here are the complexity and this is the number of lines so you see that has classes with many lines and a complexity Very big and then our distribution right in the face of the whole project, it is a very high dispersion so, of course, there is a small concentration here and the idea is that we go pulling everyone here that we concentrate everyone here the chart, This final dispersion table we want is that everyone is concentrated everything here that takes these guys from here and bring them more here and this one is similar, but it is just for you to see that this blue part of the bar is the number of lines and this orange orange or yellow part, I don't know, it's complexity, right?
+
+00:18:34 SPK_1
+So here you can see that the higher the lines of code, the greater the complexity of the class.
+
+00:18:43 SPK_1
+So, if we want to decrease the complexity of the class, we have to keep them with amount of smaller lines, right?
+
+00:18:50 SPK_1
+So that's the idea.
+
+00:18:53 SPK_1
+So if we go to ICP 15, the idea is that we stay here, right?
+
+00:18:59 SPK_1
+And that this dispersion diminishes here.
+
+00:19:06 SPK_1
+Beauty?
+
+00:19:14 SPK_1
+So, what do you think we take the animated edit here?
+
+00:19:22 SPK_1
+It is because the idea is that the.
+
+00:19:23 SPK_2
+João Pedro and Alohan worked this part, but this part of animation is.
+
+00:19:28 SPK_1
+A half boring part.
+
+00:19:46 SPK_1
+Because it requires a lot of time from the person, in fact.
+
+00:19:49 SPK_1
+You will make an animation of a screen, you have to go there, test, see how the animation will interact.
+
+00:19:57 SPK_1
+Sometimes, even when you need to make a very complex animation, you have to draw, so draw between quotes, right?
+
+00:20:03 SPK_1
+Make it almost frame the frame.
+
+00:20:05 SPK_1
+Because the flutter is 60fps, 60 frames per second, and sometimes you have to draw frame by frame what you need to do.
+
+00:20:13 SPK_1
+Now imagine such a screen, so the amount of code is absurdly high.
+
+00:20:19 SPK_1
+So it's a part so that maybe why I put here the implicit and explicit animation.
+
+00:20:27 SPK_1
+In implicit and explicit animation, basically flap is there and has no difficulties.
+
+00:20:34 SPK_1
+Sometimes you only have one animation controller.
+
+00:20:37 SPK_1
+But when you have, for example, Custom Painting.
+
+00:20:41 SPK_1
+If you have become this class.
+
+00:20:44 SPK_1
+She will have to configure several things there in the class.
+
+00:20:47 SPK_1
+Then it is very difficult.
+
+00:20:48 SPK_1
+You put the controller, but you work other parts.
+
+00:20:51 SPK_1
+Works with the Animation class.
+
+00:20:55 SPK_1
+I work with the Twin class, Twin Animation as well.
+
+00:20:58 SPK_1
+So there are many settings.
+
+00:21:00 SPK_1
+Anyway, the class should be ...
+
+00:21:02 SPK_1
+She gets very big indeed.
+
+00:21:04 SPK_1
+But how we won't work, right?
+
+00:21:08 SPK_1
+Neither João Pedro is in a phase of ...
+
+00:21:12 SPK_1
+It's going to do Enem, it's very busy, Lourenço is doing a master's degree, so this guys from the front, right, who was going to work, didn't give them, right, so ...
+
+00:21:21 SPK_1
+So I couldn't explore this part of the design front and everything.
+
+00:21:30 SPK_1
+Fortunately, right, but a next opportunity there may be able to study more about it.
+
+00:21:37 SPK_1
+So the idea is this.
+
+00:21:39 SPK_1
+We take it here because we will be focused on the same features.
+
+00:21:58 SPK_1
+And there...
+
+00:22:02 SPK_1
+Only ...
+
+00:22:05 SPK_1
+Yes, yes.
+
+00:22:08 SPK_1
+It's because ...
+
+00:22:09 SPK_1
+Oh, I don't know that João Pedro arrives until the end of the day and say he will ...
+
+00:22:14 SPK_1
+that he will do refactoring too.
+
+00:22:17 SPK_1
+And then we can go back.
+
+00:22:19 SPK_1
+But if he doesn't say anything, I'll take it off.
+
+00:22:24 SPK_1
+Now one thing I'm ...
+
+00:22:29 SPK_1
+It is a part as soon as it is very gray in my head, it is the spine part.
+
+00:22:35 SPK_1
+Row, column and everything.
+
+00:22:39 SPK_1
+For example, I don't know if what makes a class with a very large line of code is precisely the amount of, sometimes column, Row that you put there inside the class, if it would be responsible for making this lock very much Great, this line of code very large.
+
+00:23:02 SPK_1
+Because, for example, if we put here by code, you realize that, for example, we have this class here, that it has 226 lines of code, but its calculating is 12.
+
+00:23:19 SPK_1
+The other has 225 and its calculative is 22.
+
+00:23:23 SPK_1
+So, in my head, I am still trying to understand this relationship between cognitive load of the class and line of code.
+
+00:23:35 SPK_1
+Because, in the end, the idea is also to reduce the number of lines of a class.
+
+00:23:40 SPK_1
+If a class has many lines, it is difficult to understand.
+
+00:23:44 SPK_1
+But if I have a class that has many lines and that its complexity does not increase, then I have a problem, because I am not quantifying the right to complexity.
+
+00:23:57 SPK_1
+So my fear in this research is letting it pass.
+
+00:24:00 SPK_1
+How do you see, for example, language, I don't know, raised about something else?
+
+00:24:09 SPK_2
+Or, of anything, it is.
+
+00:24:14 SPK_1
+The possibility the working time of Java staff, that is, PCDs is most, all the work so far were in Java, but in teams, but so, everyone was senior, were experts, the crowd was very brab and they worked with other metrics, they worked with, for example, line of code, worked class cohesion, coupling and cohesion of the class.
+
+00:24:51 SPK_1
+They worked with ...
+
+00:24:53 SPK_1
+How is the name?
+
+00:24:58 SPK_1
+which is the weight of the class.
+
+00:25:00 SPK_1
+They also worked a part of ...
+
+00:25:04 SPK_1
+How do you call it?
+
+00:25:08 SPK_1
+The inheritance part of the class.
+
+00:25:09 SPK_1
+If a class had a great depth, let's suppose, it was a class that extended a class, and this class already extended another class, and so on.
+
+00:25:22 SPK_1
+It was also another way.
+
+00:25:24 SPK_1
+So there is not exactly one ...
+
+00:25:28 SPK_1
+An item that is the right thing that is wrong depends a lot on the team as we are a team that is starting out nobody is senior for example so this type of more complex metric would not fit here but you can use any type of metric for example line of line Code can be a metric but the idea ...
+
+00:25:50 SPK_1
+You can talk if you sell.
+
+00:25:56 SPK_2
+It's because I didn't cost the CDD, but if the CDD is also intuial, lowering the number of lines, then it makes no sense to take that ...
+
+00:26:05 SPK_2
+Accounting the file.
+
+00:26:07 SPK_2
+Because, for example, there is a part that Tom Ferreira did, which he set up several leaves, several blocks, which was just to show details of the demand.
+
+00:26:19 SPK_2
+So, that's, like, I have increased by about 40 lines, got it?
+
+00:26:25 SPK_1
+Yes.
+
+00:26:27 SPK_2
+But the moon structure in snail had nothing like that.
+
+00:26:32 SPK_2
+It was just a pole moon moon with a rock of cheese.
+
+00:26:37 SPK_1
+Yeah, then the question you have to ask yourself is if when we have a class with, for example, it is to look at these two, it is to look at these two classes, they are classes with approximate lines, let's say that with the same amount Line, since it is 1925, 1926, let's say that the same line amount, that one has almost half the complexity of the other.
+
+00:27:06 SPK_1
+Then we are worth observing these two classes and understanding whether it makes sense of these sublimitive careers because then I put a class that it has 200 lines the other has 200 lines but one has low complexity and the other has high complexity.
+
+00:27:26 SPK_2
+In fact, this plan in the other also has the design of iteers and the sign-in.
+
+00:27:30 SPK_2
+The design of iteiros has 313, has 30 CP points and the Sign-in is 296, which is approximately the same.
+
+00:27:39 SPK_2
+It has only 16 points.
+
+00:27:40 SPK_1
+Yeah, so it would be these two with the two above, right?
+
+00:27:48 SPK_1
+So it would be to look at these two classes and see if really, for example, this edit it has many lines, but it really is very easy to understand.
+
+00:28:06 SPK_1
+This other here, she has many lines and is hard to understand.
+
+00:28:11 SPK_1
+Only you have to take it off your head.
+
+00:28:13 SPK_1
+When we look at these classes, you have to take the amount of CP out of your head, the amount of lines.
+
+00:28:20 SPK_1
+Just look at the class and realize.
+
+00:28:23 SPK_1
+She is hard to understand.
+
+00:28:25 SPK_1
+Because if both, if you take CDD head, we are talking about difficulty understanding the class, the complexity of the class, the readability of the class, if it is easy to read it, or if it is very complex, it requires you Navigate a lot by the cosmos, she requires you to understand many concepts, understand?
+
+00:28:49 SPK_1
+So, look at both classes, forgetting everything, and first answer, no, really, they have the same line amount, but they are ...
+
+00:28:56 SPK_1
+One is much more complex than the other.
+
+00:28:59 SPK_1
+Because it's almost double, right?
+
+00:29:01 SPK_1
+So it must be much more complex than the other.
+
+00:29:04 SPK_1
+So I think it's the first exercise we need to do.
+
+00:29:07 SPK_2
+Hey?
+
+00:29:07 SPK_2
+I imagine that the complexity area must be high, as it is in the world, and ...
+
+00:29:15 SPK_2
+I won't have any block, right?
+
+00:29:20 SPK_2
+That is, it is very normal.
+
+00:29:23 SPK_2
+Yeah, it can be.
+
+00:29:24 SPK_2
+But then, it is, we have to look and see if the readability.
+
+00:29:31 SPK_1
+And that.
+
+00:29:39 SPK_1
+So it's something I'm going to be there during Diogo organizing these two classes for you to look at her like this.
+
+00:29:47 SPK_1
+Take about 10 minutes to see each of the classes and think about, oh no, these classes here, one is like that, the other is baked and we make the comparison.
+
+00:29:59 SPK_1
+And then we can reach consensus, the number of class lines it does not actually determine its complexity.
+
+00:30:07 SPK_1
+And then we can eliminate the issue of putting Column, Row, like an IFP.
+
+00:30:14 SPK_1
+If not ...
+
+00:30:16 SPK_2
+I saw now that this is the distribution of demands that I made.
+
+00:30:22 SPK_2
+And in this distribution of demands, in fact, it could be divided into three parts.
+
+00:30:27 SPK_2
+Because in fact it is already divided into three parts, because the parts of the distribution do not remember the deal behind it.
+
+00:30:37 SPK_1
+Let me see where it is what is the class even I forgot?
+
+00:30:44 SPK_1
+Edit, Create, it's form right?
+
+00:30:49 SPK_1
+or not?
+
+00:30:53 SPK_2
+Yeah, it's forms, then he sends and he brings Forms you will see that I created two classes of the same thing, you can just have divided ah.
+
+00:31:08 SPK_1
+Okay, but I think we have a question here too.
+
+00:31:13 SPK_2
+No, but it's added, it's written like that.
+
+00:31:15 SPK_1
+The risk load is 28.87.
+
+00:31:16 SPK_2
+Then the demand is here, right, it's added, it's 22.
+
+00:31:39 SPK_1
+Calm down.
+
+00:31:41 SPK_1
+I didn't understand.
+
+00:31:42 SPK_2
+Wow, what did we say like this?
+
+00:31:46 SPK_2
+In that then, it is ...
+
+00:31:48 SPK_2
+It has two classes, in fact.
+
+00:31:50 SPK_1
+Yeah, two classes.
+
+00:31:53 SPK_2
+Liquid, liquid and demontic.
+
+00:31:55 SPK_2
+And it ends the total liquid, but at least what's up here, which I'm seeing now, has points, has total of 7 cp.
+
+00:32:04 SPK_2
+There is another one below, which is called liquid and demerical.
+
+00:32:07 SPK_2
+She's 15.
+
+00:32:09 SPK_2
+Then in this excel, she's 22, which is precisely the sum between 15 and 7 more.
+
+00:32:18 SPK_2
+Then if we separate ...
+
+00:32:20 SPK_1
+No, you know why?
+
+00:32:22 SPK_1
+I think it was missing Git Pull there.
+
+00:32:25 SPK_1
+She has 22 really.
+
+00:32:26 SPK_1
+The Demand link has 22.
+
+00:32:28 SPK_1
+Edit Create Demand has 12.
+
+00:32:32 SPK_2
+Ah, then forget what I said.
+
+00:32:34 SPK_2
+Yeah, forget what I said.
+
+00:32:42 SPK_1
+Okay, beauty.
+
+00:32:43 SPK_1
+Yeah, it's here, Oh.
+
+00:32:43 SPK_1
+Precisely, it is ...
+
+00:32:47 SPK_1
+It is, precisely, it is good that everything is in the same file, right?
+
+00:32:52 SPK_1
+The two classes we want to compare.
+
+00:32:55 SPK_1
+So why ...
+
+00:33:00 SPK_1
+Calm down, let me see.
+
+00:33:02 SPK_1
+Edit, Create ...
+
+00:33:03 SPK_1
+Oh no, the other is ...
+
+00:33:09 SPK_1
+Edit, Create, is another, is Project Forms.
+
+00:33:13 SPK_1
+So that's what I imagined.
+
+00:33:25 SPK_1
+It's because it's a form, right?
+
+00:33:27 SPK_1
+So, being a form, you don't have much to abstract it here.
+
+00:33:33 SPK_1
+I mean, it may be until it would have.
+
+00:33:41 SPK_2
+No, if I used a package, I think it would be easier, or the form staff, or the ...
+
+00:33:45 SPK_1
+No, it's not.
+
+00:33:49 SPK_1
+It's because ...
+
+00:33:51 SPK_1
+It's because ...
+
+00:33:52 SPK_1
+Remember it was a textformbuild here?
+
+00:33:56 SPK_1
+Even without being a ...
+
+00:34:00 SPK_1
+Or a textformbuildblock, which is what are you going to use the form there?
+
+00:34:05 SPK_1
+You would have to repeat these guys here anyway.
+
+00:34:13 SPK_1
+It's because there is a form, right?
+
+00:34:17 SPK_1
+Then...
+
+00:34:21 SPK_1
+I think this is the difference between these classes.
+
+00:34:25 SPK_1
+It is because the form, it does not necessarily make a complex class.
+
+00:34:29 SPK_1
+It only increases the number of lines, in fact.
+
+00:34:38 SPK_1
+Okay, but I think each person has to make the observation and make their conclusion and then curse on consensus.
+
+00:34:50 SPK_1
+Beauty, so I will update this table here, put the quantity, but in this case it will fall to 14 if I take this guy here.
+
+00:35:10 SPK_1
+And then it would be, let me see 14, would not change, because these guys here were 14, I was going to continue this here, let me change here beauty, so it will be 14 actually, right, leaving this guy here.
+
+00:35:51 SPK_1
+And we just have to see whether or not to consider Column, right, Column Row, List View, for example.
+
+00:35:59 SPK_1
+And then consider we go back 15, but for now we are without him.
+
+00:36:07 SPK_1
+I think that's it.
+
+00:36:08 SPK_1
+Any more consideration from someone?
+
+00:36:24 SPK_1
+Okay, beauty.
+
+00:36:25 SPK_1
+Then I go with Enzo, we will see the issue of the architecture of the folder when we choose, we will also give a text, some article for you to see.
+
+00:36:40 SPK_1
+Article like a blog of such life.
+
+00:36:44 SPK_1
+For you to see about this architecture that we will use.
+
+00:36:50 SPK_1
+Be it form block or componentization, things like that.
+
+00:36:55 SPK_1
+And then we can put there in the readme what is the folder structure, for you to understand and such.
+
+00:37:01 SPK_1
+But the idea today is just to do this organization and from tomorrow that we start the refactoring of fact.
+
+00:37:10 SPK_1
+Beauty?
+
+00:37:16 SPK_1
+And then I will separate from the project these two classes do not look inside the visual code because I want you to look in a quieter place, for example looking in two tabs each of the two classes that we want to compare there think in the first class, think In the second, see if their complexity makes sense, whether the amount is really impacting or not.
+
+00:37:49 SPK_1
+It may be yes, it may not.
+
+00:37:51 SPK_1
+We just want to know if the team impacts or not.
+
+00:37:56 SPK_1
+There is no truth.
+
+00:37:57 SPK_1
+There is a truth, let's say, from the team, us.
+
+00:38:00 SPK_1
+Our truth is that it is impacting.
+
+00:38:02 SPK_1
+Or not, it is not.
+
+00:38:03 SPK_1
+So that's it, you don't have to.
+
+00:38:05 SPK_1
+Beauty?
+
+00:38:11 SPK_1
+So until noon I will be sending these two links, I will send the updated table, and then if you need to update at the end of the day, we consider and update again and send it again.
+
+00:38:23 SPK_1
+Beauty?
+
+00:38:25 SPK_1
+And then give a git pull there in the project and then you take a look at how to get used to the standard of the comments and even observe where to put the ICP so as not to forget, finally, during the process of refactoring.
+
+00:38:48 SPK_1
+Beauty?
+
+00:38:54 SPK_1
+So that's it, thank you so much for being part of this week there.
+
+00:39:02 SPK_1
+Until any moment there.
+
+00:39:04 SPK_1
+He said, even more.
